@@ -1,0 +1,3 @@
+- Bir sorun halinde "\AppData\Local\SM3DL" yolunu temizleyin.
+
+- Oyun pencere modunda başlar. F4 düğmesiyle büyütebilirsiniz.

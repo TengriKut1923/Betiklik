@@ -1,0 +1,94 @@
+1. Playing Levels-------------
+
+To play custom levels, select 'Play Levels' from the main menu. This will open a window, which will
+let you select a level. The default path is 'AppData/Local/RaymanReDesigner', but you can load levels from anywhere.
+Each level has a set amount of Cages, Gifts and Magician Tokens. Can you get them all?
+
+2. Creating Levels------------
+
+To create custom levels, select 'Make Levels' from the main menu. This will prompt you to either start fresh
+or load a pre-existing level to edit.
+
+You can move around in the editor in multiple ways:
+-Pan with MMB or WASD
+-Zoom with the Mouse Wheel while pressing LCTRL
+-Scroll the camera vertically with the wheel, or horizontally while pressing LSHIFT
+
+The editor has 4 tabs in total, from left to right: 'Properties', 'Collision Types', 'Tiles', 'Objects'.
+
+The 'Properties' tab contains general information about your level, including tools to change between sections, testing your 
+level, and saving and editing the general editor settings.
+
+The 'Collision Types' tab allows you to add and edit collisions.
+Select a type from the list or the level with LMB and paint with RMB.
+
+The 'Tiles' tab allows you to edit the tiles in your levels. Clicking the 'Show Template' button will take you to the
+template. Select tiles from the template or the level with LMB and paint with RMB.
+Each section has 8 tile layers in total. You can change the tileset of a layer by clicking the grid -button.
+Layer 2 will appear on top of layer 1, layer 3 on top of layer 2, and so on.
+
+The 'Objects' tab allows you to add, delete and modify the objects in your level. All the objects are divided into categories
+and subpages. You can scroll through these with the arrow buttons. Select an object from the list and add it with RMB.
+Once you have placed your object, clicking it with LMB will open its properties on the bottom left. What properties
+you can edit depend on the object itself.
+The most important of these properties is the 'Gen/Kill ID', which almost every object has. It is the ID which determines if an object will appear or disappear when the player interacts with a gendoor or 
+a killdoor.
+
+Hey buddy, as a special reward for actually reading the readme, press home in the editor and enter this code and gain access to
+some special objects: 'rdmrt'
+
+3. Custom Assets--------------
+
+You can add custom music, custom backgrounds and other custom graphics to your levels from the Background and Music Selection menus, or with the custom graphic object.
+Place all of your custom files to the Custom folder next to the exe. Music files need to be in ogg-format.
+Clicking the 'Custom Background' and 'Custom Music Track' fields will open a window which lets you to select the files.
+The custom graphic object allows you to display any external images, as long as they are in .png format.
+Subfolders can be used for custom assets. As long as these folders are also inside the Custom parent folder.
+
+If you share a level which uses custom assets you need to bundle those with your level.
+
+CAUTION is required when using custom graphics. Since there is no limitation on how many or how big assets you can use, you could run into memory issues.
+If you want to use custom graphics for custom tiles, it's adviced to use a single large image for the entire level layout instead of hundreds of small ones for each tile.
+
+4. Hotkeys/Tricks-------------
+
+The editor contains a handful of hotkeys and other tricks which can help your workflow:
+
+Q - Swap between the tile template and your level
+R - Moves the Starting Position with the ID of 0 to the mouse
+E - Toggless grid snapping for objects
+G - Show/Hide the grid guides
+P - Reset editor position
+L - Toggle link visibility
+, - Zoom out
+. - Zoom in
+CTRL+ENTER - Reset editor camera zoom
+1, 2, 3 and 4 - Change editor tabs
+O - Enter testmode
+Q - Allows you to fly in testmode
+T - Show debug objects
+
+CTRL+C - Copy the selected object
+CTRL+V - Paste selected tiles or the selected object
+CTRL+Z - Undo
+CTRL+Y - Redo
+CTRL+S - Save
+
+Arrow Keys - Move the selected object pixel by pixel
+Arrow Keys while holding LCTRL - Change the width and height of the selected object
+Add on numpad - Increase the Gen/Kill ID of the selected object
+Substract on numpad - Decrease the Gen/Kill ID of the selected object
+Multiply on numpad - Open the Gen/Kill ID prompt
+F - Flip the selected object
+DELETE - Delete the selected object
+
+Quick Linking:
+If you have selected an object, hold LCTRL and click another object to quickly link them together.
+This can be useful if you need to change the ID of a large amount of objects.
+
+2. Troubleshooting------------
+
+Since ReDesigner reads and writes to the level files, some antiviruses might see this as a threat and block this action.
+So, if something weird happens with saving/loading levels, try to mess around with your antivirus.
+
+If you run into weird memory related crashes, try minimizing the use of custom graphic objects.

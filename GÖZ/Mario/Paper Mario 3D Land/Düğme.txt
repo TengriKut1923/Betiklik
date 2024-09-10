@@ -1,0 +1,7 @@
+Arrow Keys / D-Pad: Move
+Enter / Start: Pause / Start
+A / Left Button: Running / Back (can be configured for keyboard)
+S / Down Button: Jump / Confirm (can be configured for keyboard)
+Q / L2 Button: Camera Left (can be configured for keyboard)
+W / R2 Button: Camera Right (can be configured for keyboard)
+F4: Full Screen
