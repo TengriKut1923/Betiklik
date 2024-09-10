@@ -1,0 +1,11 @@
+A  – Move Left
+S – Kneel
+S 2x – Morph Ball
+D – Move Right
+Q – Scan Visor toggle
+Space Bar – Jump, Release Grip
+Mouse movement – Aim cursor
+Left click – Shoot, Switch back to Battle visor, Lay Bomb
+Right click – Scan items, Missile
+ESC – Map/Status/Logbook
+F4 - Full Screen
