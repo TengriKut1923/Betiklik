@@ -1,0 +1,26 @@
+Paper Mario 3D Land is a fully 3D Paper Mario fangame developed by DJ Coco with a large amount of custom sprites done by Chaoxys. It combines a Super Paper Mario-inspired combat system and the 3D environments of other Paper Mario games (largely inspired by Paper Mario: Sticker Star) with the gameplay mechanics and themes of Super Mario 3D Land and Super Mario 3D World. The majority of the sprites are done in the original N64 Paper Mario style. The main reason DJ Coco chose to make it a Paper Mario themed game was because he didn't want to create 3D models for it. Paper Mario 3D Land is the first full-length 3-D fangame on MFGG.
+
+Gameplay
+The camera and physics are similar to that of an official Paper Mario game (although, there is now a button to run). The combat is inspired by Super Paper Mario, so you jump on an enemy to attack it, assuming you don't have a Fire Flower. You can have a maximum of 20 health at a time. Being hit by an enemy makes you lose health. If you run out of health, you lose a life, and must start the level from your last checkpoint.
+
+This game also has a number of items:
+
+Fire Flower - This allows you to shoot fireballs by pressing the Run button
+Dandelion Flower - This give you a small double jump and lowers your gravity midair, so long as you are holding the Jump button
+Mole Suit - This allows you to dig underground. You move slower, but are not harmed by enemies
+Mushroom - This restores 10 health
+Red Upcake - This Upcake boosts your attack for a short time.
+Blue Upcake - This Upcake boosts your defense for a short time.
+Roughly halfway into a level, there is usually a checkpoint sign (inspired by Charlie the Duck). Hitting this will make you respawn there if you run out of health. In every level, there are three Green Stars. Every Boss Stage requires a certain amount of Green Stars to have been collected before you may enter it.
+
+Levels are entered by way of a world map that resembles the one found in Paper Mario: Sticker Star, with some levels being required while others are optional.
+
+Music
+The game's music is primarily taken from various Paper Mario games, however there are some tracks from the Super Mario 3D World soundtrack.
+
+Reception
+This fangame was generally well received, being given the Game of the Month award for September 2014. However, it was criticized for its difficulty (though less difficult than some of DJ Coco's other games, especially after the updated version of this game). Many players also thought that the physics were too close to that of Paper Mario, and that it made the platforming aspect too difficult. It was also criticized for the fact that it would force a player to use a gamepad, assuming it was plugged in (and the gamepad controls, due to not being tested, were considered very bad).
+
+It was praised for its successful blending of the Paper Mario series with Super Mario 3D Land and Super Mario 3D World (though it does, ironically, take much more influence from Super Mario 3D World than Super Mario 3D Land). It was also known for having very creative boss fights.
+
+Despite the flaws, its reviews gave it an average of 8 out of 10.

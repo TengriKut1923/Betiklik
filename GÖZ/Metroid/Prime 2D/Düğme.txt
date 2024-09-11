@@ -1,6 +1,6 @@
 A  – Move Left
 S – Kneel
-S 2x – Morph Ball
+S x2 – Morph Ball
 D – Move Right
 Q – Scan Visor toggle
 Space Bar – Jump, Release Grip
