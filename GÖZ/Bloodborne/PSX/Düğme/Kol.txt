@@ -1,0 +1,12 @@
+Move: D-Pad
+Rotate Camera: Left and Right Trigger
+Attack R: R1
+Attack L: L1
+Lock On / Interact: Face Button Bottom (PS1 X)
+Use Quick Item: Face Button Top (PS1 Triangle)
+Cycle Quick Items: Select
+Dodge / Sprint (Hold): Face Button Right (PS1 Circle)
+Walk: Face Button Left (PS1 Square)
+Pause / Back: Start
+Navigate Menu: D-Pad
+Select Menu Option: Face Button Bottom (PS1 X)

@@ -1,0 +1,12 @@
+Move: WASD
+Rotate Camera: Left and Right Arrow
+Attack R: Up Arrow
+Attack L: Down Arrow
+Lock On / Interact: E
+Use Quick Item: R
+Cycle Quick Items: Tabs
+Dodge / Sprint (Hold): Space Bar / Shift
+Walk: Left Crtl
+Pause / Back: Escape, Q
+Navigate Menu: Arrow Keys
+Select Menu Option: Enter

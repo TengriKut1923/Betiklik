@@ -1,0 +1,39 @@
+The Super 1-1 Challenge is a time trial FPS where the goal is to reach the end of the course, finding all golden coins and all hidden red coins in the fastest time possible.
+
+-----------------------------------------
+
+Instructions:
+
+Make your way to the flag defeating as many Goombas as possible as well as collecting as many coins as you can. Share you scores with your friends!
+
+You can collect coins by either running into them, hitting them out of ? blocks or shooting them with a plunger.
+
+You can defeat Goombas by stomping on them or shooting them with a plunger. Be careful not to get too close or you will die. 
+
+Your health is measured by the colour of your plunger;
+"Brown" - 1/3
+"Red" - 2/3
+"Black" 3/3
+
+Every time you take damage you lose a health point and return to the previous colour. You can upgrade your plunger colour by finding super mushrooms in ? boxes.
+
+-----------------------------------------
+
+Minimum System Requirements:
+
+Requires a 64-bit processor and operating system
+OS: 64-bit Windows 7, Windows 8.1, Windows 10
+Processor: Intel Core i5-4430 / AMD FX-6300
+Memory: 8 GB RAM
+Graphics: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB
+DirectX: Version 11
+Storage: 1 GB available space
+
+-----------------------------------------
+
+Known Issues:
+
+- This game is made for mouse and keyboard but lacks customisable keys
+- The game was briefly tested with an Xbox 360 controller (but not extensively)
+- No language options
+- Some people don't know the Konami code - huh?
