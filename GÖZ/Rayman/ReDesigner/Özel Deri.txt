@@ -1,0 +1,5 @@
+Özel derilerinizi (Custom Skin) istediğiniz konuma atabilirsiniz.
+
+- "C:\TengriKut1923\O\6631211F\Custom"
+
+- "\AppData\Local\RaymanReDesigner\Custom"
