@@ -1,0 +1,3 @@
+Bu bir rom hack değil. Klasik arcade oyununun yeniden yapımı. Orijinalinden daha zor. Yeni seviyeler, öğeler, zorluklar eklendi. Mame arcade kabinlerinde oynanıyormuş hissi verilmeye çalışıldı.
+
+Yalnızca Windows 10 veya önceki sürümlerde çalışır.
