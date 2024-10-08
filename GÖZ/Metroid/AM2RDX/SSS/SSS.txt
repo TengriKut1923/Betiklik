@@ -1,0 +1,52 @@
+- Why are my screenshots so big?
+
+The screenshots are now taken with the size of the displayed window.
+If you want the classic 320x240 screenshots, set the display to Windowed 1x
+before pressing F12.
+
+- I have an Arcade cabinet, can I exit AM2R with just 1 key?
+
+Sure! After running the game once, go to this folder:
+C:\Users\[Your User Name]\AppData\Local\AM2R
+And edit config.ini, setting the following values:
+EnableExitButton=1 (should be 0 by default)
+KeyboardButtonExit, JoystickButtonExit and XBJoypadButtonExit can be used to
+customize which button / key is used to exit. Default is ESC for keyboard,
+Back for XInput, and button 10 for DirectInput.
+
+- How do I load custom title images/backgrounds/area intros?
+
+Title images: Place your custom image within the /lang/titles/ folder. It must use the following name format: 'language_x000_y000.png'.
+	- Replace 'language' with the same name as the language file you use. This is the name in the file header, not the filename. 
+	- Replace '000' after both 'x' and 'y' with the necessary coordinate offsets. 
+	- For example, a valid title file might be named 'english_x048_y032.png'
+	- If you need a negative 'x' title offset (for say, widescreen) simply add a minus sign in front of the 'x' coordinate: 'language_-x000_y000.png'.
+	
+Backgrounds: Place your custom image in the same folder as your AM2R datafile. (AM2R.exe on Windows, game.unx on Linux) It must use the following name format: 'titlebackground_f00_s00.png'
+	- Replace the '00' after 'f' with the number of frames in the background image.
+	- Replace the '00' after 's' with the frame-per-second speed of the animation.
+	- For example, a valid background file might be named 'titlebackground_f01_s60.png'
+
+Area intros: Place your custom sprite strip within the /lang/headers/ folder. It must use the following name format: language_a0_f00_b00_c00_d00_e00.png
+	- Replace the '0' after 'a' with the area ID.
+		- 1. Golden Temple
+		- 2. Hydro Station
+		- 3. Industrial Complex
+		- 4. The Tower
+		- 5. Distribution Center
+		- 6. [has no intro]
+		- 7. Genetics Lab
+		- 8. GFS Thoth
+	- Replace the '00' after 'f' with the number of frames in your sprite.
+	- Replace the '00' after 'b', 'c', 'd', and 'e' with each of the 4 pause frame indices in the sprite.
+	- For example, a valid English A1 intro file might be named 'english_a1_f24_b00_c03_d19_e21.png'
+
+- How do I use external font files?
+
+AM2R uses five different fonts; raw .ttf font files of the exact fonts used in AM2R have been included 
+in the 'fonts' folder of the language folder of AM2R. Two of these fonts (Glasstown NBP and uni 05_53)
+include nearly a thousand new glyphs that allow AM2R to be translated into many non-Latin languages,
+particularly for log messages and various descriptions. The other three fonts (mainly used for GUI elements
+and titles) do not include as many glyphs but these font files can also be updated to include more characters;
+this will not be described here in detail, but the recommended process is to create the new letters
+in BitFontMaker2 and add the letters to the included .ttf files with FontForge, both are free software.

@@ -1,0 +1,9 @@
+To configure the game keys and joypad buttons, go to the options screen. 
+You can change any game options, including the controls, during gameplay.
+XBox 360 Gamepads are detected automatically.
+
+F11 - Show FPS
+F12 - Capture Screenshot
+ESC - Options Menu
+Alt+Enter - Toggle Fullscreen
+Alt+F4 - Exit Game
