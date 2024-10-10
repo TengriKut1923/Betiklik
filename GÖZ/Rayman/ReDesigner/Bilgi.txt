@@ -1,10 +1,10 @@
-1. Playing Levels-------------
+1. Playing Levels
 
 To play custom levels, select 'Play Levels' from the main menu. This will open a window, which will
 let you select a level. The default path is 'AppData/Local/RaymanReDesigner', but you can load levels from anywhere.
 Each level has a set amount of Cages, Gifts and Magician Tokens. Can you get them all?
 
-2. Creating Levels------------
+2. Creating Levels
 
 To create custom levels, select 'Make Levels' from the main menu. This will prompt you to either start fresh
 or load a pre-existing level to edit.
@@ -37,7 +37,7 @@ a killdoor.
 Hey buddy, as a special reward for actually reading the readme, press home in the editor and enter this code and gain access to
 some special objects: 'rdmrt'
 
-3. Custom Assets--------------
+3. Custom Assets
 
 You can add custom music, custom backgrounds and other custom graphics to your levels from the Background and Music Selection menus, or with the custom graphic object.
 Place all of your custom files to the Custom folder next to the exe. Music files need to be in ogg-format.
@@ -50,7 +50,7 @@ If you share a level which uses custom assets you need to bundle those with your
 CAUTION is required when using custom graphics. Since there is no limitation on how many or how big assets you can use, you could run into memory issues.
 If you want to use custom graphics for custom tiles, it's adviced to use a single large image for the entire level layout instead of hundreds of small ones for each tile.
 
-4. Hotkeys/Tricks-------------
+4. Hotkeys/Tricks
 
 The editor contains a handful of hotkeys and other tricks which can help your workflow:
 
@@ -86,7 +86,7 @@ Quick Linking:
 If you have selected an object, hold LCTRL and click another object to quickly link them together.
 This can be useful if you need to change the ID of a large amount of objects.
 
-2. Troubleshooting------------
+2. Troubleshooting
 
 Since ReDesigner reads and writes to the level files, some antiviruses might see this as a threat and block this action.
 So, if something weird happens with saving/loading levels, try to mess around with your antivirus.
