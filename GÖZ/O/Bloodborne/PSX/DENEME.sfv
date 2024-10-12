@@ -1,0 +1,40 @@
+;       203776  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\BBPSX.exe
+;       202825  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\DA73E9C5.ico
+;     62166016  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\BBPSX\Binaries\Win64\BBPSX-Win64-Shipping.exe
+;     92373544  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\BBPSX\Content\Paks\BBPSX-WindowsNoEditor.pak
+;      1369936  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll
+;       117760  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll
+;        49152  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll
+;      1219072  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Clothing_x64.dll
+;      3329536  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Legacy_x64.dll
+;      1043968  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\ApexFramework_x64.dll
+;       265728  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\NvCloth_x64.dll
+;      2105344  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3_x64.dll
+;      1598976  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Common_x64.dll
+;       244736  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Cooking_x64.dll
+;        54784  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxFoundation_x64.dll
+;       188928  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDK_x64.dll
+;      1714176  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll
+;        37888  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll
+;       847440  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\Windows\XAudio2_9\x64\xaudio2_9redist.dll
+;     41033784  00:00.00 2023-10-29 4FCE21FC\WindowsNoEditor\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
+4FCE21FC\WindowsNoEditor\BBPSX.exe 4FCE21FC
+4FCE21FC\WindowsNoEditor\DA73E9C5.ico DA73E9C5
+4FCE21FC\WindowsNoEditor\BBPSX\Binaries\Win64\BBPSX-Win64-Shipping.exe E7FF2A0E
+4FCE21FC\WindowsNoEditor\BBPSX\Content\Paks\BBPSX-WindowsNoEditor.pak F6A4E82B
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll F433392F
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll 1BE8E8DF
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll 53A5E653
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Clothing_x64.dll 6B6626FF
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Legacy_x64.dll D461A3F5
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\ApexFramework_x64.dll F0D21EC3
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\NvCloth_x64.dll A447A251
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3_x64.dll 23972B8F
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Common_x64.dll CB9FA59C
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Cooking_x64.dll 86C56E83
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxFoundation_x64.dll D70674D2
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDK_x64.dll 4AAC57F3
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll 8C1A5CC9
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll 5C18671E
+4FCE21FC\WindowsNoEditor\Engine\Binaries\ThirdParty\Windows\XAudio2_9\x64\xaudio2_9redist.dll 46078D27
+4FCE21FC\WindowsNoEditor\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe 136F2B53

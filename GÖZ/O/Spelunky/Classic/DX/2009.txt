@@ -1,7 +1,4 @@
-=========================
- CONTROLS
-=========================
-
+CONTROLS:
 NOTE: THE CONTROLS CAN BE CONFIGURED WHEN THE GAME LOADS.
 
 Left, Right - Walk
@@ -37,13 +34,10 @@ M           - Toggle Music
 
 - OPEN CRATES AND CHESTS by holding up and pressing X.
 
---------------------
- GAMEPAD SUPPORT
---------------------
+GAMEPAD SUPPORT:
 
 Spelunky does support gamepads natively.  To use a gamepad, plug it into a USB
 slot and then enable gamepads when the game starts.
-
 
            USB
             |
@@ -61,14 +55,7 @@ slot and then enable gamepads when the game starts.
 '     /           \     ' 
  \___/             \___/
 
-
-=========================
- LEVEL EDITOR
-=========================
-
---------------------
- EDITING LEVELS
---------------------
+EDITING LEVELS:
 
 Press F2 at the title screen to go to the level editor.  You will be prompted
 for a level name.  Type in the name of an existing level, or a new level.
@@ -111,9 +98,7 @@ is over the sign.
 You can also click "New Level" to load a new level or "Test Level" to test your
 level (dying or exiting will return you to the editor).
 
---------------------
- PLAYING LEVELS
---------------------
+PLAYING LEVELS:
 
 To play the level, press F3 at the title screen.  You will be prompted for a
 level name.  You can also use the menu to select a level with the mouse.
@@ -121,9 +106,7 @@ level name.  You can also use the menu to select a level with the mouse.
 Note: levels with a "!" as the first character in the name will not show up on
 the menu.
 
---------------------
- SHARING LEVELS
---------------------
+SHARING LEVELS:
 
 Levels are saved as ".lvl" files in your levels directory.  To share a level
 with other players, you can either send them the file or you can simply open
