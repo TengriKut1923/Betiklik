@@ -1,4 +1,3 @@
-
 dx\hd\locale\fonts\7-12-serif\font\license.txt
 dx\hd\locale\fonts\7-12-serif\font\readme.txt
 

@@ -1,4 +1,3 @@
-
 lang\czech.ini
 lang\french.ini
 lang\german.ini
