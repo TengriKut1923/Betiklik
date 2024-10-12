@@ -1,0 +1,50 @@
+;       218374  00:00.00 2023-10-29 455740DC\A3FBC2D2.ico
+;       144896  00:00.00 2023-10-29 455740DC\Super.exe
+;      1868736  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll
+;      3212640  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\NVIDIA\GeForceNOW\Win64\GfnRuntimeSdk.dll
+;      1425920  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll
+;        49152  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll
+;       622592  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\OpenXR\win64\openxr_loader.dll
+;      1219072  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Clothing_x64.dll
+;      3329536  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Legacy_x64.dll
+;      1043968  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\ApexFramework_x64.dll
+;       265728  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\NvCloth_x64.dll
+;      2105344  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3_x64.dll
+;      1598976  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Common_x64.dll
+;       244736  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Cooking_x64.dll
+;        54784  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxFoundation_x64.dll
+;       188928  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDK_x64.dll
+;      1714176  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll
+;        37888  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll
+;       847440  00:00.00 2023-10-29 455740DC\Engine\Binaries\ThirdParty\Windows\XAudio2_9\x64\xaudio2_9redist.dll
+;     41033784  00:00.00 2023-10-29 455740DC\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
+;     49771408  00:00.00 2023-10-29 455740DC\Super\Binaries\Win64\OpenImageDenoise.dll
+;     88046592  00:00.00 2023-10-29 455740DC\Super\Binaries\Win64\Super-Win64-Shipping.exe
+;       383856  00:00.00 2023-10-29 455740DC\Super\Binaries\Win64\tbb12.dll
+;      2311558  00:00.00 2023-10-29 455740DC\Super\Content\Movies\ND_Ident_Red.mp4
+;    440807561  00:00.00 2023-10-29 455740DC\Super\Content\Paks\Super-WindowsNoEditor.pak
+455740DC\A3FBC2D2.ico A3FBC2D2
+455740DC\Super.exe 455740DC
+455740DC\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll E61C9050
+455740DC\Engine\Binaries\ThirdParty\NVIDIA\GeForceNOW\Win64\GfnRuntimeSdk.dll 5C468834
+455740DC\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll 6FF0B744
+455740DC\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll 53A5E653
+455740DC\Engine\Binaries\ThirdParty\OpenXR\win64\openxr_loader.dll D4BD207E
+455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Clothing_x64.dll 6B6626FF
+455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Legacy_x64.dll D461A3F5
+455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\ApexFramework_x64.dll F0D21EC3
+455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\NvCloth_x64.dll A447A251
+455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3_x64.dll 23972B8F
+455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Common_x64.dll CB9FA59C
+455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Cooking_x64.dll 86C56E83
+455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxFoundation_x64.dll D70674D2
+455740DC\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDK_x64.dll 4AAC57F3
+455740DC\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll 8C1A5CC9
+455740DC\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll 5C18671E
+455740DC\Engine\Binaries\ThirdParty\Windows\XAudio2_9\x64\xaudio2_9redist.dll 46078D27
+455740DC\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe 136F2B53
+455740DC\Super\Binaries\Win64\OpenImageDenoise.dll 8FE1F1DE
+455740DC\Super\Binaries\Win64\Super-Win64-Shipping.exe 9C935BD7
+455740DC\Super\Binaries\Win64\tbb12.dll D5E9E13F
+455740DC\Super\Content\Movies\ND_Ident_Red.mp4 5EB58C76
+455740DC\Super\Content\Paks\Super-WindowsNoEditor.pak 6C230C49

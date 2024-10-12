@@ -1,0 +1,385 @@
+Spelunky SD is an expansion and modification of Derek Yu's Spelunky Classic.
+
+It introduces a number of improvements to the original game, fixing bugs, adding optional features (such as commands or game modes), and, most notably, adding online multiplayer support for up to 4 players.
+_____________________________________________________________________________________________
+
+CONTROLS:
+
+By default, controls are as following:
+> Arrows: Move around
+> Z: Jump
+> X: Attack/Use
+> Down+X: Pick up
+> C: Item
+> Esc: Pause
+> A: Rope
+> F: Bomb
+> Shift: Run
+> Space: Buy, enter doors
+> Enter: Chat/enter commands
+> Tab: See inventory of second player and level time
+If needed, you can change controls configuration via /map command (see below).
+
+Misc controls (non-configurable):
+> F1..F4: Set screen scale
+> F5: Toggle music
+> F6: Toggle sounds
+> Enter: Chat/console
+_____________________________________________________________________________________________
+
+ONLINE:
+
+After starting the game and advancing from introduction screen, you will be
+presented with a menu including several options, being:
+ > Local
+ > Host
+ > Join
+
+`Local` is common single-player mode. Multiple of changes and additions also
+span over single-player games, so it may be worth checking out also.
+
+`Join` is used to connect to other player hosting a server. After picking this
+mode, you will be prompted to enter IP (watch out for spaces if pasting) and
+port. Game will attempt to establish a connection afterwards, not requiring
+further investigations on your part.
+
+`Host` is used to host a server that other player could join. To do so, you
+will need to forward a TCP port of your choice (by default, 5394). Otherwise,
+you can use a service such as Hamachi to simulate local area network with other
+player, lifting the need for port forwarding.
+Once second player is connected, you can see the current latency (half of ping),
+start the game, or manually adjust latency limit.
+Latency limit determines, how high the latency can get, before the game will
+pause to wait for lagging player to "catch up". Here it also determines, how
+long it will take, before the game will respond to input. The best choice is
+to adjust this to be as high as average latency gets. Unless changed manually
+(via left/right keys), game will attempt to adjust this automatically. Perceived
+latency values span roughly as following:
+>  33ms: Perfect; close to local multi-player experience.
+>  66ms: Great; this is the recommended limit for fast-paced playthroughs.
+> 100ms: Good; minor planning ahead may be required.
+> 133ms: Average; still playable, but delay is noticeable.
+> 166+ms: Laggy. Not recommended.
+
+If the game is behaving laggy, you can restart it and try setting latency limit
+to a higher value manually. For example, if latency is jumping between 50 and
+80, game may automatically set it to 66, causing micro-freezes whenever latency
+exceeds 66. Manually setting latency to 100, however, will keep the game smooth
+at all times (at price of minimally lowered input responsibility split between
+both players). So make sure to experiment and find what works best for you.
+_____________________________________________________________________________________________
+
+IN-GAME:
+
+Spelunky SD gameplay remains fairly similar to that of original game:
+> Various items can be picked up by pressing [Attack]+[Down] while standing near
+> Some items are used instantly, while others can be used/thrown via [Attack].
+> Crates and chests can be opened by standing by (or holding them) and pressing
+  [Attack]+[Up]. Crates contain items, while chests contain treasures (mostly).
+> Crouching (not running) to the edge will make the player hang over the edge.
+> Damsels can be found through levels and brought to exit to replenish health
+  and revive dead players (see /rl for adjusting behaviour).
+> Bombs can be thrown either via [Bomb] key, or by picking them with [Item] key,
+  pressing [Attack] to set them off, and then throwing them by pressing [Attack]
+> Ropes can be similarly thrown via [Rope] key or by picking item. Using a rope
+  while crouching near the edge will throw it downwards.
+> Level is considered complete once all alive players have left the level.
+> Leaving the level or dying allows one to spectate actions of other player.
+> On default game mode, only money and few special/unique items are shared
+  between the players (see /em and /jl for different game modes).
+> You can buy items from shop by picking the item up to view price, and press
+  [Buy] key to confirm purchase or put down them item to deny.
+> There's always more to explore, so make sure to try different things.
+_____________________________________________________________________________________________
+
+CHAT COMMANDS (GENERAL)
+
+Both in single-player and multi-player, a number of chat commands can be used:
+
+/sound [level]
+Sets sound volume, in %
+
+/music [level]
+Sets music volume, in %
+
+/opacity [value]
+Sets chat opacity/alpha when not active, in %.
+
+/scale [value]
+Sets scale (1..8). Game will not exceed screen size even if scale is higher.
+
+/cap [frames]
+/cap [frames] [post-death frames]
+Enables frame capturing upon pressing the "capture" key (set via Controls menu).
+If the second parameter is provided, the game will also automatically start
+a capture after the given number of frames past player death.
+Every second of game is equal to 30 frames.
+Frame sets are stored in AppData/Local/SpelunkySD/captures and named based on
+capture time and reason (user-initiated or cause of death).
+Captures can be easily assembled into GIFs with help of ImageMagick by executing
+the following command in the capture' directory:
+    convert -delay 3 *.png _capture.gif
+
+/em [index]
+Changes "empathy" mode. This affects, how lives and items are shared between
+players. Values are as following:
+> 0: Default; only money and core items (udjat eye, hedjet, ankh, ...)
+     are shared between players.
+> 1: Everything is shared between players, including lives (and deaths).
+     Stands for an interesting challenge, boosting stupid death effects.
+> 2: "Modifier" items are shared, but lives/bombs/ropes aren't.
+     Somewhat lowers the difficulty, requiring fewer items to be obtained.
+> 3: Everything is shared, except lives.
+     Similar to above, except you can at least waste shared bombs/ropes.
+Due to principles of inner workings, empathy can only be changed while on title
+screen (one containing Spelunky logo).
+
+/pvp
+Enables/disables PVP. Both players must vote for PVP to be enabled.
+When PVP is enabled, players can stun and damage each other easier.
+
+/rl [count]
+Changes number of lives players are granted on a second chance (after damsel is
+successfully escorted). Defaults to 2, max 4, set to 0 for permadeath.
+
+/t, /time
+Displays total session time. Also shows separate times (for current and previous
+successfully completed levels) if jack[s] mode is enabled.
+
+/die
+Kill yourself (as alternative to pause menu option)
+
+/style [index]
+Changes player style. Currently the following values are supported:
+> spelunker: Default; Spelunker
+> damsel: Damsel
+> tunnelman: Tunnelman (does not change the weapon to mattock)
+> qpod: Quadropod (primarily intended for damsels, see below)
+
+/color [color]
+Changes player color. Do not specify color to disable color overlay.
+Accepts both names (red, blue, ..) and hex colors (#fd5, #ff6040, ..).
+
+/dstyle [index]
+Similar to /style, but changes appearance of damsels.
+
+/dcolor [color]
+Same as /color, but for damsels.
+
+/jl [count]
+Enables jack[s] mode with given number of lives. While active, restarting after
+all players have died will regenerate current level, reviving players and giving
+certain penalties on bombs/ropes/money/items.
+This can be particularly useful for practice runs, races, or just messing around
+Setting JL to zero re-enables normal game mode.
+
+/jb [count]
+Sets the number of bombs players respawn with in jack[s] mode.
+Set to -1 to not reset.
+
+/jr [count]
+Sets the number of bombs players respawn with in jack[s] mode.
+Set to -1 to not reset.
+
+/jm [count]
+Sets the money penalty for jack[s] mode.
+Fractional values [0..1] set multiplier (e.g. 0.5 to half the funds each death).
+Negative values set fixed penalty (e.g. -20000 to subtract 20K per death).
+
+/jt [seconds]
+Sets the time penalty for jack[s] mode.
+Time penalty is added to player's time (see /t) if they are dead at the moment
+of level completion.
+_____________________________________________________________________________________________
+
+CHAT COMMANDS (CHEATS)
+
+The following subset of commands is added primarily for debugging purposes,
+but may be also used for entertainment.
+
+/cheats
+Vote for enabling/disabling cheat commands. Cheats only get enabled if all
+players have voted for them (to prevent abuse).
+
+/lives [count]
+Sets the current number of lives
+
+/bombs [count]
+Sets the current number of bombs
+
+/ropes [count]
+Sets the current number of ropes
+
+/protect [ticks]
+Sets player invulnerability timer for given number of steps.
+
+/favor [value]
+Sets Kali favor value.
+
+/spawn [object]
+/spawn [object] [y]
+/spawn [object] [x] [y]
+/spawn [object] [x] [y] [count]
+/spawn [object] [x] [y] [count] [chance]
+Spawns a object by name (e.g. "yeti"). x/y parameters indicate relative position
+to player. Some objects will require offsetting position by -8, 8 to be spawned
+at correct positions. If known, source-level object names (e.g. "oYeti") can be
+used. It is also worth a mention, that spawning certain entities may cause the
+game to glitch or crash, so use uncommon objects at your own risk here.
+List of common object names is available in OBJECTS.txt
+
+/ospawn ...
+Similar to /spawn, but creates objects relative to other player.
+Yes, this is evil.
+
+/mspawn [object1] [object2]
+/mspawn [object1] [object2] [chance]
+/mspawn [object1] [object2] [x] [y]
+/mspawn [object1] [object2] [x] [y] [chance]
+/mspawn [object1] [object2] [x] [y] [count] [chance]
+Spawns object2 relative to each object1.
+
+/count [object]
+Displays number of given object type.
+
+/replace [object1] [object2]
+/replace [object1] [object2] [chance]
+/replace [object1] [object2] [x] [y]
+/replace [object1] [object2] [x] [y] [chance]
+/replace [object1] [object2] [x1] [y1] [x2] [y2]
+/replace [object1] [object2] [x1] [y1] [x2] [y2] [chance]
+Replaces all instances of first object by second.
+Chance is optional and is specified in %.
+Coordinates allow to specify relative point or region to replace in.
+Note: This can be very buggy. Use at your own risk.
+
+/oreplace ...
+Same as /replace, but replaces objects at coordinates relative to other player.
+
+/mreplace [context] ...
+Same as /replace, but replaces objects around the provided object type.
+
+/remove [object]
+Destroys all instances of given object. Good for cases of cleaning up.
+/remove [object] [chance]
+/remove [object] [x] [y]
+/remove [object] [x] [y] [chance]
+/remove [object] [x1] [y1] [x2] [y2]
+/remove [object] [x1] [y1] [x2] [y2] [chance]
+Variants of command with extra parameters, similar to /replace.
+
+/oremove ...
+Same as /remove, but removes objects at coordinates relative to other player.
+
+/mremove [context] ...
+Same as /remove, but removes objects at coordinates relative to provided object type.
+
+/snap
+/snap [object]
+/snap [object] [x] [y]
+Teleports you to other player or object at choice.
+Teleports other player to your location.
+
+/osnap ...
+Same as /snap, but teleports other player.
+
+/msnap [object1] [object2]
+/msnap [object1] [object2] [x] [y]
+Teleports given object towards other object.
+
+/swap ...
+/oswap ...
+/mswap ...
+Same as /snap commands, but swaps positions of objects instead.
+
+/goto [name]
+Transits to given level. Supported options are
+> caves: Level 1
+> jungle: Level 5
+> dark: Level 9
+> temple: Level 13
+> gold: City of Gold
+> olmec: Level 16
+> market: Black market (clamps level to 5..8)
+> [index]: Changes level with given number (1..16)
+_____________________________________________________________________________________________
+
+CHAT COMMANDS (QUEUE)
+
+The following set of commands permit creating lists of commands to execute.
+Note: While powerful, it is also very easy to crash the game with these.
+if things go wrong, feel free to blame yourself.
+
+/qadd [name]
+/qq [name]
+Creates a new queue with given name.
+
+/qdestroy [name]
+/qz [name]
+Destroys a queue with given name.
+
+/qpush [name] [command]
+/qc [name] [command]
+Adds a command to the end of given queue.
+
+/qpop [name]
+/qb [name]
+Removes a command from the end of given queue.
+
+/qrun [name]
+/qr [name]
+Runs given queue.
+
+/qshow [name]
+/qv [name]
+Displays contents of given queue.
+
+/qset [name] [index] [command]
+/qs [name] [index] [command]
+Changes n-th command in given queue.
+
+/qins [name] [index] [command]
+/qi [name] [index] [command]
+Inserts a command before position in given queue.
+
+/qdel [name] [index]
+/qd [name] [index]
+Removes a command from position in given queue.
+
+/qauto [name]
+/qa [name]
+Enables/disables auto-execution of given queue at level start.
+
+/delay [ticks] [command]
+/d [ticks] [command]
+Executes a command after a number of ticks/steps (each step is 1/30 of second).
+
+Example of usage (spawning 2 rocks to sides of player):
+	/qq q1
+	/qc q1 spawn rock -12 0
+	/qc q1 spawn rock 12 0
+	(and then to run it):
+	/qr q1
+_____________________________________________________________________________________________
+
+TROUBLESHOOTING
+
+Game may sometimes crash. If that does happen, it normally displays an error
+message including a fair of not-quite-humanly-readable text enclosed in a
+text field. It's generally recommended that you send me text from such errors,
+as well as few words on what have you done preceding to such behaviour.
+
+Multiplayer system may sometimes fail, displaying a "desync" message in corner
+of screen. In such case game may behave unexpectedly, and no longer act equally
+for both players. This mostly happens because of either data corruption (/lossy
+connection), or because of latency staying above the set limit for too long
+(until the point when "late" data builds up so much that game can't compensate).
+An algorithm to resolve such errors is currently in the works, but until then
+you can try re-hosting the game with a higher latency limit (or reduce number
+of applications possibly impacting connection quality for the game).
+
+There also may be bugs. Bugs, in general, are pieces of certainly unintended
+behaviour, such as web gun failing to fire projectiles, or HUD disappearing
+after using an ankh (those particular two are obviously fixed though). Depending
+on complexity, it's best that you provide an explanation or capture of process
+required to reproduce the bug.

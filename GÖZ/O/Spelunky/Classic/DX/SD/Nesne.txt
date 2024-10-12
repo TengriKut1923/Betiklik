@@ -1,0 +1,169 @@
+ _____________________
+/ Appendix A: Objects
+
+For multiple chat commands, you may provide an object name. Object names consist
+of characters (case-insensitive) and digits and may not contain spaces.
+
+In many cases you can also supply multiple objects at once by separating them
+with "|" symbol, e.g. "snake|bat". Depending on context, such combinations of
+objects will be either recognized as list (meaning that action will be applied
+to each of them) or a set to choose from (meaning that one of objects will be
+picked at random).
+
+If you are familiar with modding of original game, you can use object names as
+they are defined in source. Otherwise, a comprehensive list is available below
+(beware of brief spoilers, if anything!):
+ _______________
+/ Object groups \____
+
+The following are the object groups. They can be used as "source" types for
+multiple operations, but should not be spawned, as they do not point to any
+object type in particular.
+
+player          Player-controlled characters
+solid           All impassable objects - walls, tiles, blocks.
+tile            Static level blocks. Does not include trees/altars/etc.
+item            Items and few other objects that may be picked up.
+enemy           Enemies of all kinds.
+treasure        Gold, gems, and alikes.
+ _______________
+/  Scenery      \____
+
+brick           Primary Caves area tile
+lush            Primary Lush/Jungle area tile
+dark            Primary Dark/Ice area tile
+temple          Primary Temple area tile
+ _______________
+/  Creatures    \____
+
+damsel          Those searching to be rescued
+shopkeeper      Seller of goods and bullets to the faces of uncareful ones
+scarab          A golden flying insect met in dark levels.
+
+bat             One, that nibbles adventurers.
+snake           A quite so slightly oversized serpent
+spider          What drops on your hat, but isn't rain
+spiderhang      Spider in it's waiting state (as it is spawned in game levels)
+giantspider     Oversized trouble
+giantspiderhang It's a trap. Or an ambush, rather.
+skeleton        A walking skeleton. How spooky.
+fakebones       A skeleton in disguise.
+caveman         Not necessarily that smart.
+
+frog            Is exceptionally good at hopping onto incautious adventurers.
+redfrog         An explosive variant of aforementioned frog.
+frogbomb        Detonated state of aforementioned explosive frog.
+mantrap         Feeds on adventurers and cavemen.
+piranha         Carnivorous fish, commonly met in jungle ponds.
+jaws            The XL fish from "rushing water" theme levels.
+zombie          Commonly found in "the dead are restless" levels.
+vampire         Flies, bites, and seems overall pretty good of itself.
+
+yeti            Looks friendly, but don't let it throw you.
+yetiking        The largest yeti.
+ufo             Block-destroying alien invader.
+ufocrash        A UFO falling down. Explodes on impact.
+alien           Alien invader by itself. Not too harmful.
+alieneject      Alien, as it appears when catapulting out of exploding UFO.
+alienboss       Seen in alien ship, can send powerful psychic waves at players.
+
+hawkman         Runs, jumps, and throws players around aggressively.
+magmaman        Made of fire, can also burn enemies and players.
+tomblord        An ancient mummy met in temple.
+ghost           A reward for chilling out too much.
+ _______________
+/   Items       \____
+
+rope            A pile of ropes
+bomb            A bomb (item).
+armedbomb       A set off bomb, just in case you want to spawn these.
+bombbag         A bag of bombs
+bombbox         A box of bombs (12x)
+
+rock            A rock. Or a stone. What makes the difference?
+jar             May contain treasures or small enemies.
+skull           A skull. Rest of skeleton not included.
+arrow           As shot by certain traps and bows.
+dice            Used in shops for gambling purposes.
+
+crate           A box. May contain things inside.
+flare           Give some light, but doesn't survive contact with water too well
+flarecrate      Contains a couple of flares.
+chest           May contain treasures or a rare bomb.
+lockedchest     A locked chest, containing an Udjat Eye
+key             A key to locked chest.
+
+bow             Shoots arrows, provided that you have any.
+pistol          A gun, a small one.
+shotgun         A gun, a large one.
+webcannon       A gun, but not quite.
+machete         For your slashing needs.
+mattock         Can break blocks and/or fall apart unexpectedly.
+teleporter      A particularly curious piece of technology.
+
+paste           Sticky paste, needed for sticky bombs.
+parachute       A parachute, saves you from one long drop... or at least should.
+compass         Points to the exit, whereever that is.
+springshoes     Spring shoes, allow higher jumps and slightly longer falls.
+spikeshoes      Spiky shoes, deal more damage to enemies when jumping upon them.
+spectacles      Allows to see items and treasures in the ground.
+udjateye        Allows to see treasures in the ground and hints the marketplace.
+crown           Crown/hedjet. A must to enter the city of gold.
+kapala          Permits health regeneration by gathering blood.
+ankh            Single-use, brings you back to life upon death.
+gloves          Climbing gloves, these allow hanging upon any wall.
+mitt            Pitcher's mitt, stronger throws and you can catch rocks.
+jetpack         Allows limited flight.
+cape            Allows gliding instead of falling.
+ _______________
+/  Treasures    \____
+
+goldchunk       A piece of gold (worth 100)
+goldnugget      A nugget of gold (worth 500)
+goldbar         A golden bar (worth 500)
+goldbars        Several bars (worth 1000)
+
+emerald         An emerald (green; worth 200)
+sapphire        A sapphire (blue; worth 300)
+ruby            A ruby (red; worth 400)
+emeraldbig      A large emerald (green; worth 800)
+sapphirebig     A large sapphire (blue; worth 1200)
+rubybig         A large ruby (red; worth 1600)
+diamond         A large diamond (white; worth 5000)
+
+goldidol        A thing of particular value. May trigger nearby traps.
+crystalskull    Spawns Ghost if disturbed.
+ _______________
+/  Technical    \____
+
+block           Your average non-pushable block
+pushable        Pushable block/crate
+ladder          Vertical ladder
+laddertop       Top of ladder (that you can stand on)
+entrance        Level entrance
+exit            Level exit
+lamp            Hanging lamp (seen in dark levels)
+altar           Sacrificial altar (removing via commands doesn't defile it)
+
+spikes          Spikes. Not to be jumped on.
+springtrap
+arrowtrapl      Arrow trap, facing left
+arrowtrapr      Arrow trap, facing right
+repeaterl       Repeater (automatic arrow trap), facing left
+repeaterr       Repeater (automatic arrow trap), facing right
+smashtrap       Smash/crush trap (spiky thing dashing at players)
+speartrap       Spear trap (top)
+speartrapb      Spear trap (bottom)
+
+red             A red block.
+green           A green block.
+blue            A blue block.
+colorblock      Parent for above 3.
+ _______________
+/  Scripting    \____
+
+void            Lack of object. Replacing an object with this destroys one.
+nosolid         Is destroyed upon creation, if it is inside of solid object.
+insolid         Is destroyed upon creation, unless it is inside of solid object.
+notile          Is destroyed upon creation, if it is inside of level tile.
+intile          Is destroyed upon creation, unless it is inside of level tile.

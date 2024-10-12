@@ -1,0 +1,13 @@
+2AAEEDC8.ico
+audiogroup1.dat
+audiogroup2.dat
+data.win
+Rayman ReDesigner.exe
+
+BundledLevels\Curse_Chaos.txt
+BundledLevels\Pink_Plant_Woods.txt
+BundledLevels\Revenge_Of_Mr_Skops.txt
+BundledLevels\They_Came_From_Outer_Space.txt
+
+Custom\Custom_skin.png
+Custom\Custom_skin_fist.png

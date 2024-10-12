@@ -1,0 +1,174 @@
+;       210151  00:00.00 2023-10-29 E516294D\8711436E.ico
+;      7356757  00:00.00 2023-10-29 E516294D\cdrr-1.3.3.exe
+;       120525  00:00.00 2023-10-29 E516294D\files\zone_01_p1.png
+;       164080  00:00.00 2023-10-29 E516294D\files\zone_01_p2.png
+;        44391  00:00.00 2023-10-29 E516294D\files\zone_02_p1.png
+;        24699  00:00.00 2023-10-29 E516294D\files\zone_02_p2.png
+;        94735  00:00.00 2023-10-29 E516294D\files\zone_0_boss.png
+;        84498  00:00.00 2023-10-29 E516294D\files\zone_a_boss.png
+;       316651  00:00.00 2023-10-29 E516294D\files\zone_a_p1.png
+;       187335  00:00.00 2023-10-29 E516294D\files\zone_a_p2.png
+;       261355  00:00.00 2023-10-29 E516294D\files\zone_b1_p1.png
+;        77987  00:00.00 2023-10-29 E516294D\files\zone_b1_p2.png
+;        91043  00:00.00 2023-10-29 E516294D\files\zone_b2_p1.png
+;        93040  00:00.00 2023-10-29 E516294D\files\zone_b2_p2.png
+;       281695  00:00.00 2023-10-29 E516294D\files\zone_b3_p1.png
+;        96282  00:00.00 2023-10-29 E516294D\files\zone_b3_p2.png
+;       709215  00:00.00 2023-10-29 E516294D\files\zone_c1_p1.png
+;       677206  00:00.00 2023-10-29 E516294D\files\zone_c1_p2.png
+;       126120  00:00.00 2023-10-29 E516294D\files\zone_c2_p1.png
+;       226211  00:00.00 2023-10-29 E516294D\files\zone_c2_p2.png
+;       224126  00:00.00 2023-10-29 E516294D\files\zone_d1_p1.png
+;       212511  00:00.00 2023-10-29 E516294D\files\zone_d1_p2.png
+;       355898  00:00.00 2023-10-29 E516294D\files\zone_d2_p1.png
+;       285936  00:00.00 2023-10-29 E516294D\files\zone_d2_p2.png
+;       361360  00:00.00 2023-10-29 E516294D\files\zone_d3_p1.png
+;       252569  00:00.00 2023-10-29 E516294D\files\zone_d3_p2.png
+;        49299  00:00.00 2023-10-29 E516294D\files\zone_d_boss.png
+;       236569  00:00.00 2023-10-29 E516294D\files\zone_e1_p1.png
+;       120134  00:00.00 2023-10-29 E516294D\files\zone_e1_p2.png
+;       249985  00:00.00 2023-10-29 E516294D\files\zone_e2_p1.png
+;       313556  00:00.00 2023-10-29 E516294D\files\zone_e2_p2.png
+;       246707  00:00.00 2023-10-29 E516294D\files\zone_e3_p1.png
+;        68561  00:00.00 2023-10-29 E516294D\files\zone_e3_p2.png
+;       131499  00:00.00 2023-10-29 E516294D\files\zone_e_boss.png
+;        33146  00:00.00 2023-10-29 E516294D\files\zone_f1_p1.png
+;        60172  00:00.00 2023-10-29 E516294D\files\zone_f1_p2.png
+;       173222  00:00.00 2023-10-29 E516294D\files\zone_f2.png
+;       334508  00:00.00 2023-10-29 E516294D\files\zone_g1_p1.png
+;       284524  00:00.00 2023-10-29 E516294D\files\zone_g1_p2.png
+;       274409  00:00.00 2023-10-29 E516294D\files\zone_g2_p1.png
+;       327147  00:00.00 2023-10-29 E516294D\files\zone_g2_p2.png
+;       254207  00:00.00 2023-10-29 E516294D\files\zone_g3_p1.png
+;       253496  00:00.00 2023-10-29 E516294D\files\zone_g3_p2.png
+;       139508  00:00.00 2023-10-29 E516294D\files\zone_g_boss.png
+;       454577  00:00.00 2023-10-29 E516294D\files\zone_h1_p1.png
+;       588056  00:00.00 2023-10-29 E516294D\files\zone_h1_p2.png
+;       221763  00:00.00 2023-10-29 E516294D\files\zone_h2_p1.png
+;       188183  00:00.00 2023-10-29 E516294D\files\zone_h2_p2.png
+;       139863  00:00.00 2023-10-29 E516294D\files\zone_i1_p1.png
+;       122752  00:00.00 2023-10-29 E516294D\files\zone_i1_p2.png
+;       138357  00:00.00 2023-10-29 E516294D\files\zone_i2_p1.png
+;       131725  00:00.00 2023-10-29 E516294D\files\zone_i2_p2.png
+;        80809  00:00.00 2023-10-29 E516294D\files\zone_i_boss.png
+;        37802  00:00.00 2023-10-29 E516294D\files\zone_j1_p1.png
+;        41861  00:00.00 2023-10-29 E516294D\files\zone_j1_p2.png
+;        99543  00:00.00 2023-10-29 E516294D\files\zone_j2_p1.png
+;        88546  00:00.00 2023-10-29 E516294D\files\zone_j2_p2.png
+;       247346  00:00.00 2023-10-29 E516294D\music\bgm_bonus.wav
+;       739890  00:00.00 2023-10-29 E516294D\music\bgm_boss.wav
+;       132914  00:00.00 2023-10-29 E516294D\music\bgm_gameover.wav
+;       226868  00:00.00 2023-10-29 E516294D\music\bgm_level.wav
+;       940596  00:00.00 2023-10-29 E516294D\music\bgm_map.wav
+;       828980  00:00.00 2023-10-29 E516294D\music\bgm_talk.wav
+;       826932  00:00.00 2023-10-29 E516294D\music\bgm_theend.wav
+;      2187828  00:00.00 2023-10-29 E516294D\music\bgm_title.wav
+;       996916  00:00.00 2023-10-29 E516294D\music\bgm_zone_0.wav
+;       848434  00:00.00 2023-10-29 E516294D\music\bgm_zone_ace.wav
+;      1878580  00:00.00 2023-10-29 E516294D\music\bgm_zone_b.wav
+;      1510424  00:00.00 2023-10-29 E516294D\music\bgm_zone_d.wav
+;       707122  00:00.00 2023-10-29 E516294D\music\bgm_zone_fhi.wav
+;      1059378  00:00.00 2023-10-29 E516294D\music\bgm_zone_g.wav
+;      2658868  00:00.00 2023-10-29 E516294D\music\bgm_zone_j.wav
+;      1475124  00:00.00 2023-10-29 E516294D\music\cd1_bonus.wav
+;      3562548  00:00.00 2023-10-29 E516294D\music\cd1_boss.wav
+;       773684  00:00.00 2023-10-29 E516294D\music\cd1_gameover.wav
+;      1235508  00:00.00 2023-10-29 E516294D\music\cd1_level.wav
+;      4637236  00:00.00 2023-10-29 E516294D\music\cd1_map.wav
+;      6921780  00:00.00 2023-10-29 E516294D\music\cd1_talk.wav
+;      3958836  00:00.00 2023-10-29 E516294D\music\cd1_theend.wav
+;     10699316  00:00.00 2023-10-29 E516294D\music\cd1_title.wav
+;      4616756  00:00.00 2023-10-29 E516294D\music\cd1_zone_0.wav
+;      4074036  00:00.00 2023-10-29 E516294D\music\cd1_zone_ace.wav
+;      9041460  00:00.00 2023-10-29 E516294D\music\cd1_zone_b.wav
+;      7212084  00:00.00 2023-10-29 E516294D\music\cd1_zone_d.wav
+;      3401268  00:00.00 2023-10-29 E516294D\music\cd1_zone_fhi.wav
+;      5083188  00:00.00 2023-10-29 E516294D\music\cd1_zone_g.wav
+;      5014068  00:00.00 2023-10-29 E516294D\music\cd1_zone_j.wav
+E516294D\8711436E.ico 8711436E
+E516294D\cdrr-1.3.3.exe E516294D
+E516294D\files\zone_01_p1.png 932041E4
+E516294D\files\zone_01_p2.png 5937AACB
+E516294D\files\zone_02_p1.png 06F620D1
+E516294D\files\zone_02_p2.png B59147F6
+E516294D\files\zone_0_boss.png 5E355AB9
+E516294D\files\zone_a_boss.png C6C15D03
+E516294D\files\zone_a_p1.png 79436B5A
+E516294D\files\zone_a_p2.png 27EFE3A9
+E516294D\files\zone_b1_p1.png BAF10A6B
+E516294D\files\zone_b1_p2.png 229753B5
+E516294D\files\zone_b2_p1.png 7B70AB98
+E516294D\files\zone_b2_p2.png 0698B412
+E516294D\files\zone_b3_p1.png 8A62CDA6
+E516294D\files\zone_b3_p2.png 2DE4393F
+E516294D\files\zone_c1_p1.png 0C36E5CE
+E516294D\files\zone_c1_p2.png AC150718
+E516294D\files\zone_c2_p1.png 4B880E2B
+E516294D\files\zone_c2_p2.png 7C7DD7B1
+E516294D\files\zone_d1_p1.png 2F426F21
+E516294D\files\zone_d1_p2.png E91AE27B
+E516294D\files\zone_d2_p1.png 19570715
+E516294D\files\zone_d2_p2.png 91E03D79
+E516294D\files\zone_d3_p1.png 09443BEF
+E516294D\files\zone_d3_p2.png 559BE574
+E516294D\files\zone_d_boss.png 50B5C49D
+E516294D\files\zone_e1_p1.png 48E9F602
+E516294D\files\zone_e1_p2.png D6904882
+E516294D\files\zone_e2_p1.png 553A671D
+E516294D\files\zone_e2_p2.png 341DB80F
+E516294D\files\zone_e3_p1.png 81B410AB
+E516294D\files\zone_e3_p2.png F5130B99
+E516294D\files\zone_e_boss.png 1EAC797A
+E516294D\files\zone_f1_p1.png E3F10262
+E516294D\files\zone_f1_p2.png 58FF5095
+E516294D\files\zone_f2.png 20BB9257
+E516294D\files\zone_g1_p1.png 71E272C9
+E516294D\files\zone_g1_p2.png 9DCC66AF
+E516294D\files\zone_g2_p1.png C1B1C08B
+E516294D\files\zone_g2_p2.png 5BB47CF2
+E516294D\files\zone_g3_p1.png E71D41F1
+E516294D\files\zone_g3_p2.png 07A43110
+E516294D\files\zone_g_boss.png CA8DCBE0
+E516294D\files\zone_h1_p1.png 74F696C0
+E516294D\files\zone_h1_p2.png 3795DAA3
+E516294D\files\zone_h2_p1.png B1BE3922
+E516294D\files\zone_h2_p2.png 25AF23B7
+E516294D\files\zone_i1_p1.png 0940E17B
+E516294D\files\zone_i1_p2.png 0F96AB0A
+E516294D\files\zone_i2_p1.png 761D00C7
+E516294D\files\zone_i2_p2.png 4A7C2C05
+E516294D\files\zone_i_boss.png 79C4995D
+E516294D\files\zone_j1_p1.png 5AD64979
+E516294D\files\zone_j1_p2.png 61956BF4
+E516294D\files\zone_j2_p1.png 62DDF80E
+E516294D\files\zone_j2_p2.png AEBDAC1E
+E516294D\music\bgm_bonus.wav 26B1A30A
+E516294D\music\bgm_boss.wav 168010E8
+E516294D\music\bgm_gameover.wav D1B034BE
+E516294D\music\bgm_level.wav A504339A
+E516294D\music\bgm_map.wav AD2CCF81
+E516294D\music\bgm_talk.wav 6F6036C5
+E516294D\music\bgm_theend.wav A748329C
+E516294D\music\bgm_title.wav 4316CA09
+E516294D\music\bgm_zone_0.wav 2581F943
+E516294D\music\bgm_zone_ace.wav F0C11717
+E516294D\music\bgm_zone_b.wav B61201F4
+E516294D\music\bgm_zone_d.wav 1A4EA39E
+E516294D\music\bgm_zone_fhi.wav EBCC8A1D
+E516294D\music\bgm_zone_g.wav 187205B9
+E516294D\music\bgm_zone_j.wav 6A828E1F
+E516294D\music\cd1_bonus.wav 64C5D281
+E516294D\music\cd1_boss.wav 3D1FEDA9
+E516294D\music\cd1_gameover.wav 650017EC
+E516294D\music\cd1_level.wav D32FB971
+E516294D\music\cd1_map.wav BF2DAC04
+E516294D\music\cd1_talk.wav 4DDF3EFA
+E516294D\music\cd1_theend.wav BA66C457
+E516294D\music\cd1_title.wav EA81B444
+E516294D\music\cd1_zone_0.wav 14E38FB4
+E516294D\music\cd1_zone_ace.wav 629C313B
+E516294D\music\cd1_zone_b.wav 5793C065
+E516294D\music\cd1_zone_d.wav 652F592E
+E516294D\music\cd1_zone_fhi.wav 6E198865
+E516294D\music\cd1_zone_g.wav 76AFC05C
+E516294D\music\cd1_zone_j.wav 426CEF92

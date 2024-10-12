@@ -1,0 +1,1812 @@
+;        97852  00:00.00 2023-10-29 C3118A51\D1F90308.ico
+;      6060338  00:00.00 2023-10-29 C3118A51\Link's Awakening DX HD.exe
+;         3685  00:00.00 2023-10-29 C3118A51\Content\Editor\delete.xnb
+;         3685  00:00.00 2023-10-29 C3118A51\Content\Editor\edit.xnb
+;         3685  00:00.00 2023-10-29 C3118A51\Content\Editor\eye_closed.xnb
+;         3685  00:00.00 2023-10-29 C3118A51\Content\Editor\eye_open.xnb
+;         3685  00:00.00 2023-10-29 C3118A51\Content\Editor\select.xnb
+;        22182  00:00.00 2023-10-29 C3118A51\Content\Fonts\credits font.xnb
+;        37913  00:00.00 2023-10-29 C3118A51\Content\Fonts\credits header font.xnb
+;        21529  00:00.00 2023-10-29 C3118A51\Content\Fonts\editor font.xnb
+;        21529  00:00.00 2023-10-29 C3118A51\Content\Fonts\editor mono font.xnb
+;        13337  00:00.00 2023-10-29 C3118A51\Content\Fonts\editor small mono font.xnb
+;        87065  00:00.00 2023-10-29 C3118A51\Content\Fonts\headerFont.xnb
+;        82969  00:00.00 2023-10-29 C3118A51\Content\Fonts\newHeaderFont.xnb
+;        42950  00:00.00 2023-10-29 C3118A51\Content\Fonts\smallFont.xnb
+;        36949  00:00.00 2023-10-29 C3118A51\Content\Light\doorLight.xnb
+;       122965  00:00.00 2023-10-29 C3118A51\Content\Light\dungeon.xnb
+;        65621  00:00.00 2023-10-29 C3118A51\Content\Light\light.xnb
+;        82005  00:00.00 2023-10-29 C3118A51\Content\Light\ligth room vertical.xnb
+;        82005  00:00.00 2023-10-29 C3118A51\Content\Light\ligth room.xnb
+;        17245  00:00.00 2023-10-29 C3118A51\Content\Light\shadow.xnb
+;         1109  00:00.00 2023-10-29 C3118A51\Content\Menu\copyIcon.xnb
+;         1109  00:00.00 2023-10-29 C3118A51\Content\Menu\gearIcon.xnb
+;         4181  00:00.00 2023-10-29 C3118A51\Content\Menu\menuBackground.xnb
+;         1109  00:00.00 2023-10-29 C3118A51\Content\Menu\trashIcon.xnb
+;       172117  00:00.00 2023-10-29 C3118A51\Content\Objects\fog.xnb
+;         2262  00:00.00 2023-10-29 C3118A51\Content\Shader\BBlurH.xnb
+;         2278  00:00.00 2023-10-29 C3118A51\Content\Shader\BBlurV.xnb
+;         1517  00:00.00 2023-10-29 C3118A51\Content\Shader\BlurH.xnb
+;         1517  00:00.00 2023-10-29 C3118A51\Content\Shader\BlurV.xnb
+;         1023  00:00.00 2023-10-29 C3118A51\Content\Shader\CircleShader.xnb
+;         1537  00:00.00 2023-10-29 C3118A51\Content\Shader\ColorCloud.xnb
+;         1084  00:00.00 2023-10-29 C3118A51\Content\Shader\ColorShader.xnb
+;         1763  00:00.00 2023-10-29 C3118A51\Content\Shader\DamageShader.xnb
+;         1021  00:00.00 2023-10-29 C3118A51\Content\Shader\EffectBlur.xnb
+;         2867  00:00.00 2023-10-29 C3118A51\Content\Shader\FullShadowEffect.xnb
+;          749  00:00.00 2023-10-29 C3118A51\Content\Shader\LightFadeShader.xnb
+;         1439  00:00.00 2023-10-29 C3118A51\Content\Shader\LightShader.xnb
+;         1333  00:00.00 2023-10-29 C3118A51\Content\Shader\RoundedCorner.xnb
+;         1818  00:00.00 2023-10-29 C3118A51\Content\Shader\RoundedCornerEffectBlur.xnb
+;         1359  00:00.00 2023-10-29 C3118A51\Content\Shader\SaturationFilter.xnb
+;         1744  00:00.00 2023-10-29 C3118A51\Content\Shader\ShockEffect.xnb
+;         1369  00:00.00 2023-10-29 C3118A51\Content\Shader\ThanosShader.xnb
+;         1217  00:00.00 2023-10-29 C3118A51\Content\Shader\WaleShader.xnb
+;         1768  00:00.00 2023-10-29 C3118A51\Content\Shader\WobbleShader.xnb
+;       127151  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-01-01.xnb
+;       113405  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-02-02.xnb
+;        22543  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-03-03.xnb
+;        83749  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-04-04.xnb
+;        89269  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-05-05.xnb
+;       130975  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-06-06.xnb
+;        16207  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-07-07.xnb
+;        24609  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-08-08.xnb
+;        15713  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-09-09.xnb
+;        13189  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-10-0A.xnb
+;        90361  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-11-0B.xnb
+;       110889  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-12-0C.xnb
+;        35969  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-13-0D.xnb
+;         8709  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-14-0E.xnb
+;        46033  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-15-0F.xnb
+;         1753  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-16-10.xnb
+;        35667  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-17-11.xnb
+;        16223  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-18-12.xnb
+;        60481  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-19-13.xnb
+;         7109  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-20-14.xnb
+;        26725  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-21-15.xnb
+;        12623  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-22-16.xnb
+;       136731  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-23-17.xnb
+;        65987  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-24-18.xnb
+;        83419  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-25-19.xnb
+;         9709  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-26-1A.xnb
+;       104561  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-27-1B.xnb
+;       125569  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-28-1C.xnb
+;        49091  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-29-1D.xnb
+;       114423  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-30-1E.xnb
+;       127421  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-31-1F.xnb
+;        22147  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-32-20.xnb
+;        50723  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-33-21.xnb
+;         3933  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-34-22.xnb
+;       143815  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-35-23.xnb
+;        35559  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-36-24.xnb
+;        98147  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-37-25.xnb
+;       181603  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-38-26.xnb
+;        59007  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-39-27.xnb
+;        62239  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-40-28.xnb
+;        17313  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-41-29.xnb
+;        27147  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-42-2A.xnb
+;       712169  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-43-2B.xnb
+;       313473  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-44-2C.xnb
+;       148665  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-45-2D.xnb
+;       544339  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-46-2E.xnb
+;        70825  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-47-2F.xnb
+;        31871  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-48-30.xnb
+;        55983  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-49-31.xnb
+;        59571  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-50-32.xnb
+;       104553  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-51-33.xnb
+;       175299  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-52-34.xnb
+;       146371  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-53-35.xnb
+;       281279  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-54-36.xnb
+;       233087  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-55-37.xnb
+;       704067  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-56-38.xnb
+;        93285  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-57-39.xnb
+;        59647  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-58-3A.xnb
+;        98113  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-59-3B.xnb
+;        30603  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-60-3C.xnb
+;       548159  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-61-3D.xnb
+;         2005  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-62-3E.xnb
+;        44989  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-63-3F.xnb
+;       143175  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-64-40.xnb
+;        79391  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D360-65-41.xnb
+;       258123  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D368-16-10.xnb
+;        59565  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-01-01.xnb
+;        35119  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-02-02.xnb
+;         9797  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-03-03.xnb
+;        27335  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-04-04.xnb
+;        20933  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-05-05.xnb
+;        24191  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-06-06.xnb
+;        91663  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-07-07.xnb
+;       182569  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-08-08.xnb
+;       355481  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-09-09.xnb
+;       315329  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-10-0A.xnb
+;       310483  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-11-0B.xnb
+;       107697  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-12-0C.xnb
+;        56295  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-13-0D.xnb
+;        32273  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-14-0E.xnb
+;         4743  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-15-0F.xnb
+;       213853  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-16-10.xnb
+;        45077  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-17-11.xnb
+;        62771  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-18-12.xnb
+;        59711  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-19-13.xnb
+;         7981  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-20-14.xnb
+;       236337  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-21-15.xnb
+;       102901  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-22-16.xnb
+;       205957  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-23-17.xnb
+;        49657  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-24-18.xnb
+;        32159  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-25-19.xnb
+;        14561  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-26-1A.xnb
+;        78853  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-27-1B.xnb
+;        46629  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-28-1C.xnb
+;       721617  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-30-1E.xnb
+;       362005  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-31-1F.xnb
+;       297349  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-32-20.xnb
+;        94861  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-33-21.xnb
+;       297349  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-34-22.xnb
+;        61133  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D370-35-23.xnb
+;        12239  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-01-01.xnb
+;        12395  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-02-02.xnb
+;        55607  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-03-03.xnb
+;        17541  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-04-04.xnb
+;        45629  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-05-05.xnb
+;        63941  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-06-06.xnb
+;         6899  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-07-07.xnb
+;        44697  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-08-08.xnb
+;        36993  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-09-09.xnb
+;        15117  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-10-0A.xnb
+;         4299  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-11-0B.xnb
+;       107515  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-12-0C.xnb
+;        94923  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-13-0D.xnb
+;        51237  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-14-0E.xnb
+;       182509  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-15-0F.xnb
+;        41857  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-16-10.xnb
+;        53151  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-17-11.xnb
+;        27471  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-18-12.xnb
+;        64943  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-19-13.xnb
+;        11849  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-20-14.xnb
+;        10149  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-21-15.xnb
+;         5977  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-22-16.xnb
+;        41215  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-23-17.xnb
+;        12593  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-24-18.xnb
+;        79127  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-25-19.xnb
+;       157411  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-26-1A.xnb
+;       767849  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-27-1B.xnb
+;        42941  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-28-1C.xnb
+;       776409  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-29-1D.xnb
+;        10325  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-30-1E.xnb
+;        57279  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-31-1F.xnb
+;       433707  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-32-20.xnb
+;       225187  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-33-21.xnb
+;       225381  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-34-22.xnb
+;       402899  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-35-23.xnb
+;       117593  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-36-24.xnb
+;       558469  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-37-25.xnb
+;       311805  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-38-26.xnb
+;        36195  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-39-27.xnb
+;        63175  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-40-28.xnb
+;        90697  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-41-29.xnb
+;       322579  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-42-2A.xnb
+;        90245  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-43-2B.xnb
+;       236221  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-44-2C.xnb
+;        45981  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-45-2D.xnb
+;       610293  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-46-2E.xnb
+;        62959  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-47-2F.xnb
+;       232359  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-48-30.xnb
+;       212357  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-49-31.xnb
+;        60305  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-50-32.xnb
+;        40329  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-51-33.xnb
+;      1027233  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-52-34.xnb
+;       574001  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-53-35.xnb
+;        91111  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-54-36.xnb
+;        94973  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-55-37.xnb
+;        61669  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-56-38.xnb
+;        49097  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-57-39.xnb
+;        19921  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-58-3A.xnb
+;         6667  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-59-3B.xnb
+;       344995  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-60-3D.xnb
+;        63743  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-61-3E.xnb
+;        87475  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-62-3F.xnb
+;        12283  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-63-40.xnb
+;        11911  00:00.00 2023-10-29 C3118A51\Content\SoundEffects\D378-64-41.xnb
+;        41467  00:00.00 2023-10-29 C3118A51\Data\musicOverworld.data
+;        97905  00:00.00 2023-10-29 C3118A51\Data\scripts.zScript
+;          169  00:00.00 2023-10-29 C3118A51\Data\ui.atlas
+;        18232  00:00.00 2023-10-29 C3118A51\Data\ui.png
+;          114  00:00.00 2023-10-29 C3118A51\Data\Animations\dialog_arrow.ani
+;          109  00:00.00 2023-10-29 C3118A51\Data\Animations\dungeonPlayer.ani
+;          729  00:00.00 2023-10-29 C3118A51\Data\Animations\link fishing.ani
+;        12137  00:00.00 2023-10-29 C3118A51\Data\Animations\link0.ani
+;          112  00:00.00 2023-10-29 C3118A51\Data\Animations\mapPlayer.ani
+;          120  00:00.00 2023-10-29 C3118A51\Data\Animations\mapSelector.ani
+;          107  00:00.00 2023-10-29 C3118A51\Data\Animations\menu_link.ani
+;          218  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\angler fry.ani
+;          283  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\anti kirby suck.ani
+;          381  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\anti kirby.ani
+;          116  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\anti-fairy.ani
+;          420  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\arm mimic.ani
+;          536  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\armos.ani
+;          389  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\beamos.ani
+;          113  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\beetle.ani
+;           72  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\bladetrap.ani
+;          126  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\bloober.ani
+;          191  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\bomber.ani
+;          210  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\bombite.ani
+;          298  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\bombiteGreen.ani
+;          182  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\bone putter.ani
+;          113  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\bone.ani
+;          283  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\boo buddy.ani
+;          557  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\buzzblob.ani
+;         1477  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\camo goblin.ani
+;          384  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\card boy.ani
+;          331  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\cheep cheep.ani
+;          239  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\crab.ani
+;          328  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\crow.ani
+;          693  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\darknut spear.ani
+;          686  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\darknut sword.ani
+;          664  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\darknut.ani
+;          111  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\fireball dungeon.ani
+;          186  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\fireball.ani
+;          203  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\fish.ani
+;          274  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\flame fountain fireball.ani
+;          114  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\flame fountain.ani
+;          122  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\floor layer.ani
+;          403  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\flyingTile.ani
+;          338  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\gel.ani
+;          229  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\ghini.ani
+;          213  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\ghiniGiant.ani
+;          208  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\giant bubble.ani
+;          115  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\gibdo.ani
+;          170  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\goomba.ani
+;          248  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\goponga flower giant.ani
+;          114  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\goponga flower.ani
+;          532  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\green zol.ani
+;          179  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\hardhat beetle.ani
+;          526  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\iron mask.ani
+;          863  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\karakoro.ani
+;          292  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\keese.ani
+;          510  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\leever.ani
+;          113  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\likelike.ani
+;          471  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\mad bomber.ani
+;          434  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\mask mimic.ani
+;          127  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\mega thwomp.ani
+;          436  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\mini moldorm.ani
+;          687  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\moblin sword sword.ani
+;          674  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\moblin sword.ani
+;          764  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\moblin.ani
+;          676  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\moblinPig sword.ani
+;          643  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\moblinPig.ani
+;          250  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\monkey.ani
+;           71  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\octorok shot.ani
+;          638  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\octorok.ani
+;          120  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\pairodd projectile.ani
+;          401  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\pairodd.ani
+;          114  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\peahat.ani
+;          499  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\pincer.ani
+;          485  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\piranha plant.ani
+;          237  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\podoboo.ani
+;          125  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\pols voice.ani
+;          324  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\raven.ani
+;          129  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\red zol.ani
+;          228  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\river zora.ani
+;          198  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\rock.ani
+;          231  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\rope.ani
+;          315  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\sea urchin.ani
+;          420  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\shrouded stalfos.ani
+;          112  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\spark.ani
+;          212  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\spiked beetle.ani
+;          443  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\spiked thwomp.ani
+;          113  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\spiny Beetle.ani
+;          170  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\stalfos green.ani
+;          689  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\stalfos knight sword.ani
+;          667  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\stalfos knight.ani
+;          170  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\stalfos orange.ani
+;          210  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\star.ani
+;          172  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\tektite.ani
+;          127  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\thwimp.ani
+;          170  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\vacuum.ani
+;          120  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\vire bat.ani
+;          242  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\vire.ani
+;          113  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\vireball.ani
+;          116  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\water tektite.ani
+;          317  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\wizzrobe.ani
+;          313  00:00.00 2023-10-29 C3118A51\Data\Animations\Enemies\zombie.ani
+;          271  00:00.00 2023-10-29 C3118A51\Data\Animations\Intro\light.ani
+;          127  00:00.00 2023-10-29 C3118A51\Data\Animations\Intro\link.ani
+;          764  00:00.00 2023-10-29 C3118A51\Data\Animations\Intro\link_boat.ani
+;          201  00:00.00 2023-10-29 C3118A51\Data\Animations\Intro\loading.ani
+;          279  00:00.00 2023-10-29 C3118A51\Data\Animations\Intro\maria.ani
+;          383  00:00.00 2023-10-29 C3118A51\Data\Animations\Intro\thunder.ani
+;          282  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\armosKnight.ani
+;          133  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\ball and chain soldier.ani
+;         1084  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\bigMoblin.ani
+;          677  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\blaino.ani
+;          420  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\cue ball.ani
+;          647  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\desertLanmola.ani
+;         1131  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\giant buzz blob.ani
+;          275  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\gohma.ani
+;          121  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\grim creeper fly.ani
+;          305  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\grim creeper.ani
+;          549  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\hinox.ani
+;          174  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\mbossOne.ani
+;          366  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\mbossOneBoss.ani
+;          254  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\smasher.ani
+;          287  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\stone hinox.ani
+;          416  00:00.00 2023-10-29 C3118A51\Data\Animations\MidBoss\turtle rock.ani
+;          113  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\anger fish stone.ani
+;          115  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\anger fish.ani
+;          774  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\evil eagle.ani
+;          331  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\facade hole.ani
+;          908  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\facade.ani
+;          275  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\genie bottle.ani
+;          740  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\genie smoke.ani
+;          464  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\genie.ani
+;          120  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\hardhit beetle shot.ani
+;          118  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\hardhit beetle.ani
+;          805  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\hot head.ani
+;          239  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\nightmare bat.ani
+;          618  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\nightmare eye.ani
+;          272  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\nightmare final.ani
+;          349  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\nightmare fireball.ani
+;         1732  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\nightmare ganon weapon.ani
+;          269  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\nightmare particle.ani
+;          190  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\nightmare tail.ani
+;         6046  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\nightmare.ani
+;          699  00:00.00 2023-10-29 C3118A51\Data\Animations\Nightmares\slime eel.ani
+;          338  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\alligator.ani
+;          118  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\animal 02.ani
+;          118  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\animal 03.ani
+;          859  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\animal_rabbit.ani
+;          272  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\bat.ani
+;           70  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\bee target.ani
+;          110  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\bee.ani
+;          322  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\bird.ani
+;          372  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\BowWow.ani
+;          425  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\bowWowSmall.ani
+;           72  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\broom.ani
+;          110  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\butterfly.ani
+;          571  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\cock.ani
+;          449  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\dance fish.ani
+;          219  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\dog.ani
+;          113  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\fairy.ani
+;          217  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\fish_big.ani
+;          217  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\fish_small.ani
+;          463  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\frog.ani
+;          433  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\ghost.ani
+;          403  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\letterBird.ani
+;          403  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\letterBirdGreen.ani
+;          369  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\mamu.ani
+;          798  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\manbo.ani
+;         2036  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\marin.ani
+;           72  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\marin_letter.ani
+;          433  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\monkey.ani
+;          407  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\mouse.ani
+;          421  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc04.ani
+;          405  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc05.ani
+;          111  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc07.ani
+;          421  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc09.ani
+;          136  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_boy_left.ani
+;          136  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_boy_right.ani
+;          173  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_chef.ani
+;          527  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_chicken_dude.ani
+;          223  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_color_dungeon_blue.ani
+;          223  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_color_dungeon_red.ani
+;          487  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_fisherman.ani
+;          434  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_frog_boy.ani
+;          215  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_green_boy.ani
+;          435  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_hidden.ani
+;          231  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_hippo.ani
+;          240  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_letter_boy.ani
+;          116  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_letter_girl.ani
+;          777  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_lost_boy.ani
+;          606  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_mermaid.ani
+;          242  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_painter.ani
+;          445  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_raft.ani
+;          215  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_red_boy.ani
+;          187  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_tracy.ani
+;          557  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_trendy.ani
+;          390  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_woman_broom.ani
+;          174  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\npc_zora.ani
+;          517  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\owl.ani
+;         1009  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\photo_mouse.ani
+;          478  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\raccoon.ani
+;          422  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\shopkeeper.ani
+;          237  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\singing frog.ani
+;          126  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\tarin mushroom.ani
+;          262  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\tarin stick.ani
+;          923  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\tarin.ani
+;          110  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\walrus particle.ani
+;         1383  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\walrus.ani
+;          362  00:00.00 2023-10-29 C3118A51\Data\Animations\NPCs\witch.ani
+;          333  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\bomb.ani
+;          189  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\boomerang.ani
+;          701  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\d7 tower bottom.ani
+;          187  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\d7 tower top 1.ani
+;           84  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\d7 tower top 2.ani
+;         1059  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\d7 tower.ani
+;          810  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\dOneWay.ani
+;          124  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\dTeleporter.ani
+;          217  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\dungeon color switch.ani
+;          169  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\explosion.ani
+;          209  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\holeTeleporter.ani
+;          195  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\ice block.ani
+;          335  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\lamp_floor.ani
+;          280  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\lamp_torch.ani
+;          282  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\lamp_torch_blue.ani
+;          336  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\lamp_wall.ani
+;          336  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\lamp_wall_1.ani
+;          286  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\lamp_wall_2.ani
+;          284  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\lava.ani
+;          203  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\lava_2d.ani
+;          173  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\raft.ani
+;          206  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\shell_mansion_bar.ani
+;          609  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\spear.ani
+;          288  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\spikes.ani
+;          315  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\sword spawn.ani
+;         3105  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\sword.ani
+;          293  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\torch_d4.ani
+;          209  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\torch_d4_d4.ani
+;          200  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\torch_d6.ani
+;          286  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\torch_d8.ani
+;          205  00:00.00 2023-10-29 C3118A51\Data\Animations\Objects\weatherBird.ani
+;          434  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\big_water_splash.ani
+;          155  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\buttonOrder.ani
+;          112  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\despawn.ani
+;          219  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\despawnParticle.ani
+;          231  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\explosion.ani
+;          625  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\explosion0.ani
+;          368  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\explosionBomb.ani
+;          209  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\explosionRaccoon.ani
+;          144  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\fall.ani
+;          128  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\fishingSplash.ani
+;          115  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\flame.ani
+;          114  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\ice block despawn.ani
+;          247  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\pieceOfPowerExplosion.ani
+;          153  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\pieceOfPowerTrail.ani
+;          110  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\run.ani
+;          170  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\shell_mansion_particle.ani
+;          111  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\spawn.ani
+;          131  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\splash.ani
+;          112  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\swordPoke.ani
+;          112  00:00.00 2023-10-29 C3118A51\Data\Animations\Particles\swordShotDespawn.ani
+;          434  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\beach_water.ani
+;          406  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\bowWow link.ani
+;          532  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\bowWow.ani
+;          309  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\castle frog boy.ani
+;          692  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\cliff sequence.ani
+;          300  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\final fountain.ani
+;          201  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\final star.ani
+;         1179  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\link awake.ani
+;          310  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\link castle.ani
+;          180  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\link final.ani
+;          445  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\link grave.ani
+;          299  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\seagull big final.ani
+;          478  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\seagull final.ani
+;          267  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\seagull small.ani
+;          359  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\seagull.ani
+;          162  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\tower dust.ani
+;          205  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\wale.ani
+;          121  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\water.ani
+;          282  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\weather bird link.ani
+;          283  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\weather bird marin.ani
+;          698  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\weather bird objects.ani
+;          342  00:00.00 2023-10-29 C3118A51\Data\Animations\Sequences\weather bird ulrich.ani
+;          272  00:00.00 2023-10-29 C3118A51\Data\Dungeon\dColor_0.txt
+;          540  00:00.00 2023-10-29 C3118A51\Data\Dungeon\eight_0.txt
+;          414  00:00.00 2023-10-29 C3118A51\Data\Dungeon\five_0.txt
+;          381  00:00.00 2023-10-29 C3118A51\Data\Dungeon\four_0.txt
+;          348  00:00.00 2023-10-29 C3118A51\Data\Dungeon\one_0.txt
+;          157  00:00.00 2023-10-29 C3118A51\Data\Dungeon\seven_0.txt
+;          139  00:00.00 2023-10-29 C3118A51\Data\Dungeon\seven_1.txt
+;          145  00:00.00 2023-10-29 C3118A51\Data\Dungeon\seven_2.txt
+;          132  00:00.00 2023-10-29 C3118A51\Data\Dungeon\seven_2_alt.txt
+;          105  00:00.00 2023-10-29 C3118A51\Data\Dungeon\seven_3.txt
+;           88  00:00.00 2023-10-29 C3118A51\Data\Dungeon\seven_3_alt.txt
+;          511  00:00.00 2023-10-29 C3118A51\Data\Dungeon\six_0.txt
+;          128  00:00.00 2023-10-29 C3118A51\Data\Dungeon\three_0.txt
+;           60  00:00.00 2023-10-29 C3118A51\Data\Dungeon\three_1.txt
+;          164  00:00.00 2023-10-29 C3118A51\Data\Dungeon\three_2.txt
+;           63  00:00.00 2023-10-29 C3118A51\Data\Dungeon\three_3.txt
+;          363  00:00.00 2023-10-29 C3118A51\Data\Dungeon\two_0.txt
+;         1297  00:00.00 2023-10-29 C3118A51\Data\Editor\editorIcons4x.atlas
+;        69652  00:00.00 2023-10-29 C3118A51\Data\Editor\editorIcons4x.png
+;          339  00:00.00 2023-10-29 C3118A51\Data\Intro\cloud.png
+;          196  00:00.00 2023-10-29 C3118A51\Data\Intro\intro.atlas
+;        37285  00:00.00 2023-10-29 C3118A51\Data\Intro\intro.png
+;         5147  00:00.00 2023-10-29 C3118A51\Data\Intro\ocean.png
+;          685  00:00.00 2023-10-29 C3118A51\Data\Intro\rain.png
+;         1683  00:00.00 2023-10-29 C3118A51\Data\Intro\waves.png
+;        65623  00:00.00 2023-10-29 C3118A51\Data\Languages\dialog_eng.lng
+;         2295  00:00.00 2023-10-29 C3118A51\Data\Languages\eng.lng
+;           33  00:00.00 2023-10-29 C3118A51\Data\Light\doorLight.atlas
+;          184  00:00.00 2023-10-29 C3118A51\Data\Light\readme.txt
+;           35  00:00.00 2023-10-29 C3118A51\Data\Light\room blur.atlas
+;         2083  00:00.00 2023-10-29 C3118A51\Data\Light\room blur.png
+;         2646  00:00.00 2023-10-29 C3118A51\Data\Map Objects\enemies.atlas
+;        78836  00:00.00 2023-10-29 C3118A51\Data\Map Objects\enemies.png
+;         2207  00:00.00 2023-10-29 C3118A51\Data\Map Objects\items.atlas
+;        23438  00:00.00 2023-10-29 C3118A51\Data\Map Objects\items.png
+;           45  00:00.00 2023-10-29 C3118A51\Data\Map Objects\link0.atlas
+;        31189  00:00.00 2023-10-29 C3118A51\Data\Map Objects\link0.png
+;        18460  00:00.00 2023-10-29 C3118A51\Data\Map Objects\link_cloak.png
+;          954  00:00.00 2023-10-29 C3118A51\Data\Map Objects\midboss.atlas
+;        44232  00:00.00 2023-10-29 C3118A51\Data\Map Objects\midboss.png
+;        28877  00:00.00 2023-10-29 C3118A51\Data\Map Objects\minimap.png
+;          615  00:00.00 2023-10-29 C3118A51\Data\Map Objects\nightmares.atlas
+;        51844  00:00.00 2023-10-29 C3118A51\Data\Map Objects\nightmares.png
+;         1097  00:00.00 2023-10-29 C3118A51\Data\Map Objects\npcs.atlas
+;        60899  00:00.00 2023-10-29 C3118A51\Data\Map Objects\npcs.png
+;          670  00:00.00 2023-10-29 C3118A51\Data\Map Objects\objects animated.atlas
+;        51721  00:00.00 2023-10-29 C3118A51\Data\Map Objects\objects animated.png
+;         7584  00:00.00 2023-10-29 C3118A51\Data\Map Objects\objects.atlas
+;        68957  00:00.00 2023-10-29 C3118A51\Data\Map Objects\objects.png
+;        10906  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - barrier.map
+;          668  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - barrier.map.data
+;         7919  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - beamos.map
+;          278  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - beamos.map.data
+;         9640  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - blured cave.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - blured cave.map.data
+;         7301  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - color jump tile.map
+;          148  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - color jump tile.map.data
+;        11471  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - Copy (2).map
+;          668  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - Copy (2).map.data
+;        10542  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - Copy - Copy.map
+;          668  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - Copy - Copy.map.data
+;          668  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - Copy.map.data
+;        10764  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - dialog.map
+;          668  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - dialog.map.data
+;        36434  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - enemies - damage - holes.map
+;         5385  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - enemies - damage - holes.map.data
+;        35103  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - enemies - damage.map
+;         5385  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - enemies - damage.map.data
+;         7138  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - enemies small.map
+;           67  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - enemies small.map.data
+;        38848  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - enemies.map
+;         5768  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - enemies.map.data
+;         7037  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - fence.map
+;           83  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - fence.map.data
+;         6693  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - floor layer.map
+;           30  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - floor layer.map.data
+;         8049  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - gbs test.map
+;          312  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - gbs test.map.data
+;        10545  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - holes.map
+;          668  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - holes.map.data
+;        10254  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - hookshot.map
+;          668  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - hookshot.map.data
+;         9996  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - item test.map
+;          688  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - item test.map.data
+;         6830  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - kirby.map
+;           31  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - kirby.map.data
+;         8884  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - levels.map
+;          308  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - levels.map.data
+;         7953  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - mermaid.map
+;          260  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - mermaid.map.data
+;         7040  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - music test.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - music test.map.data
+;        88858  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - new draw pool.map
+;        16546  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - new draw pool.map.data
+;         8193  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - qicksand.map
+;          308  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - qicksand.map.data
+;        10729  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - raft.map
+;          260  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - raft.map.data
+;        10176  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - rail jump.map
+;          668  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - rail jump.map.data
+;         7242  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - sequence.map
+;          142  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - sequence.map.data
+;        11031  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - sprites.map
+;          800  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - sprites.map.data
+;         7704  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - stop music test.map
+;          228  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - stop music test.map.data
+;         7776  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - transition bug.map
+;          255  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - transition bug.map.data
+;        17413  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - turtle head.map
+;          668  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - turtle head.map.data
+;         8289  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - walrus.map
+;          360  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map - walrus.map.data
+;          148  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map color jump tile.map.data
+;          308  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map levels.map.data
+;        16546  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map new draw pool.map.data
+;          308  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map qicksand.map.data
+;        11471  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map.map
+;          668  00:00.00 2023-10-29 C3118A51\Data\Maps\0 test map.map.data
+;         7757  00:00.00 2023-10-29 C3118A51\Data\Maps\bridge.map
+;          133  00:00.00 2023-10-29 C3118A51\Data\Maps\bridge.map.data
+;        11227  00:00.00 2023-10-29 C3118A51\Data\Maps\castle1.map
+;          476  00:00.00 2023-10-29 C3118A51\Data\Maps\castle1.map.data
+;        13031  00:00.00 2023-10-29 C3118A51\Data\Maps\castle2.map
+;          483  00:00.00 2023-10-29 C3118A51\Data\Maps\castle2.map.data
+;         8534  00:00.00 2023-10-29 C3118A51\Data\Maps\castleTunnel.map
+;          223  00:00.00 2023-10-29 C3118A51\Data\Maps\castleTunnel.map.data
+;          200  00:00.00 2023-10-29 C3118A51\Data\Maps\cave bird.map.data
+;         9362  00:00.00 2023-10-29 C3118A51\Data\Maps\cave rooster.map
+;          264  00:00.00 2023-10-29 C3118A51\Data\Maps\cave rooster.map.data
+;         8015  00:00.00 2023-10-29 C3118A51\Data\Maps\cave0.map
+;          172  00:00.00 2023-10-29 C3118A51\Data\Maps\cave0.map.data
+;        10455  00:00.00 2023-10-29 C3118A51\Data\Maps\cave1.map
+;          487  00:00.00 2023-10-29 C3118A51\Data\Maps\cave1.map.data
+;         9539  00:00.00 2023-10-29 C3118A51\Data\Maps\cave10.map
+;          286  00:00.00 2023-10-29 C3118A51\Data\Maps\cave10.map.data
+;        10551  00:00.00 2023-10-29 C3118A51\Data\Maps\cave11.map
+;          491  00:00.00 2023-10-29 C3118A51\Data\Maps\cave11.map.data
+;         9759  00:00.00 2023-10-29 C3118A51\Data\Maps\cave12.map
+;          520  00:00.00 2023-10-29 C3118A51\Data\Maps\cave12.map.data
+;         9466  00:00.00 2023-10-29 C3118A51\Data\Maps\cave13.map
+;          259  00:00.00 2023-10-29 C3118A51\Data\Maps\cave13.map.data
+;         7963  00:00.00 2023-10-29 C3118A51\Data\Maps\cave14.map
+;          159  00:00.00 2023-10-29 C3118A51\Data\Maps\cave14.map.data
+;        10610  00:00.00 2023-10-29 C3118A51\Data\Maps\cave15.map
+;          393  00:00.00 2023-10-29 C3118A51\Data\Maps\cave15.map.data
+;         8992  00:00.00 2023-10-29 C3118A51\Data\Maps\cave16.map
+;          228  00:00.00 2023-10-29 C3118A51\Data\Maps\cave16.map.data
+;         7975  00:00.00 2023-10-29 C3118A51\Data\Maps\cave17.map
+;          231  00:00.00 2023-10-29 C3118A51\Data\Maps\cave17.map.data
+;         8776  00:00.00 2023-10-29 C3118A51\Data\Maps\cave18.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\cave18.map.data
+;         9663  00:00.00 2023-10-29 C3118A51\Data\Maps\cave19.map
+;          404  00:00.00 2023-10-29 C3118A51\Data\Maps\cave19.map.data
+;        11872  00:00.00 2023-10-29 C3118A51\Data\Maps\cave2.map
+;          642  00:00.00 2023-10-29 C3118A51\Data\Maps\cave2.map.data
+;         8482  00:00.00 2023-10-29 C3118A51\Data\Maps\cave20.map
+;          260  00:00.00 2023-10-29 C3118A51\Data\Maps\cave20.map.data
+;         9701  00:00.00 2023-10-29 C3118A51\Data\Maps\cave21.map
+;          387  00:00.00 2023-10-29 C3118A51\Data\Maps\cave21.map.data
+;        11590  00:00.00 2023-10-29 C3118A51\Data\Maps\cave22.map
+;          556  00:00.00 2023-10-29 C3118A51\Data\Maps\cave22.map.data
+;        11499  00:00.00 2023-10-29 C3118A51\Data\Maps\cave23.map
+;          492  00:00.00 2023-10-29 C3118A51\Data\Maps\cave23.map.data
+;        10200  00:00.00 2023-10-29 C3118A51\Data\Maps\cave24.map
+;          537  00:00.00 2023-10-29 C3118A51\Data\Maps\cave24.map.data
+;        12913  00:00.00 2023-10-29 C3118A51\Data\Maps\cave25.map
+;          685  00:00.00 2023-10-29 C3118A51\Data\Maps\cave25.map.data
+;         7691  00:00.00 2023-10-29 C3118A51\Data\Maps\cave26.map
+;          173  00:00.00 2023-10-29 C3118A51\Data\Maps\cave26.map.data
+;         8670  00:00.00 2023-10-29 C3118A51\Data\Maps\cave27.map
+;          295  00:00.00 2023-10-29 C3118A51\Data\Maps\cave27.map.data
+;         8357  00:00.00 2023-10-29 C3118A51\Data\Maps\cave28.map
+;          241  00:00.00 2023-10-29 C3118A51\Data\Maps\cave28.map.data
+;         8901  00:00.00 2023-10-29 C3118A51\Data\Maps\cave29.map
+;          148  00:00.00 2023-10-29 C3118A51\Data\Maps\cave29.map.data
+;         8761  00:00.00 2023-10-29 C3118A51\Data\Maps\cave3.map
+;          260  00:00.00 2023-10-29 C3118A51\Data\Maps\cave3.map.data
+;        10121  00:00.00 2023-10-29 C3118A51\Data\Maps\cave30.map
+;          457  00:00.00 2023-10-29 C3118A51\Data\Maps\cave30.map.data
+;         9586  00:00.00 2023-10-29 C3118A51\Data\Maps\cave31.map
+;          274  00:00.00 2023-10-29 C3118A51\Data\Maps\cave31.map.data
+;         9005  00:00.00 2023-10-29 C3118A51\Data\Maps\cave32.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\cave32.map.data
+;         7199  00:00.00 2023-10-29 C3118A51\Data\Maps\cave33.map
+;           83  00:00.00 2023-10-29 C3118A51\Data\Maps\cave33.map.data
+;         8676  00:00.00 2023-10-29 C3118A51\Data\Maps\cave3_2.map
+;          281  00:00.00 2023-10-29 C3118A51\Data\Maps\cave3_2.map.data
+;         8320  00:00.00 2023-10-29 C3118A51\Data\Maps\cave4.map
+;          153  00:00.00 2023-10-29 C3118A51\Data\Maps\cave4.map.data
+;         9636  00:00.00 2023-10-29 C3118A51\Data\Maps\cave5.map
+;          275  00:00.00 2023-10-29 C3118A51\Data\Maps\cave5.map.data
+;         8011  00:00.00 2023-10-29 C3118A51\Data\Maps\cave6.map
+;          159  00:00.00 2023-10-29 C3118A51\Data\Maps\cave6.map.data
+;        10226  00:00.00 2023-10-29 C3118A51\Data\Maps\cave7.map
+;          609  00:00.00 2023-10-29 C3118A51\Data\Maps\cave7.map.data
+;         8895  00:00.00 2023-10-29 C3118A51\Data\Maps\cave7_2.map
+;          267  00:00.00 2023-10-29 C3118A51\Data\Maps\cave7_2.map.data
+;         8061  00:00.00 2023-10-29 C3118A51\Data\Maps\cave8.map
+;          148  00:00.00 2023-10-29 C3118A51\Data\Maps\cave8.map.data
+;         9432  00:00.00 2023-10-29 C3118A51\Data\Maps\cave9.map
+;          221  00:00.00 2023-10-29 C3118A51\Data\Maps\cave9.map.data
+;         8234  00:00.00 2023-10-29 C3118A51\Data\Maps\caveBat1.map
+;          168  00:00.00 2023-10-29 C3118A51\Data\Maps\caveBat1.map.data
+;         8222  00:00.00 2023-10-29 C3118A51\Data\Maps\caveBat2.map
+;          168  00:00.00 2023-10-29 C3118A51\Data\Maps\caveBat2.map.data
+;         8117  00:00.00 2023-10-29 C3118A51\Data\Maps\caveBat3.map
+;          168  00:00.00 2023-10-29 C3118A51\Data\Maps\caveBat3.map.data
+;         8186  00:00.00 2023-10-29 C3118A51\Data\Maps\caveFairy1.map
+;          148  00:00.00 2023-10-29 C3118A51\Data\Maps\caveFairy1.map.data
+;         8186  00:00.00 2023-10-29 C3118A51\Data\Maps\caveFairy2.map
+;          148  00:00.00 2023-10-29 C3118A51\Data\Maps\caveFairy2.map.data
+;         8186  00:00.00 2023-10-29 C3118A51\Data\Maps\caveFairyMountain.map
+;          148  00:00.00 2023-10-29 C3118A51\Data\Maps\caveFairyMountain.map.data
+;         7931  00:00.00 2023-10-29 C3118A51\Data\Maps\caveFrogs.map
+;          148  00:00.00 2023-10-29 C3118A51\Data\Maps\caveFrogs.map.data
+;         9034  00:00.00 2023-10-29 C3118A51\Data\Maps\caveMirror.map
+;          341  00:00.00 2023-10-29 C3118A51\Data\Maps\caveMirror.map.data
+;         7353  00:00.00 2023-10-29 C3118A51\Data\Maps\caveTemple.map
+;          110  00:00.00 2023-10-29 C3118A51\Data\Maps\caveTemple.map.data
+;        11496  00:00.00 2023-10-29 C3118A51\Data\Maps\caveVillage.map
+;          523  00:00.00 2023-10-29 C3118A51\Data\Maps\caveVillage.map.data
+;        10712  00:00.00 2023-10-29 C3118A51\Data\Maps\desertTemple.map
+;          372  00:00.00 2023-10-29 C3118A51\Data\Maps\desertTemple.map.data
+;         8139  00:00.00 2023-10-29 C3118A51\Data\Maps\dreamShrine01.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\dreamShrine01.map.data
+;        13459  00:00.00 2023-10-29 C3118A51\Data\Maps\dreamShrine02.map
+;          360  00:00.00 2023-10-29 C3118A51\Data\Maps\dreamShrine02.map.data
+;          200  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon 7_2d.map.data
+;        40400  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon1.map
+;         3782  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon1.map.data
+;         9268  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon1_2d_1.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon1_2d_1.map.data
+;         8815  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon1_2d_2.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon1_2d_2.map.data
+;        44517  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon2.map
+;         3720  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon2.map.data
+;         8805  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon2_2d_1.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon2_2d_1.map.data
+;         8821  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon2_2d_2.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon2_2d_2.map.data
+;         9206  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon2_2d_3.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon2_2d_3.map.data
+;        17217  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon3_1.map
+;         1016  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon3_1.map.data
+;        14801  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon3_2.map
+;          892  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon3_2.map.data
+;         9133  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon3_2d.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon3_2d.map.data
+;        25329  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon3_3.map
+;         1504  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon3_3.map.data
+;        13817  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon3_4.map
+;          656  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon3_4.map.data
+;        64289  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon4.map
+;         3720  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon4.map.data
+;         9008  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon4_2d_1.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon4_2d_1.map.data
+;         9832  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon4_2d_2.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon4_2d_2.map.data
+;         8995  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon4_2d_3.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon4_2d_3.map.data
+;        11732  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon4_2d_4.map
+;          260  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon4_2d_4.map.data
+;        57085  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5.map
+;         4966  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5.map.data
+;         9212  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5_2d_1.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5_2d_1.map.data
+;         9590  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5_2d_2.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5_2d_2.map.data
+;         9122  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5_2d_3.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5_2d_3.map.data
+;         9747  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5_2d_4.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5_2d_4.map.data
+;         9436  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5_entry.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon5_entry.map.data
+;        73833  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon6.map
+;         5023  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon6.map.data
+;         9192  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon6_2d_1.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon6_2d_1.map.data
+;         8869  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon6_2d_2.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon6_2d_2.map.data
+;         9150  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon6_2d_3.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon6_2d_3.map.data
+;        32498  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon7_1.map
+;         1548  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon7_1.map.data
+;        27730  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon7_2.map
+;         1504  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon7_2.map.data
+;         8423  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon7_2d.map
+;          224  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon7_2d.map.data
+;        23582  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon7_3.map
+;         1504  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon7_3.map.data
+;        23073  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon7_4.map
+;         1504  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon7_4.map.data
+;        75879  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8.map
+;         5703  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8.map.data
+;         9159  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_1.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_1.map.data
+;         9153  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_2.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_2.map.data
+;         9048  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_3.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_3.map.data
+;         9413  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_4.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_4.map.data
+;         9048  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_5.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_5.map.data
+;         9069  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_6.map
+;          248  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon8_2d_6.map.data
+;        38954  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon_color.map
+;         2760  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon_color.map.data
+;          200  00:00.00 2023-10-29 C3118A51\Data\Maps\dungeon_end.map.data
+;         7560  00:00.00 2023-10-29 C3118A51\Data\Maps\egg_boss_room.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\egg_boss_room.map.data
+;        10614  00:00.00 2023-10-29 C3118A51\Data\Maps\egg_entry.map
+;          212  00:00.00 2023-10-29 C3118A51\Data\Maps\egg_entry.map.data
+;        14649  00:00.00 2023-10-29 C3118A51\Data\Maps\egg_lower_floor.map
+;         1288  00:00.00 2023-10-29 C3118A51\Data\Maps\egg_lower_floor.map.data
+;         7315  00:00.00 2023-10-29 C3118A51\Data\Maps\final stairs.map
+;          126  00:00.00 2023-10-29 C3118A51\Data\Maps\final stairs.map.data
+;         7957  00:00.00 2023-10-29 C3118A51\Data\Maps\hauntedhouse.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\hauntedhouse.map.data
+;         7125  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse1.map
+;           46  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse1.map.data
+;         7125  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse2.map
+;           46  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse2.map.data
+;         7113  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse3.map
+;           46  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse3.map.data
+;         7125  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse4.map
+;           46  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse4.map.data
+;         7125  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse5.map
+;           46  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse5.map.data
+;         7113  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse6.map
+;           46  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse6.map.data
+;         7113  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse7.map
+;           46  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse7.map.data
+;         7113  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse8.map
+;           46  00:00.00 2023-10-29 C3118A51\Data\Maps\helphouse8.map.data
+;         7875  00:00.00 2023-10-29 C3118A51\Data\Maps\house mountain.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house mountain.map.data
+;         7851  00:00.00 2023-10-29 C3118A51\Data\Maps\house raft.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house raft.map.data
+;         8189  00:00.00 2023-10-29 C3118A51\Data\Maps\house1.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house1.map.data
+;         8919  00:00.00 2023-10-29 C3118A51\Data\Maps\house10.map
+;          159  00:00.00 2023-10-29 C3118A51\Data\Maps\house10.map.data
+;         7800  00:00.00 2023-10-29 C3118A51\Data\Maps\house11.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house11.map.data
+;         8050  00:00.00 2023-10-29 C3118A51\Data\Maps\house12.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house12.map.data
+;         8081  00:00.00 2023-10-29 C3118A51\Data\Maps\house13.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house13.map.data
+;         7905  00:00.00 2023-10-29 C3118A51\Data\Maps\house14.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house14.map.data
+;         7941  00:00.00 2023-10-29 C3118A51\Data\Maps\house2.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house2.map.data
+;         7902  00:00.00 2023-10-29 C3118A51\Data\Maps\house3m.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house3m.map.data
+;         7084  00:00.00 2023-10-29 C3118A51\Data\Maps\house3n.map
+;           71  00:00.00 2023-10-29 C3118A51\Data\Maps\house3n.map.data
+;        10023  00:00.00 2023-10-29 C3118A51\Data\Maps\house4.map
+;          183  00:00.00 2023-10-29 C3118A51\Data\Maps\house4.map.data
+;         8086  00:00.00 2023-10-29 C3118A51\Data\Maps\house6.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house6.map.data
+;         8221  00:00.00 2023-10-29 C3118A51\Data\Maps\house7.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house7.map.data
+;         7824  00:00.00 2023-10-29 C3118A51\Data\Maps\house8.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house8.map.data
+;         7739  00:00.00 2023-10-29 C3118A51\Data\Maps\house9.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\house9.map.data
+;         7957  00:00.00 2023-10-29 C3118A51\Data\Maps\library.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\library.map.data
+;       419071  00:00.00 2023-10-29 C3118A51\Data\Maps\overworld.map
+;        28882  00:00.00 2023-10-29 C3118A51\Data\Maps\overworld.map.data
+;         7803  00:00.00 2023-10-29 C3118A51\Data\Maps\photoHouse.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\photoHouse.map.data
+;         7323  00:00.00 2023-10-29 C3118A51\Data\Maps\pond.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\pond.map.data
+;         7808  00:00.00 2023-10-29 C3118A51\Data\Maps\shellhouse.map
+;          148  00:00.00 2023-10-29 C3118A51\Data\Maps\shellhouse.map.data
+;         7863  00:00.00 2023-10-29 C3118A51\Data\Maps\shop1.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\shop1.map.data
+;         8237  00:00.00 2023-10-29 C3118A51\Data\Maps\shop2.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\shop2.map.data
+;         8145  00:00.00 2023-10-29 C3118A51\Data\Maps\shop3.map
+;          103  00:00.00 2023-10-29 C3118A51\Data\Maps\shop3.map.data
+;         8198  00:00.00 2023-10-29 C3118A51\Data\Maps\underwater fish.map
+;          148  00:00.00 2023-10-29 C3118A51\Data\Maps\underwater fish.map.data
+;         4994  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\blur tileset.png
+;         8314  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\castle.png
+;        28629  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\cave.png
+;        21098  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\desertTempleTileset.png
+;         3918  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\dreamShrineTileset.png
+;         5960  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\dungeon 1.png
+;         4935  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\dungeon 2.png
+;        16871  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\dungeon 3.png
+;        16175  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\dungeon 4.png
+;        13959  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\dungeon 5.png
+;         6369  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\dungeon 6.png
+;        16944  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\dungeon 7.png
+;        18893  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\dungeon 8.png
+;        16531  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\dungeon color.png
+;         3309  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\egg.png
+;        11645  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\hole.png
+;        10626  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\house.png
+;        30937  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\tileset 2d.png
+;          142  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\tileset size.txt
+;        83751  00:00.00 2023-10-29 C3118A51\Data\Maps\Tilesets\tileset0.png
+;        48295  00:00.00 2023-10-29 C3118A51\Data\Music\awakening.gbs
+;          508  00:00.00 2023-10-29 C3118A51\Data\Photo Mode\photos.atlas
+;        80166  00:00.00 2023-10-29 C3118A51\Data\Photo Mode\photos.png
+;          995  00:00.00 2023-10-29 C3118A51\Data\Sequences\end sequence.atlas
+;        96738  00:00.00 2023-10-29 C3118A51\Data\Sequences\end sequence.png
+;          573  00:00.00 2023-10-29 C3118A51\Data\Sequences\game sequences.atlas
+;        71117  00:00.00 2023-10-29 C3118A51\Data\Sequences\game sequences.png
+;          997  00:00.00 2023-10-29 C3118A51\Data\Sequences\thanos noise.png
+;           69  00:00.00 2023-10-29 C3118A51\Data\Sequences\wind fish.atlas
+;         3879  00:00.00 2023-10-29 C3118A51\Data\Sequences\wind fish.png
+C3118A51\D1F90308.ico D1F90308
+C3118A51\Link's Awakening DX HD.exe C3118A51
+C3118A51\Content\Editor\delete.xnb 49AAF91B
+C3118A51\Content\Editor\edit.xnb FF6E3A74
+C3118A51\Content\Editor\eye_closed.xnb F322630A
+C3118A51\Content\Editor\eye_open.xnb F80D8CF7
+C3118A51\Content\Editor\select.xnb E92FBAAA
+C3118A51\Content\Fonts\credits font.xnb BFC00E3B
+C3118A51\Content\Fonts\credits header font.xnb 7B090B91
+C3118A51\Content\Fonts\editor font.xnb D83DFBEA
+C3118A51\Content\Fonts\editor mono font.xnb C8EDA7A3
+C3118A51\Content\Fonts\editor small mono font.xnb 958A567C
+C3118A51\Content\Fonts\headerFont.xnb 60683638
+C3118A51\Content\Fonts\newHeaderFont.xnb 4861D7AE
+C3118A51\Content\Fonts\smallFont.xnb 8DD606CD
+C3118A51\Content\Light\doorLight.xnb 7C462AEA
+C3118A51\Content\Light\dungeon.xnb 394E8533
+C3118A51\Content\Light\light.xnb 97278C31
+C3118A51\Content\Light\ligth room vertical.xnb A6DF33A3
+C3118A51\Content\Light\ligth room.xnb BB589451
+C3118A51\Content\Light\shadow.xnb B06AD8F5
+C3118A51\Content\Menu\copyIcon.xnb 30BF129B
+C3118A51\Content\Menu\gearIcon.xnb 0CA80FE8
+C3118A51\Content\Menu\menuBackground.xnb D376979C
+C3118A51\Content\Menu\trashIcon.xnb 2519AFA7
+C3118A51\Content\Objects\fog.xnb D449224D
+C3118A51\Content\Shader\BBlurH.xnb 2F64D4F4
+C3118A51\Content\Shader\BBlurV.xnb 29C5D577
+C3118A51\Content\Shader\BlurH.xnb 578102FD
+C3118A51\Content\Shader\BlurV.xnb 2E82431A
+C3118A51\Content\Shader\CircleShader.xnb 0EC4FCA4
+C3118A51\Content\Shader\ColorCloud.xnb 983FEBAF
+C3118A51\Content\Shader\ColorShader.xnb 5B5EF8F6
+C3118A51\Content\Shader\DamageShader.xnb 2D4817C7
+C3118A51\Content\Shader\EffectBlur.xnb C4AE6D51
+C3118A51\Content\Shader\FullShadowEffect.xnb 37F60B33
+C3118A51\Content\Shader\LightFadeShader.xnb F7F82D89
+C3118A51\Content\Shader\LightShader.xnb DFE636B7
+C3118A51\Content\Shader\RoundedCorner.xnb 695F9B66
+C3118A51\Content\Shader\RoundedCornerEffectBlur.xnb CEC23F44
+C3118A51\Content\Shader\SaturationFilter.xnb E2480896
+C3118A51\Content\Shader\ShockEffect.xnb 403A4BF1
+C3118A51\Content\Shader\ThanosShader.xnb B35022E1
+C3118A51\Content\Shader\WaleShader.xnb 92874894
+C3118A51\Content\Shader\WobbleShader.xnb 37819DE6
+C3118A51\Content\SoundEffects\D360-01-01.xnb 67D9D03F
+C3118A51\Content\SoundEffects\D360-02-02.xnb B69AA8AE
+C3118A51\Content\SoundEffects\D360-03-03.xnb 40FD37E3
+C3118A51\Content\SoundEffects\D360-04-04.xnb DF81ECD5
+C3118A51\Content\SoundEffects\D360-05-05.xnb 610C321C
+C3118A51\Content\SoundEffects\D360-06-06.xnb 0C428EF6
+C3118A51\Content\SoundEffects\D360-07-07.xnb EF9B9AE8
+C3118A51\Content\SoundEffects\D360-08-08.xnb 847D97E7
+C3118A51\Content\SoundEffects\D360-09-09.xnb 9AF8F958
+C3118A51\Content\SoundEffects\D360-10-0A.xnb 10E8D9F5
+C3118A51\Content\SoundEffects\D360-11-0B.xnb F42959F0
+C3118A51\Content\SoundEffects\D360-12-0C.xnb A49E6E67
+C3118A51\Content\SoundEffects\D360-13-0D.xnb 304A8BCA
+C3118A51\Content\SoundEffects\D360-14-0E.xnb DFBBA943
+C3118A51\Content\SoundEffects\D360-15-0F.xnb 86FBA3F9
+C3118A51\Content\SoundEffects\D360-16-10.xnb 2109713F
+C3118A51\Content\SoundEffects\D360-17-11.xnb 16E0C478
+C3118A51\Content\SoundEffects\D360-18-12.xnb 1AAA4992
+C3118A51\Content\SoundEffects\D360-19-13.xnb F0980826
+C3118A51\Content\SoundEffects\D360-20-14.xnb CC67538F
+C3118A51\Content\SoundEffects\D360-21-15.xnb D072B64A
+C3118A51\Content\SoundEffects\D360-22-16.xnb 9B570A04
+C3118A51\Content\SoundEffects\D360-23-17.xnb F3849F72
+C3118A51\Content\SoundEffects\D360-24-18.xnb 07F875F3
+C3118A51\Content\SoundEffects\D360-25-19.xnb 4A51DEF8
+C3118A51\Content\SoundEffects\D360-26-1A.xnb 15D1675C
+C3118A51\Content\SoundEffects\D360-27-1B.xnb BE2E7228
+C3118A51\Content\SoundEffects\D360-28-1C.xnb C2933447
+C3118A51\Content\SoundEffects\D360-29-1D.xnb 200E0671
+C3118A51\Content\SoundEffects\D360-30-1E.xnb 8F7CD059
+C3118A51\Content\SoundEffects\D360-31-1F.xnb 0F766EA9
+C3118A51\Content\SoundEffects\D360-32-20.xnb AB878889
+C3118A51\Content\SoundEffects\D360-33-21.xnb 19F40486
+C3118A51\Content\SoundEffects\D360-34-22.xnb 7936EAA4
+C3118A51\Content\SoundEffects\D360-35-23.xnb DE065096
+C3118A51\Content\SoundEffects\D360-36-24.xnb 7DAF8BAB
+C3118A51\Content\SoundEffects\D360-37-25.xnb 851974FE
+C3118A51\Content\SoundEffects\D360-38-26.xnb CAC81DD3
+C3118A51\Content\SoundEffects\D360-39-27.xnb F816F2C9
+C3118A51\Content\SoundEffects\D360-40-28.xnb 230CB56D
+C3118A51\Content\SoundEffects\D360-41-29.xnb D331F6CB
+C3118A51\Content\SoundEffects\D360-42-2A.xnb 4280FC56
+C3118A51\Content\SoundEffects\D360-43-2B.xnb F3B26202
+C3118A51\Content\SoundEffects\D360-44-2C.xnb 7B0F4282
+C3118A51\Content\SoundEffects\D360-45-2D.xnb A52F3C85
+C3118A51\Content\SoundEffects\D360-46-2E.xnb D557A737
+C3118A51\Content\SoundEffects\D360-47-2F.xnb 5E23DF93
+C3118A51\Content\SoundEffects\D360-48-30.xnb 9BC57A0A
+C3118A51\Content\SoundEffects\D360-49-31.xnb E7EFCF50
+C3118A51\Content\SoundEffects\D360-50-32.xnb DA19FE6C
+C3118A51\Content\SoundEffects\D360-51-33.xnb 643CBE3F
+C3118A51\Content\SoundEffects\D360-52-34.xnb C03488E1
+C3118A51\Content\SoundEffects\D360-53-35.xnb 5F1EA9FB
+C3118A51\Content\SoundEffects\D360-54-36.xnb 2EB1EC98
+C3118A51\Content\SoundEffects\D360-55-37.xnb 089A2FFF
+C3118A51\Content\SoundEffects\D360-56-38.xnb 7E6DC0EB
+C3118A51\Content\SoundEffects\D360-57-39.xnb C53F9149
+C3118A51\Content\SoundEffects\D360-58-3A.xnb 22EF340B
+C3118A51\Content\SoundEffects\D360-59-3B.xnb 02A593B0
+C3118A51\Content\SoundEffects\D360-60-3C.xnb B9E5F214
+C3118A51\Content\SoundEffects\D360-61-3D.xnb 97A9A189
+C3118A51\Content\SoundEffects\D360-62-3E.xnb D2825906
+C3118A51\Content\SoundEffects\D360-63-3F.xnb C5D7DDB0
+C3118A51\Content\SoundEffects\D360-64-40.xnb A20DE63E
+C3118A51\Content\SoundEffects\D360-65-41.xnb 334F738A
+C3118A51\Content\SoundEffects\D368-16-10.xnb 7CF7FF89
+C3118A51\Content\SoundEffects\D370-01-01.xnb 21B6BA1A
+C3118A51\Content\SoundEffects\D370-02-02.xnb 138A846C
+C3118A51\Content\SoundEffects\D370-03-03.xnb 9ACFBB4E
+C3118A51\Content\SoundEffects\D370-04-04.xnb B64416D9
+C3118A51\Content\SoundEffects\D370-05-05.xnb 07243651
+C3118A51\Content\SoundEffects\D370-06-06.xnb 37388C36
+C3118A51\Content\SoundEffects\D370-07-07.xnb 311F8867
+C3118A51\Content\SoundEffects\D370-08-08.xnb AD10D2DD
+C3118A51\Content\SoundEffects\D370-09-09.xnb F8CF24A7
+C3118A51\Content\SoundEffects\D370-10-0A.xnb 03373A90
+C3118A51\Content\SoundEffects\D370-11-0B.xnb 64AFEDD1
+C3118A51\Content\SoundEffects\D370-12-0C.xnb FE7C01D7
+C3118A51\Content\SoundEffects\D370-13-0D.xnb CCFCBF37
+C3118A51\Content\SoundEffects\D370-14-0E.xnb E81799A7
+C3118A51\Content\SoundEffects\D370-15-0F.xnb 1911305C
+C3118A51\Content\SoundEffects\D370-16-10.xnb 2495E129
+C3118A51\Content\SoundEffects\D370-17-11.xnb FA7EE8D6
+C3118A51\Content\SoundEffects\D370-18-12.xnb 57969FCF
+C3118A51\Content\SoundEffects\D370-19-13.xnb B1EEFD5C
+C3118A51\Content\SoundEffects\D370-20-14.xnb 52B680D2
+C3118A51\Content\SoundEffects\D370-21-15.xnb 47585D27
+C3118A51\Content\SoundEffects\D370-22-16.xnb B84732BB
+C3118A51\Content\SoundEffects\D370-23-17.xnb 404588AF
+C3118A51\Content\SoundEffects\D370-24-18.xnb 4C587B62
+C3118A51\Content\SoundEffects\D370-25-19.xnb 95C717F4
+C3118A51\Content\SoundEffects\D370-26-1A.xnb 8718BFB6
+C3118A51\Content\SoundEffects\D370-27-1B.xnb F3E883D2
+C3118A51\Content\SoundEffects\D370-28-1C.xnb 233D6BB6
+C3118A51\Content\SoundEffects\D370-30-1E.xnb 465727C4
+C3118A51\Content\SoundEffects\D370-31-1F.xnb 25115725
+C3118A51\Content\SoundEffects\D370-32-20.xnb 23199FBF
+C3118A51\Content\SoundEffects\D370-33-21.xnb 4094705C
+C3118A51\Content\SoundEffects\D370-34-22.xnb 23199FBF
+C3118A51\Content\SoundEffects\D370-35-23.xnb 4AE73A77
+C3118A51\Content\SoundEffects\D378-01-01.xnb 09785111
+C3118A51\Content\SoundEffects\D378-02-02.xnb 648C3130
+C3118A51\Content\SoundEffects\D378-03-03.xnb 623F7239
+C3118A51\Content\SoundEffects\D378-04-04.xnb 504CAFCB
+C3118A51\Content\SoundEffects\D378-05-05.xnb D7B74262
+C3118A51\Content\SoundEffects\D378-06-06.xnb 3A6AA5CF
+C3118A51\Content\SoundEffects\D378-07-07.xnb 577CC20F
+C3118A51\Content\SoundEffects\D378-08-08.xnb C45A9AF2
+C3118A51\Content\SoundEffects\D378-09-09.xnb 559B58EB
+C3118A51\Content\SoundEffects\D378-10-0A.xnb 2B05B3E1
+C3118A51\Content\SoundEffects\D378-11-0B.xnb 119181B4
+C3118A51\Content\SoundEffects\D378-12-0C.xnb DCC75258
+C3118A51\Content\SoundEffects\D378-13-0D.xnb 160426B4
+C3118A51\Content\SoundEffects\D378-14-0E.xnb 998C563D
+C3118A51\Content\SoundEffects\D378-15-0F.xnb F8A06C24
+C3118A51\Content\SoundEffects\D378-16-10.xnb 49956885
+C3118A51\Content\SoundEffects\D378-17-11.xnb A8A4E8C1
+C3118A51\Content\SoundEffects\D378-18-12.xnb ECC49CEE
+C3118A51\Content\SoundEffects\D378-19-13.xnb 12E396D0
+C3118A51\Content\SoundEffects\D378-20-14.xnb E9706E0B
+C3118A51\Content\SoundEffects\D378-21-15.xnb E363FBF3
+C3118A51\Content\SoundEffects\D378-22-16.xnb 3B53F641
+C3118A51\Content\SoundEffects\D378-23-17.xnb C98428A5
+C3118A51\Content\SoundEffects\D378-24-18.xnb 964D116D
+C3118A51\Content\SoundEffects\D378-25-19.xnb BD080E72
+C3118A51\Content\SoundEffects\D378-26-1A.xnb 85A20ADF
+C3118A51\Content\SoundEffects\D378-27-1B.xnb 98789F30
+C3118A51\Content\SoundEffects\D378-28-1C.xnb 87A3CC8C
+C3118A51\Content\SoundEffects\D378-29-1D.xnb A8E122C7
+C3118A51\Content\SoundEffects\D378-30-1E.xnb D4D9606D
+C3118A51\Content\SoundEffects\D378-31-1F.xnb 4C1A90EB
+C3118A51\Content\SoundEffects\D378-32-20.xnb C52C1031
+C3118A51\Content\SoundEffects\D378-33-21.xnb A2ED9755
+C3118A51\Content\SoundEffects\D378-34-22.xnb 4EFD3F6E
+C3118A51\Content\SoundEffects\D378-35-23.xnb 83C95E07
+C3118A51\Content\SoundEffects\D378-36-24.xnb D56EBF97
+C3118A51\Content\SoundEffects\D378-37-25.xnb 1D33F19E
+C3118A51\Content\SoundEffects\D378-38-26.xnb 5AFC92F4
+C3118A51\Content\SoundEffects\D378-39-27.xnb 5ECC3CC9
+C3118A51\Content\SoundEffects\D378-40-28.xnb 4067A65E
+C3118A51\Content\SoundEffects\D378-41-29.xnb F2098A1E
+C3118A51\Content\SoundEffects\D378-42-2A.xnb 06C14F55
+C3118A51\Content\SoundEffects\D378-43-2B.xnb B44B406C
+C3118A51\Content\SoundEffects\D378-44-2C.xnb 84FAAF54
+C3118A51\Content\SoundEffects\D378-45-2D.xnb 0555E1D3
+C3118A51\Content\SoundEffects\D378-46-2E.xnb 966A08A1
+C3118A51\Content\SoundEffects\D378-47-2F.xnb C6723C3E
+C3118A51\Content\SoundEffects\D378-48-30.xnb 333EA8D6
+C3118A51\Content\SoundEffects\D378-49-31.xnb B5AFD638
+C3118A51\Content\SoundEffects\D378-50-32.xnb E92E4EBB
+C3118A51\Content\SoundEffects\D378-51-33.xnb 78CA6F94
+C3118A51\Content\SoundEffects\D378-52-34.xnb 7E3CCDF7
+C3118A51\Content\SoundEffects\D378-53-35.xnb 792386AB
+C3118A51\Content\SoundEffects\D378-54-36.xnb C236E8C3
+C3118A51\Content\SoundEffects\D378-55-37.xnb 017F6892
+C3118A51\Content\SoundEffects\D378-56-38.xnb F537CD61
+C3118A51\Content\SoundEffects\D378-57-39.xnb 473DC544
+C3118A51\Content\SoundEffects\D378-58-3A.xnb 248AF059
+C3118A51\Content\SoundEffects\D378-59-3B.xnb 00BE5181
+C3118A51\Content\SoundEffects\D378-60-3D.xnb 7468EB5B
+C3118A51\Content\SoundEffects\D378-61-3E.xnb 793BB95B
+C3118A51\Content\SoundEffects\D378-62-3F.xnb 86754503
+C3118A51\Content\SoundEffects\D378-63-40.xnb F79E5730
+C3118A51\Content\SoundEffects\D378-64-41.xnb 90299B56
+C3118A51\Data\musicOverworld.data C4EE9149
+C3118A51\Data\scripts.zScript C2540DAA
+C3118A51\Data\ui.atlas AA30BE48
+C3118A51\Data\ui.png 20D95D6D
+C3118A51\Data\Animations\dialog_arrow.ani CA3DE61D
+C3118A51\Data\Animations\dungeonPlayer.ani E8C96845
+C3118A51\Data\Animations\link fishing.ani 06C2097B
+C3118A51\Data\Animations\link0.ani CD352F5C
+C3118A51\Data\Animations\mapPlayer.ani B3B9B186
+C3118A51\Data\Animations\mapSelector.ani D5698F73
+C3118A51\Data\Animations\menu_link.ani 0F4E431C
+C3118A51\Data\Animations\Enemies\angler fry.ani 57D88142
+C3118A51\Data\Animations\Enemies\anti kirby suck.ani 98C91788
+C3118A51\Data\Animations\Enemies\anti kirby.ani 2DCE072E
+C3118A51\Data\Animations\Enemies\anti-fairy.ani C17226D0
+C3118A51\Data\Animations\Enemies\arm mimic.ani 5734DFE6
+C3118A51\Data\Animations\Enemies\armos.ani 91EBAABA
+C3118A51\Data\Animations\Enemies\beamos.ani 4D5CACE2
+C3118A51\Data\Animations\Enemies\beetle.ani 8A682EB0
+C3118A51\Data\Animations\Enemies\bladetrap.ani F13F2365
+C3118A51\Data\Animations\Enemies\bloober.ani 5721C654
+C3118A51\Data\Animations\Enemies\bomber.ani 55BB8597
+C3118A51\Data\Animations\Enemies\bombite.ani 13434C6E
+C3118A51\Data\Animations\Enemies\bombiteGreen.ani 7CEA2895
+C3118A51\Data\Animations\Enemies\bone putter.ani 90A2B415
+C3118A51\Data\Animations\Enemies\bone.ani 271941D5
+C3118A51\Data\Animations\Enemies\boo buddy.ani E99BC176
+C3118A51\Data\Animations\Enemies\buzzblob.ani 773EE0B2
+C3118A51\Data\Animations\Enemies\camo goblin.ani BD671AD9
+C3118A51\Data\Animations\Enemies\card boy.ani 6AF6198E
+C3118A51\Data\Animations\Enemies\cheep cheep.ani 6DD319C5
+C3118A51\Data\Animations\Enemies\crab.ani B0FFD539
+C3118A51\Data\Animations\Enemies\crow.ani B3BB36F9
+C3118A51\Data\Animations\Enemies\darknut spear.ani 2949A1F5
+C3118A51\Data\Animations\Enemies\darknut sword.ani E32D4C44
+C3118A51\Data\Animations\Enemies\darknut.ani A952A455
+C3118A51\Data\Animations\Enemies\fireball dungeon.ani 3B0537BA
+C3118A51\Data\Animations\Enemies\fireball.ani 94AF87C4
+C3118A51\Data\Animations\Enemies\fish.ani A088125A
+C3118A51\Data\Animations\Enemies\flame fountain fireball.ani 07D6CACC
+C3118A51\Data\Animations\Enemies\flame fountain.ani 1AC1B600
+C3118A51\Data\Animations\Enemies\floor layer.ani 86CA06EE
+C3118A51\Data\Animations\Enemies\flyingTile.ani E8C4CA02
+C3118A51\Data\Animations\Enemies\gel.ani 3B64CB46
+C3118A51\Data\Animations\Enemies\ghini.ani BD4BF61B
+C3118A51\Data\Animations\Enemies\ghiniGiant.ani 541C8FD6
+C3118A51\Data\Animations\Enemies\giant bubble.ani 8DA8B8C8
+C3118A51\Data\Animations\Enemies\gibdo.ani 9CDF71AE
+C3118A51\Data\Animations\Enemies\goomba.ani C0FE0898
+C3118A51\Data\Animations\Enemies\goponga flower giant.ani B507606F
+C3118A51\Data\Animations\Enemies\goponga flower.ani 88D286CD
+C3118A51\Data\Animations\Enemies\green zol.ani 133153AA
+C3118A51\Data\Animations\Enemies\hardhat beetle.ani 3FD885D1
+C3118A51\Data\Animations\Enemies\iron mask.ani 06F88A1B
+C3118A51\Data\Animations\Enemies\karakoro.ani 4377B56C
+C3118A51\Data\Animations\Enemies\keese.ani CD2581D4
+C3118A51\Data\Animations\Enemies\leever.ani 48906C4B
+C3118A51\Data\Animations\Enemies\likelike.ani 7CDAB91C
+C3118A51\Data\Animations\Enemies\mad bomber.ani E643962C
+C3118A51\Data\Animations\Enemies\mask mimic.ani DF3D7D3C
+C3118A51\Data\Animations\Enemies\mega thwomp.ani D4D0921F
+C3118A51\Data\Animations\Enemies\mini moldorm.ani 0899213C
+C3118A51\Data\Animations\Enemies\moblin sword sword.ani 5AF7436C
+C3118A51\Data\Animations\Enemies\moblin sword.ani 834226BE
+C3118A51\Data\Animations\Enemies\moblin.ani 9D33570B
+C3118A51\Data\Animations\Enemies\moblinPig sword.ani 6490A05D
+C3118A51\Data\Animations\Enemies\moblinPig.ani 763C71EC
+C3118A51\Data\Animations\Enemies\monkey.ani 321218AF
+C3118A51\Data\Animations\Enemies\octorok shot.ani CEDB7A50
+C3118A51\Data\Animations\Enemies\octorok.ani A45D0685
+C3118A51\Data\Animations\Enemies\pairodd projectile.ani 952731B2
+C3118A51\Data\Animations\Enemies\pairodd.ani 309CC7A6
+C3118A51\Data\Animations\Enemies\peahat.ani 0664960B
+C3118A51\Data\Animations\Enemies\pincer.ani 51A1ED0C
+C3118A51\Data\Animations\Enemies\piranha plant.ani B35CDCC1
+C3118A51\Data\Animations\Enemies\podoboo.ani 39DC3034
+C3118A51\Data\Animations\Enemies\pols voice.ani 7F19C6B6
+C3118A51\Data\Animations\Enemies\raven.ani 380A111C
+C3118A51\Data\Animations\Enemies\red zol.ani 89BBB4C7
+C3118A51\Data\Animations\Enemies\river zora.ani E508CC67
+C3118A51\Data\Animations\Enemies\rock.ani 6F0D16E2
+C3118A51\Data\Animations\Enemies\rope.ani 395B5B1C
+C3118A51\Data\Animations\Enemies\sea urchin.ani 6384F682
+C3118A51\Data\Animations\Enemies\shrouded stalfos.ani 8BBB4DA9
+C3118A51\Data\Animations\Enemies\spark.ani E1D9FF37
+C3118A51\Data\Animations\Enemies\spiked beetle.ani 7C7E048D
+C3118A51\Data\Animations\Enemies\spiked thwomp.ani B1630C54
+C3118A51\Data\Animations\Enemies\spiny Beetle.ani 57C9D819
+C3118A51\Data\Animations\Enemies\stalfos green.ani 012D5648
+C3118A51\Data\Animations\Enemies\stalfos knight sword.ani 490720F6
+C3118A51\Data\Animations\Enemies\stalfos knight.ani FE7F2CF7
+C3118A51\Data\Animations\Enemies\stalfos orange.ani 069DA733
+C3118A51\Data\Animations\Enemies\star.ani 8E7C92FB
+C3118A51\Data\Animations\Enemies\tektite.ani 78DB210F
+C3118A51\Data\Animations\Enemies\thwimp.ani A4465307
+C3118A51\Data\Animations\Enemies\vacuum.ani 87F32695
+C3118A51\Data\Animations\Enemies\vire bat.ani 36544501
+C3118A51\Data\Animations\Enemies\vire.ani 9B65167E
+C3118A51\Data\Animations\Enemies\vireball.ani 29842FD9
+C3118A51\Data\Animations\Enemies\water tektite.ani ABD584E6
+C3118A51\Data\Animations\Enemies\wizzrobe.ani 337E752A
+C3118A51\Data\Animations\Enemies\zombie.ani 65344391
+C3118A51\Data\Animations\Intro\light.ani DE81F5AD
+C3118A51\Data\Animations\Intro\link.ani F1398D1E
+C3118A51\Data\Animations\Intro\link_boat.ani C46FA813
+C3118A51\Data\Animations\Intro\loading.ani 30E0CEC9
+C3118A51\Data\Animations\Intro\maria.ani BE6EA5A7
+C3118A51\Data\Animations\Intro\thunder.ani F97F3E95
+C3118A51\Data\Animations\MidBoss\armosKnight.ani 7090DD11
+C3118A51\Data\Animations\MidBoss\ball and chain soldier.ani 36238CD6
+C3118A51\Data\Animations\MidBoss\bigMoblin.ani 6FDDC0C8
+C3118A51\Data\Animations\MidBoss\blaino.ani 07D7F9BF
+C3118A51\Data\Animations\MidBoss\cue ball.ani CA73F42B
+C3118A51\Data\Animations\MidBoss\desertLanmola.ani 1A339BCC
+C3118A51\Data\Animations\MidBoss\giant buzz blob.ani 37379EFE
+C3118A51\Data\Animations\MidBoss\gohma.ani F53146A3
+C3118A51\Data\Animations\MidBoss\grim creeper fly.ani C36DCFC2
+C3118A51\Data\Animations\MidBoss\grim creeper.ani 8D367A41
+C3118A51\Data\Animations\MidBoss\hinox.ani 025D5817
+C3118A51\Data\Animations\MidBoss\mbossOne.ani 1624B3B5
+C3118A51\Data\Animations\MidBoss\mbossOneBoss.ani B0E057C1
+C3118A51\Data\Animations\MidBoss\smasher.ani D737EED8
+C3118A51\Data\Animations\MidBoss\stone hinox.ani 1FDC8DF6
+C3118A51\Data\Animations\MidBoss\turtle rock.ani 3EB1ABF6
+C3118A51\Data\Animations\Nightmares\anger fish stone.ani AD513F62
+C3118A51\Data\Animations\Nightmares\anger fish.ani F378FD18
+C3118A51\Data\Animations\Nightmares\evil eagle.ani 64C6AB0B
+C3118A51\Data\Animations\Nightmares\facade hole.ani CF82B36D
+C3118A51\Data\Animations\Nightmares\facade.ani 5FF8F5E1
+C3118A51\Data\Animations\Nightmares\genie bottle.ani 455219E3
+C3118A51\Data\Animations\Nightmares\genie smoke.ani 42A0F4C5
+C3118A51\Data\Animations\Nightmares\genie.ani 74FB0BE7
+C3118A51\Data\Animations\Nightmares\hardhit beetle shot.ani 01342908
+C3118A51\Data\Animations\Nightmares\hardhit beetle.ani A69532DA
+C3118A51\Data\Animations\Nightmares\hot head.ani A5B846BC
+C3118A51\Data\Animations\Nightmares\nightmare bat.ani 8C9B726C
+C3118A51\Data\Animations\Nightmares\nightmare eye.ani 4D385D12
+C3118A51\Data\Animations\Nightmares\nightmare final.ani 9F1D4771
+C3118A51\Data\Animations\Nightmares\nightmare fireball.ani BC11FAA3
+C3118A51\Data\Animations\Nightmares\nightmare ganon weapon.ani 0027B355
+C3118A51\Data\Animations\Nightmares\nightmare particle.ani 8FE1DA5E
+C3118A51\Data\Animations\Nightmares\nightmare tail.ani C2A68FF1
+C3118A51\Data\Animations\Nightmares\nightmare.ani 2045424A
+C3118A51\Data\Animations\Nightmares\slime eel.ani 223B7F1E
+C3118A51\Data\Animations\NPCs\alligator.ani 288506D9
+C3118A51\Data\Animations\NPCs\animal 02.ani 0B3CF9E7
+C3118A51\Data\Animations\NPCs\animal 03.ani 9954243D
+C3118A51\Data\Animations\NPCs\animal_rabbit.ani 09BCFB6F
+C3118A51\Data\Animations\NPCs\bat.ani A7F44BF3
+C3118A51\Data\Animations\NPCs\bee target.ani 59B9C2EA
+C3118A51\Data\Animations\NPCs\bee.ani CE48FB32
+C3118A51\Data\Animations\NPCs\bird.ani 0B936B08
+C3118A51\Data\Animations\NPCs\BowWow.ani AC24BA9E
+C3118A51\Data\Animations\NPCs\bowWowSmall.ani 4146D4AF
+C3118A51\Data\Animations\NPCs\broom.ani DF244A15
+C3118A51\Data\Animations\NPCs\butterfly.ani A3B6CA14
+C3118A51\Data\Animations\NPCs\cock.ani 619C9818
+C3118A51\Data\Animations\NPCs\dance fish.ani 476BBDEF
+C3118A51\Data\Animations\NPCs\dog.ani 30C6F4BB
+C3118A51\Data\Animations\NPCs\fairy.ani E724A280
+C3118A51\Data\Animations\NPCs\fish_big.ani 4C17929D
+C3118A51\Data\Animations\NPCs\fish_small.ani 7CD110FD
+C3118A51\Data\Animations\NPCs\frog.ani 9BE575B8
+C3118A51\Data\Animations\NPCs\ghost.ani D2C4071E
+C3118A51\Data\Animations\NPCs\letterBird.ani 1068ABE2
+C3118A51\Data\Animations\NPCs\letterBirdGreen.ani 5F4FC2D3
+C3118A51\Data\Animations\NPCs\mamu.ani C5511214
+C3118A51\Data\Animations\NPCs\manbo.ani 2EB7BF59
+C3118A51\Data\Animations\NPCs\marin.ani CED44DC3
+C3118A51\Data\Animations\NPCs\marin_letter.ani CB7508A9
+C3118A51\Data\Animations\NPCs\monkey.ani E8F9F29B
+C3118A51\Data\Animations\NPCs\mouse.ani 37026AEE
+C3118A51\Data\Animations\NPCs\npc04.ani 18F92164
+C3118A51\Data\Animations\NPCs\npc05.ani B22AB813
+C3118A51\Data\Animations\NPCs\npc07.ani BE0D90DC
+C3118A51\Data\Animations\NPCs\npc09.ani FD315137
+C3118A51\Data\Animations\NPCs\npc_boy_left.ani C0AA868C
+C3118A51\Data\Animations\NPCs\npc_boy_right.ani 675EE2A2
+C3118A51\Data\Animations\NPCs\npc_chef.ani 273B1382
+C3118A51\Data\Animations\NPCs\npc_chicken_dude.ani 0D98FF32
+C3118A51\Data\Animations\NPCs\npc_color_dungeon_blue.ani F6A0BECE
+C3118A51\Data\Animations\NPCs\npc_color_dungeon_red.ani A5CCF023
+C3118A51\Data\Animations\NPCs\npc_fisherman.ani CCB50255
+C3118A51\Data\Animations\NPCs\npc_frog_boy.ani DCCDAD8E
+C3118A51\Data\Animations\NPCs\npc_green_boy.ani B71F5E6F
+C3118A51\Data\Animations\NPCs\npc_hidden.ani 3B7573EB
+C3118A51\Data\Animations\NPCs\npc_hippo.ani C106B0E5
+C3118A51\Data\Animations\NPCs\npc_letter_boy.ani F4B1D72E
+C3118A51\Data\Animations\NPCs\npc_letter_girl.ani FC291080
+C3118A51\Data\Animations\NPCs\npc_lost_boy.ani F6242DE6
+C3118A51\Data\Animations\NPCs\npc_mermaid.ani F3F29331
+C3118A51\Data\Animations\NPCs\npc_painter.ani D59DECF3
+C3118A51\Data\Animations\NPCs\npc_raft.ani 7B9A3320
+C3118A51\Data\Animations\NPCs\npc_red_boy.ani 1C6BDF36
+C3118A51\Data\Animations\NPCs\npc_tracy.ani FD1640B9
+C3118A51\Data\Animations\NPCs\npc_trendy.ani 5EE22DE9
+C3118A51\Data\Animations\NPCs\npc_woman_broom.ani 8D06AB30
+C3118A51\Data\Animations\NPCs\npc_zora.ani 01FA6DC5
+C3118A51\Data\Animations\NPCs\owl.ani 5BC9BCC8
+C3118A51\Data\Animations\NPCs\photo_mouse.ani 280F6BA1
+C3118A51\Data\Animations\NPCs\raccoon.ani F3A2F950
+C3118A51\Data\Animations\NPCs\shopkeeper.ani 4F908FAD
+C3118A51\Data\Animations\NPCs\singing frog.ani ABC42D80
+C3118A51\Data\Animations\NPCs\tarin mushroom.ani F00E7238
+C3118A51\Data\Animations\NPCs\tarin stick.ani D2CF7D36
+C3118A51\Data\Animations\NPCs\tarin.ani 2EEFA702
+C3118A51\Data\Animations\NPCs\walrus particle.ani F3C68806
+C3118A51\Data\Animations\NPCs\walrus.ani 2F11EF52
+C3118A51\Data\Animations\NPCs\witch.ani 663F2CC2
+C3118A51\Data\Animations\Objects\bomb.ani 728011AD
+C3118A51\Data\Animations\Objects\boomerang.ani 51B798C5
+C3118A51\Data\Animations\Objects\d7 tower bottom.ani 3771B671
+C3118A51\Data\Animations\Objects\d7 tower top 1.ani C54EDD96
+C3118A51\Data\Animations\Objects\d7 tower top 2.ani 8C77F2C0
+C3118A51\Data\Animations\Objects\d7 tower.ani C3BB161A
+C3118A51\Data\Animations\Objects\dOneWay.ani 5708FF19
+C3118A51\Data\Animations\Objects\dTeleporter.ani F9D2C9B7
+C3118A51\Data\Animations\Objects\dungeon color switch.ani D5385628
+C3118A51\Data\Animations\Objects\explosion.ani 5613DE22
+C3118A51\Data\Animations\Objects\holeTeleporter.ani 56B7F301
+C3118A51\Data\Animations\Objects\ice block.ani 1FBA8BF2
+C3118A51\Data\Animations\Objects\lamp_floor.ani ACB8C2A6
+C3118A51\Data\Animations\Objects\lamp_torch.ani C66404AC
+C3118A51\Data\Animations\Objects\lamp_torch_blue.ani BFECF618
+C3118A51\Data\Animations\Objects\lamp_wall.ani DE53D956
+C3118A51\Data\Animations\Objects\lamp_wall_1.ani 02CE3C03
+C3118A51\Data\Animations\Objects\lamp_wall_2.ani 0AB7BD5B
+C3118A51\Data\Animations\Objects\lava.ani E9384DE4
+C3118A51\Data\Animations\Objects\lava_2d.ani 673A48D0
+C3118A51\Data\Animations\Objects\raft.ani 3E70D971
+C3118A51\Data\Animations\Objects\shell_mansion_bar.ani 637D59DA
+C3118A51\Data\Animations\Objects\spear.ani 8C93CDDF
+C3118A51\Data\Animations\Objects\spikes.ani 0280A77E
+C3118A51\Data\Animations\Objects\sword spawn.ani D9BD09CB
+C3118A51\Data\Animations\Objects\sword.ani F38C509F
+C3118A51\Data\Animations\Objects\torch_d4.ani 42EC3899
+C3118A51\Data\Animations\Objects\torch_d4_d4.ani AE90136B
+C3118A51\Data\Animations\Objects\torch_d6.ani FF638925
+C3118A51\Data\Animations\Objects\torch_d8.ani 199B11D7
+C3118A51\Data\Animations\Objects\weatherBird.ani 16C8FF59
+C3118A51\Data\Animations\Particles\big_water_splash.ani 4C5B351A
+C3118A51\Data\Animations\Particles\buttonOrder.ani 52DD95A7
+C3118A51\Data\Animations\Particles\despawn.ani 4068B85E
+C3118A51\Data\Animations\Particles\despawnParticle.ani F5F1BD38
+C3118A51\Data\Animations\Particles\explosion.ani BECAE6AC
+C3118A51\Data\Animations\Particles\explosion0.ani CC965EBD
+C3118A51\Data\Animations\Particles\explosionBomb.ani A6C4C803
+C3118A51\Data\Animations\Particles\explosionRaccoon.ani 508A2872
+C3118A51\Data\Animations\Particles\fall.ani A61ED777
+C3118A51\Data\Animations\Particles\fishingSplash.ani DD2B44E8
+C3118A51\Data\Animations\Particles\flame.ani CCFDD6FE
+C3118A51\Data\Animations\Particles\ice block despawn.ani 72D4B1C8
+C3118A51\Data\Animations\Particles\pieceOfPowerExplosion.ani C7B1DB6F
+C3118A51\Data\Animations\Particles\pieceOfPowerTrail.ani 0BC04102
+C3118A51\Data\Animations\Particles\run.ani 0EB3D26B
+C3118A51\Data\Animations\Particles\shell_mansion_particle.ani B04B26AE
+C3118A51\Data\Animations\Particles\spawn.ani CBF60A65
+C3118A51\Data\Animations\Particles\splash.ani 240305DF
+C3118A51\Data\Animations\Particles\swordPoke.ani 3843B3A3
+C3118A51\Data\Animations\Particles\swordShotDespawn.ani 4068B85E
+C3118A51\Data\Animations\Sequences\beach_water.ani 116C9DD1
+C3118A51\Data\Animations\Sequences\bowWow link.ani 18B6874F
+C3118A51\Data\Animations\Sequences\bowWow.ani 9864D90F
+C3118A51\Data\Animations\Sequences\castle frog boy.ani CE12ECE9
+C3118A51\Data\Animations\Sequences\cliff sequence.ani 7DF61635
+C3118A51\Data\Animations\Sequences\final fountain.ani D2150622
+C3118A51\Data\Animations\Sequences\final star.ani B414C107
+C3118A51\Data\Animations\Sequences\link awake.ani 195DC90E
+C3118A51\Data\Animations\Sequences\link castle.ani 1CB678FF
+C3118A51\Data\Animations\Sequences\link final.ani 6A96C111
+C3118A51\Data\Animations\Sequences\link grave.ani 2E090E12
+C3118A51\Data\Animations\Sequences\seagull big final.ani 1AF58842
+C3118A51\Data\Animations\Sequences\seagull final.ani 33A9FC73
+C3118A51\Data\Animations\Sequences\seagull small.ani D82FD3E9
+C3118A51\Data\Animations\Sequences\seagull.ani 7B531ABD
+C3118A51\Data\Animations\Sequences\tower dust.ani 7D283712
+C3118A51\Data\Animations\Sequences\wale.ani F5ABA7F6
+C3118A51\Data\Animations\Sequences\water.ani 9FC28E8F
+C3118A51\Data\Animations\Sequences\weather bird link.ani EFCFF59A
+C3118A51\Data\Animations\Sequences\weather bird marin.ani BFE02BCA
+C3118A51\Data\Animations\Sequences\weather bird objects.ani 6C98D6AC
+C3118A51\Data\Animations\Sequences\weather bird ulrich.ani 25CE355F
+C3118A51\Data\Dungeon\dColor_0.txt FC2020A9
+C3118A51\Data\Dungeon\eight_0.txt 95E6ED08
+C3118A51\Data\Dungeon\five_0.txt 1CB51E01
+C3118A51\Data\Dungeon\four_0.txt 2F1DE276
+C3118A51\Data\Dungeon\one_0.txt B6A4525F
+C3118A51\Data\Dungeon\seven_0.txt C9596674
+C3118A51\Data\Dungeon\seven_1.txt 64691985
+C3118A51\Data\Dungeon\seven_2.txt D6233751
+C3118A51\Data\Dungeon\seven_2_alt.txt 50F7F3F5
+C3118A51\Data\Dungeon\seven_3.txt 3F113163
+C3118A51\Data\Dungeon\seven_3_alt.txt DA5A6A5B
+C3118A51\Data\Dungeon\six_0.txt 881D2286
+C3118A51\Data\Dungeon\three_0.txt BFCE7CF5
+C3118A51\Data\Dungeon\three_1.txt A3592F08
+C3118A51\Data\Dungeon\three_2.txt 3CB7D02E
+C3118A51\Data\Dungeon\three_3.txt 8ACF75FE
+C3118A51\Data\Dungeon\two_0.txt FB42A3EC
+C3118A51\Data\Editor\editorIcons4x.atlas 557008DF
+C3118A51\Data\Editor\editorIcons4x.png 4DA6521B
+C3118A51\Data\Intro\cloud.png 2189DFD1
+C3118A51\Data\Intro\intro.atlas 88834379
+C3118A51\Data\Intro\intro.png 22DC2ED5
+C3118A51\Data\Intro\ocean.png 641BFA36
+C3118A51\Data\Intro\rain.png AA75B9FE
+C3118A51\Data\Intro\waves.png E603DFB2
+C3118A51\Data\Languages\dialog_eng.lng 83AFD858
+C3118A51\Data\Languages\eng.lng DF9353BB
+C3118A51\Data\Light\doorLight.atlas 2FB3D279
+C3118A51\Data\Light\readme.txt F9D1C0FD
+C3118A51\Data\Light\room blur.atlas 8CE685A5
+C3118A51\Data\Light\room blur.png 1F1E8432
+C3118A51\Data\Map Objects\enemies.atlas 6A74B6A2
+C3118A51\Data\Map Objects\enemies.png 5F8123D4
+C3118A51\Data\Map Objects\items.atlas 6AF58F46
+C3118A51\Data\Map Objects\items.png AD95F4AB
+C3118A51\Data\Map Objects\link0.atlas EAEFB83C
+C3118A51\Data\Map Objects\link0.png 50622609
+C3118A51\Data\Map Objects\link_cloak.png 03A32DB3
+C3118A51\Data\Map Objects\midboss.atlas 143189B9
+C3118A51\Data\Map Objects\midboss.png 9F26D524
+C3118A51\Data\Map Objects\minimap.png 90F4BE3F
+C3118A51\Data\Map Objects\nightmares.atlas DE950663
+C3118A51\Data\Map Objects\nightmares.png 243DA1F2
+C3118A51\Data\Map Objects\npcs.atlas 0F555308
+C3118A51\Data\Map Objects\npcs.png 09BB03B3
+C3118A51\Data\Map Objects\objects animated.atlas 63CC056B
+C3118A51\Data\Map Objects\objects animated.png ADAF1BB1
+C3118A51\Data\Map Objects\objects.atlas 44DE85A2
+C3118A51\Data\Map Objects\objects.png 8CDFD956
+C3118A51\Data\Maps\0 test map - barrier.map 82396CC4
+C3118A51\Data\Maps\0 test map - barrier.map.data B7735546
+C3118A51\Data\Maps\0 test map - beamos.map 5EDF11E5
+C3118A51\Data\Maps\0 test map - beamos.map.data 899FD493
+C3118A51\Data\Maps\0 test map - blured cave.map D3AB194B
+C3118A51\Data\Maps\0 test map - blured cave.map.data 1C4C618D
+C3118A51\Data\Maps\0 test map - color jump tile.map 9DE22334
+C3118A51\Data\Maps\0 test map - color jump tile.map.data 6B053E8F
+C3118A51\Data\Maps\0 test map - Copy (2).map 7CEF10E7
+C3118A51\Data\Maps\0 test map - Copy (2).map.data B7735546
+C3118A51\Data\Maps\0 test map - Copy - Copy.map 01975832
+C3118A51\Data\Maps\0 test map - Copy - Copy.map.data B7735546
+C3118A51\Data\Maps\0 test map - Copy.map.data B7735546
+C3118A51\Data\Maps\0 test map - dialog.map 5BA1D184
+C3118A51\Data\Maps\0 test map - dialog.map.data B7735546
+C3118A51\Data\Maps\0 test map - enemies - damage - holes.map 23BC713E
+C3118A51\Data\Maps\0 test map - enemies - damage - holes.map.data 90C55327
+C3118A51\Data\Maps\0 test map - enemies - damage.map CD34E2EB
+C3118A51\Data\Maps\0 test map - enemies - damage.map.data 90C55327
+C3118A51\Data\Maps\0 test map - enemies small.map FF7BFB9C
+C3118A51\Data\Maps\0 test map - enemies small.map.data 3F5FBCA3
+C3118A51\Data\Maps\0 test map - enemies.map 93F07478
+C3118A51\Data\Maps\0 test map - enemies.map.data AE20FD3D
+C3118A51\Data\Maps\0 test map - fence.map F56138A4
+C3118A51\Data\Maps\0 test map - fence.map.data F473EE70
+C3118A51\Data\Maps\0 test map - floor layer.map C1603919
+C3118A51\Data\Maps\0 test map - floor layer.map.data 7CCF4AB6
+C3118A51\Data\Maps\0 test map - gbs test.map 4F852E71
+C3118A51\Data\Maps\0 test map - gbs test.map.data 03153E08
+C3118A51\Data\Maps\0 test map - holes.map B4D081DF
+C3118A51\Data\Maps\0 test map - holes.map.data B7735546
+C3118A51\Data\Maps\0 test map - hookshot.map 04329859
+C3118A51\Data\Maps\0 test map - hookshot.map.data B7735546
+C3118A51\Data\Maps\0 test map - item test.map 5EF47696
+C3118A51\Data\Maps\0 test map - item test.map.data F94A8E8D
+C3118A51\Data\Maps\0 test map - kirby.map FFDBD39F
+C3118A51\Data\Maps\0 test map - kirby.map.data E834C262
+C3118A51\Data\Maps\0 test map - levels.map 151C42F8
+C3118A51\Data\Maps\0 test map - levels.map.data EF1AB58F
+C3118A51\Data\Maps\0 test map - mermaid.map 555450CE
+C3118A51\Data\Maps\0 test map - mermaid.map.data 4068DADC
+C3118A51\Data\Maps\0 test map - music test.map 92CC1DD3
+C3118A51\Data\Maps\0 test map - music test.map.data 1442C396
+C3118A51\Data\Maps\0 test map - new draw pool.map 2974CC25
+C3118A51\Data\Maps\0 test map - new draw pool.map.data 875BD2A4
+C3118A51\Data\Maps\0 test map - qicksand.map 4803646E
+C3118A51\Data\Maps\0 test map - qicksand.map.data EF1AB58F
+C3118A51\Data\Maps\0 test map - raft.map 3AB303C8
+C3118A51\Data\Maps\0 test map - raft.map.data 4068DADC
+C3118A51\Data\Maps\0 test map - rail jump.map 53DBE0F0
+C3118A51\Data\Maps\0 test map - rail jump.map.data B7735546
+C3118A51\Data\Maps\0 test map - sequence.map AD10FF25
+C3118A51\Data\Maps\0 test map - sequence.map.data 609FB04C
+C3118A51\Data\Maps\0 test map - sprites.map BAB4DA0D
+C3118A51\Data\Maps\0 test map - sprites.map.data 1E7E3BDA
+C3118A51\Data\Maps\0 test map - stop music test.map 802CACF0
+C3118A51\Data\Maps\0 test map - stop music test.map.data 49057114
+C3118A51\Data\Maps\0 test map - transition bug.map A7071E6D
+C3118A51\Data\Maps\0 test map - transition bug.map.data 680214D9
+C3118A51\Data\Maps\0 test map - turtle head.map DC206ECD
+C3118A51\Data\Maps\0 test map - turtle head.map.data B7735546
+C3118A51\Data\Maps\0 test map - walrus.map 610A997A
+C3118A51\Data\Maps\0 test map - walrus.map.data 0883808C
+C3118A51\Data\Maps\0 test map color jump tile.map.data 6B053E8F
+C3118A51\Data\Maps\0 test map levels.map.data EF1AB58F
+C3118A51\Data\Maps\0 test map new draw pool.map.data 875BD2A4
+C3118A51\Data\Maps\0 test map qicksand.map.data EF1AB58F
+C3118A51\Data\Maps\0 test map.map 7CEF10E7
+C3118A51\Data\Maps\0 test map.map.data B7735546
+C3118A51\Data\Maps\bridge.map BDD1EE50
+C3118A51\Data\Maps\bridge.map.data 8A8E15C5
+C3118A51\Data\Maps\castle1.map 59276731
+C3118A51\Data\Maps\castle1.map.data CE40748E
+C3118A51\Data\Maps\castle2.map A6B042CD
+C3118A51\Data\Maps\castle2.map.data DEC570B3
+C3118A51\Data\Maps\castleTunnel.map 2B3D1232
+C3118A51\Data\Maps\castleTunnel.map.data E6414A93
+C3118A51\Data\Maps\cave bird.map.data 004838A9
+C3118A51\Data\Maps\cave rooster.map C8458ED0
+C3118A51\Data\Maps\cave rooster.map.data BA1859F9
+C3118A51\Data\Maps\cave0.map 1D30C3FE
+C3118A51\Data\Maps\cave0.map.data 04133950
+C3118A51\Data\Maps\cave1.map DA5B4E50
+C3118A51\Data\Maps\cave1.map.data 389721D7
+C3118A51\Data\Maps\cave10.map 722E9471
+C3118A51\Data\Maps\cave10.map.data 1B1CF42B
+C3118A51\Data\Maps\cave11.map 865B03A1
+C3118A51\Data\Maps\cave11.map.data 860746CF
+C3118A51\Data\Maps\cave12.map 6A9ADD93
+C3118A51\Data\Maps\cave12.map.data 8D59D3F2
+C3118A51\Data\Maps\cave13.map FD6341AE
+C3118A51\Data\Maps\cave13.map.data 5F6CA5B1
+C3118A51\Data\Maps\cave14.map 86DFE961
+C3118A51\Data\Maps\cave14.map.data 5ABB9995
+C3118A51\Data\Maps\cave15.map 87DB9016
+C3118A51\Data\Maps\cave15.map.data 44CC21DE
+C3118A51\Data\Maps\cave16.map 09D1E239
+C3118A51\Data\Maps\cave16.map.data BF530925
+C3118A51\Data\Maps\cave17.map F7A1F6E8
+C3118A51\Data\Maps\cave17.map.data 1EB5857A
+C3118A51\Data\Maps\cave18.map A1F86190
+C3118A51\Data\Maps\cave18.map.data 1C4C618D
+C3118A51\Data\Maps\cave19.map 421C2AA0
+C3118A51\Data\Maps\cave19.map.data E811D8B0
+C3118A51\Data\Maps\cave2.map 1F5FF1F2
+C3118A51\Data\Maps\cave2.map.data 40F106CF
+C3118A51\Data\Maps\cave20.map 383A1AEB
+C3118A51\Data\Maps\cave20.map.data 5AB8B760
+C3118A51\Data\Maps\cave21.map 1B1C92C1
+C3118A51\Data\Maps\cave21.map.data 79EE7AFC
+C3118A51\Data\Maps\cave22.map EB67627E
+C3118A51\Data\Maps\cave22.map.data 7FD3449F
+C3118A51\Data\Maps\cave23.map B9F7CACD
+C3118A51\Data\Maps\cave23.map.data 32C26272
+C3118A51\Data\Maps\cave24.map B2A10572
+C3118A51\Data\Maps\cave24.map.data 1B88A712
+C3118A51\Data\Maps\cave25.map C33F4C53
+C3118A51\Data\Maps\cave25.map.data 67BD5416
+C3118A51\Data\Maps\cave26.map E91E2F65
+C3118A51\Data\Maps\cave26.map.data DDF57392
+C3118A51\Data\Maps\cave27.map EB009309
+C3118A51\Data\Maps\cave27.map.data ED4D9901
+C3118A51\Data\Maps\cave28.map 630CD356
+C3118A51\Data\Maps\cave28.map.data 14788F39
+C3118A51\Data\Maps\cave29.map 24CB3E9B
+C3118A51\Data\Maps\cave29.map.data 6B053E8F
+C3118A51\Data\Maps\cave3.map 99F70EAC
+C3118A51\Data\Maps\cave3.map.data 5AB8B760
+C3118A51\Data\Maps\cave30.map 7DFD62E3
+C3118A51\Data\Maps\cave30.map.data 4BB99A7D
+C3118A51\Data\Maps\cave31.map A4B10AD4
+C3118A51\Data\Maps\cave31.map.data 3BF33100
+C3118A51\Data\Maps\cave32.map B3CA6776
+C3118A51\Data\Maps\cave32.map.data 1C4C618D
+C3118A51\Data\Maps\cave33.map FACC7CCC
+C3118A51\Data\Maps\cave33.map.data 3377CA27
+C3118A51\Data\Maps\cave3_2.map 7C15F2B4
+C3118A51\Data\Maps\cave3_2.map.data DBD7BD13
+C3118A51\Data\Maps\cave4.map B0FE1DE7
+C3118A51\Data\Maps\cave4.map.data A7AE53AF
+C3118A51\Data\Maps\cave5.map 57E85082
+C3118A51\Data\Maps\cave5.map.data 5DF31228
+C3118A51\Data\Maps\cave6.map C9AE153F
+C3118A51\Data\Maps\cave6.map.data 07FBCEEA
+C3118A51\Data\Maps\cave7.map 44BEBB1D
+C3118A51\Data\Maps\cave7.map.data 5D5764A3
+C3118A51\Data\Maps\cave7_2.map 4262BB7A
+C3118A51\Data\Maps\cave7_2.map.data 1C37AC2C
+C3118A51\Data\Maps\cave8.map B34652DB
+C3118A51\Data\Maps\cave8.map.data 6B053E8F
+C3118A51\Data\Maps\cave9.map 45E7C6A3
+C3118A51\Data\Maps\cave9.map.data 870B4306
+C3118A51\Data\Maps\caveBat1.map 0AF8D059
+C3118A51\Data\Maps\caveBat1.map.data 788B6C85
+C3118A51\Data\Maps\caveBat2.map 2D6FFDA2
+C3118A51\Data\Maps\caveBat2.map.data 788B6C85
+C3118A51\Data\Maps\caveBat3.map BC588980
+C3118A51\Data\Maps\caveBat3.map.data 788B6C85
+C3118A51\Data\Maps\caveFairy1.map 6783914C
+C3118A51\Data\Maps\caveFairy1.map.data 6B053E8F
+C3118A51\Data\Maps\caveFairy2.map 194062E8
+C3118A51\Data\Maps\caveFairy2.map.data 6B053E8F
+C3118A51\Data\Maps\caveFairyMountain.map 7BB3DE20
+C3118A51\Data\Maps\caveFairyMountain.map.data 6B053E8F
+C3118A51\Data\Maps\caveFrogs.map 61BE1E61
+C3118A51\Data\Maps\caveFrogs.map.data 6B053E8F
+C3118A51\Data\Maps\caveMirror.map D8B404BB
+C3118A51\Data\Maps\caveMirror.map.data AFCBDE10
+C3118A51\Data\Maps\caveTemple.map E0998993
+C3118A51\Data\Maps\caveTemple.map.data 99DF11AD
+C3118A51\Data\Maps\caveVillage.map E63EA0EC
+C3118A51\Data\Maps\caveVillage.map.data 1C259113
+C3118A51\Data\Maps\desertTemple.map 0A182030
+C3118A51\Data\Maps\desertTemple.map.data 395E3A80
+C3118A51\Data\Maps\dreamShrine01.map D1CDA342
+C3118A51\Data\Maps\dreamShrine01.map.data 1442C396
+C3118A51\Data\Maps\dreamShrine02.map 9FAF7727
+C3118A51\Data\Maps\dreamShrine02.map.data 0883808C
+C3118A51\Data\Maps\dungeon 7_2d.map.data 004838A9
+C3118A51\Data\Maps\dungeon1.map 185942DD
+C3118A51\Data\Maps\dungeon1.map.data AEE0D00F
+C3118A51\Data\Maps\dungeon1_2d_1.map 90AADE66
+C3118A51\Data\Maps\dungeon1_2d_1.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon1_2d_2.map 9FB9BD22
+C3118A51\Data\Maps\dungeon1_2d_2.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon2.map F4594C99
+C3118A51\Data\Maps\dungeon2.map.data 4060096B
+C3118A51\Data\Maps\dungeon2_2d_1.map F47C1AE9
+C3118A51\Data\Maps\dungeon2_2d_1.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon2_2d_2.map C78DFA51
+C3118A51\Data\Maps\dungeon2_2d_2.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon2_2d_3.map 2226AECF
+C3118A51\Data\Maps\dungeon2_2d_3.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon3_1.map 274399BD
+C3118A51\Data\Maps\dungeon3_1.map.data 76701A28
+C3118A51\Data\Maps\dungeon3_2.map 9351B61E
+C3118A51\Data\Maps\dungeon3_2.map.data DA6106A6
+C3118A51\Data\Maps\dungeon3_2d.map 428BE8A2
+C3118A51\Data\Maps\dungeon3_2d.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon3_3.map 8C45A10D
+C3118A51\Data\Maps\dungeon3_3.map.data 83E04061
+C3118A51\Data\Maps\dungeon3_4.map 96AEB233
+C3118A51\Data\Maps\dungeon3_4.map.data AB56D0B2
+C3118A51\Data\Maps\dungeon4.map 0BDD4093
+C3118A51\Data\Maps\dungeon4.map.data 4060096B
+C3118A51\Data\Maps\dungeon4_2d_1.map 8CB38098
+C3118A51\Data\Maps\dungeon4_2d_1.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon4_2d_2.map 6287D338
+C3118A51\Data\Maps\dungeon4_2d_2.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon4_2d_3.map 3275E79B
+C3118A51\Data\Maps\dungeon4_2d_3.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon4_2d_4.map 24051E11
+C3118A51\Data\Maps\dungeon4_2d_4.map.data 5AB8B760
+C3118A51\Data\Maps\dungeon5.map C86A0E4D
+C3118A51\Data\Maps\dungeon5.map.data 4EFBB322
+C3118A51\Data\Maps\dungeon5_2d_1.map FBA226F2
+C3118A51\Data\Maps\dungeon5_2d_1.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon5_2d_2.map 5A2AAEC2
+C3118A51\Data\Maps\dungeon5_2d_2.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon5_2d_3.map 97B07B4F
+C3118A51\Data\Maps\dungeon5_2d_3.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon5_2d_4.map 9D8EAA37
+C3118A51\Data\Maps\dungeon5_2d_4.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon5_entry.map 1D67F106
+C3118A51\Data\Maps\dungeon5_entry.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon6.map CB0D65CB
+C3118A51\Data\Maps\dungeon6.map.data 826F5F19
+C3118A51\Data\Maps\dungeon6_2d_1.map 4144E90B
+C3118A51\Data\Maps\dungeon6_2d_1.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon6_2d_2.map 2F9B05D8
+C3118A51\Data\Maps\dungeon6_2d_2.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon6_2d_3.map 7697AF37
+C3118A51\Data\Maps\dungeon6_2d_3.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon7_1.map 61A5E36E
+C3118A51\Data\Maps\dungeon7_1.map.data B198F1EE
+C3118A51\Data\Maps\dungeon7_2.map 4D8D3E31
+C3118A51\Data\Maps\dungeon7_2.map.data 83E04061
+C3118A51\Data\Maps\dungeon7_2d.map B8102BE5
+C3118A51\Data\Maps\dungeon7_2d.map.data C0F0243F
+C3118A51\Data\Maps\dungeon7_3.map 9BFDF27E
+C3118A51\Data\Maps\dungeon7_3.map.data 83E04061
+C3118A51\Data\Maps\dungeon7_4.map 5BB5408C
+C3118A51\Data\Maps\dungeon7_4.map.data 83E04061
+C3118A51\Data\Maps\dungeon8.map 41155476
+C3118A51\Data\Maps\dungeon8.map.data 160AE886
+C3118A51\Data\Maps\dungeon8_2d_1.map 8A772C65
+C3118A51\Data\Maps\dungeon8_2d_1.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon8_2d_2.map 9A368B7D
+C3118A51\Data\Maps\dungeon8_2d_2.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon8_2d_3.map 5098ED82
+C3118A51\Data\Maps\dungeon8_2d_3.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon8_2d_4.map 37123F46
+C3118A51\Data\Maps\dungeon8_2d_4.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon8_2d_5.map 2D336DBD
+C3118A51\Data\Maps\dungeon8_2d_5.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon8_2d_6.map 439B6574
+C3118A51\Data\Maps\dungeon8_2d_6.map.data 1C4C618D
+C3118A51\Data\Maps\dungeon_color.map 46CB2608
+C3118A51\Data\Maps\dungeon_color.map.data 22BF100C
+C3118A51\Data\Maps\dungeon_end.map.data 004838A9
+C3118A51\Data\Maps\egg_boss_room.map B406F3B6
+C3118A51\Data\Maps\egg_boss_room.map.data 1442C396
+C3118A51\Data\Maps\egg_entry.map 8D9209E1
+C3118A51\Data\Maps\egg_entry.map.data B5474953
+C3118A51\Data\Maps\egg_lower_floor.map 1F65A506
+C3118A51\Data\Maps\egg_lower_floor.map.data 07E16D4F
+C3118A51\Data\Maps\final stairs.map 0B6B1D74
+C3118A51\Data\Maps\final stairs.map.data 686D21AA
+C3118A51\Data\Maps\hauntedhouse.map FA968580
+C3118A51\Data\Maps\hauntedhouse.map.data 1442C396
+C3118A51\Data\Maps\helphouse1.map 4F3B8612
+C3118A51\Data\Maps\helphouse1.map.data 5998F55C
+C3118A51\Data\Maps\helphouse2.map 5FE2A58C
+C3118A51\Data\Maps\helphouse2.map.data 5998F55C
+C3118A51\Data\Maps\helphouse3.map FC8B8C8D
+C3118A51\Data\Maps\helphouse3.map.data 5998F55C
+C3118A51\Data\Maps\helphouse4.map 7E50E2B0
+C3118A51\Data\Maps\helphouse4.map.data 5998F55C
+C3118A51\Data\Maps\helphouse5.map 71E7FC3A
+C3118A51\Data\Maps\helphouse5.map.data 5998F55C
+C3118A51\Data\Maps\helphouse6.map CDE0E82F
+C3118A51\Data\Maps\helphouse6.map.data 5998F55C
+C3118A51\Data\Maps\helphouse7.map C257F6A5
+C3118A51\Data\Maps\helphouse7.map.data 5998F55C
+C3118A51\Data\Maps\helphouse8.map 91EA5B43
+C3118A51\Data\Maps\helphouse8.map.data 5998F55C
+C3118A51\Data\Maps\house mountain.map A1E21483
+C3118A51\Data\Maps\house mountain.map.data 1442C396
+C3118A51\Data\Maps\house raft.map 166807C8
+C3118A51\Data\Maps\house raft.map.data 1442C396
+C3118A51\Data\Maps\house1.map C901E1A2
+C3118A51\Data\Maps\house1.map.data 1442C396
+C3118A51\Data\Maps\house10.map EF1D545E
+C3118A51\Data\Maps\house10.map.data 194D90C0
+C3118A51\Data\Maps\house11.map AC2D7433
+C3118A51\Data\Maps\house11.map.data 1442C396
+C3118A51\Data\Maps\house12.map 2E24DD39
+C3118A51\Data\Maps\house12.map.data 1442C396
+C3118A51\Data\Maps\house13.map 6211E14E
+C3118A51\Data\Maps\house13.map.data 1442C396
+C3118A51\Data\Maps\house14.map EBC02271
+C3118A51\Data\Maps\house14.map.data 1442C396
+C3118A51\Data\Maps\house2.map 1E71520F
+C3118A51\Data\Maps\house2.map.data 1442C396
+C3118A51\Data\Maps\house3m.map BB0FA929
+C3118A51\Data\Maps\house3m.map.data 1442C396
+C3118A51\Data\Maps\house3n.map 2ABF114F
+C3118A51\Data\Maps\house3n.map.data C2B35579
+C3118A51\Data\Maps\house4.map C180604E
+C3118A51\Data\Maps\house4.map.data D505A9D5
+C3118A51\Data\Maps\house6.map EE6DDCBD
+C3118A51\Data\Maps\house6.map.data 1442C396
+C3118A51\Data\Maps\house7.map AA0855A7
+C3118A51\Data\Maps\house7.map.data 1442C396
+C3118A51\Data\Maps\house8.map 682D9DF3
+C3118A51\Data\Maps\house8.map.data 1442C396
+C3118A51\Data\Maps\house9.map 056EF124
+C3118A51\Data\Maps\house9.map.data 1442C396
+C3118A51\Data\Maps\library.map 9EA5BD51
+C3118A51\Data\Maps\library.map.data 1442C396
+C3118A51\Data\Maps\overworld.map 2FB93E0C
+C3118A51\Data\Maps\overworld.map.data 92434776
+C3118A51\Data\Maps\photoHouse.map 12126DE3
+C3118A51\Data\Maps\photoHouse.map.data 1442C396
+C3118A51\Data\Maps\pond.map FBD3BDCE
+C3118A51\Data\Maps\pond.map.data 1442C396
+C3118A51\Data\Maps\shellhouse.map 2911C894
+C3118A51\Data\Maps\shellhouse.map.data 6B053E8F
+C3118A51\Data\Maps\shop1.map C9281511
+C3118A51\Data\Maps\shop1.map.data 1442C396
+C3118A51\Data\Maps\shop2.map 7A810EBE
+C3118A51\Data\Maps\shop2.map.data 1442C396
+C3118A51\Data\Maps\shop3.map 763FAFCA
+C3118A51\Data\Maps\shop3.map.data 1442C396
+C3118A51\Data\Maps\underwater fish.map 8950499B
+C3118A51\Data\Maps\underwater fish.map.data 6B053E8F
+C3118A51\Data\Maps\Tilesets\blur tileset.png 6FEDDF74
+C3118A51\Data\Maps\Tilesets\castle.png C5EC3AB6
+C3118A51\Data\Maps\Tilesets\cave.png 985EAA15
+C3118A51\Data\Maps\Tilesets\desertTempleTileset.png 490661A7
+C3118A51\Data\Maps\Tilesets\dreamShrineTileset.png ED15489A
+C3118A51\Data\Maps\Tilesets\dungeon 1.png 17144ABD
+C3118A51\Data\Maps\Tilesets\dungeon 2.png 12335A91
+C3118A51\Data\Maps\Tilesets\dungeon 3.png 7B45BE96
+C3118A51\Data\Maps\Tilesets\dungeon 4.png B6463CFB
+C3118A51\Data\Maps\Tilesets\dungeon 5.png 99BBA1A3
+C3118A51\Data\Maps\Tilesets\dungeon 6.png F4BC1F82
+C3118A51\Data\Maps\Tilesets\dungeon 7.png F46B5799
+C3118A51\Data\Maps\Tilesets\dungeon 8.png B8A5F3A1
+C3118A51\Data\Maps\Tilesets\dungeon color.png AAB24206
+C3118A51\Data\Maps\Tilesets\egg.png DAF11E3E
+C3118A51\Data\Maps\Tilesets\hole.png FBFC0585
+C3118A51\Data\Maps\Tilesets\house.png C4230B12
+C3118A51\Data\Maps\Tilesets\tileset 2d.png D418BE4E
+C3118A51\Data\Maps\Tilesets\tileset size.txt 3D7C919E
+C3118A51\Data\Maps\Tilesets\tileset0.png 47664F68
+C3118A51\Data\Music\awakening.gbs D8DE2E26
+C3118A51\Data\Photo Mode\photos.atlas 3F82CC31
+C3118A51\Data\Photo Mode\photos.png 64203D48
+C3118A51\Data\Sequences\end sequence.atlas B0178604
+C3118A51\Data\Sequences\end sequence.png 3C87A209
+C3118A51\Data\Sequences\game sequences.atlas 63F0F7C7
+C3118A51\Data\Sequences\game sequences.png DD0D7E53
+C3118A51\Data\Sequences\thanos noise.png 27387F42
+C3118A51\Data\Sequences\wind fish.atlas F7169AE2
+C3118A51\Data\Sequences\wind fish.png 79229B00

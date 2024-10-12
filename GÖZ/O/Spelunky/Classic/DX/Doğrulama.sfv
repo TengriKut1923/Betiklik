@@ -1,0 +1,276 @@
+;      2375755  00:00.00 2023-10-29 E3D204E3\config.exe
+;        14000  00:00.00 2023-10-29 E3D204E3\E3972B4E.ico
+;           26  00:00.00 2023-10-29 E3D204E3\gamepad.cfg
+;           46  00:00.00 2023-10-29 E3D204E3\keys.cfg
+;           21  00:00.00 2023-10-29 E3D204E3\settings.cfg
+;      3076719  00:00.00 2023-10-29 E3D204E3\Spelunky.exe
+;       188416  00:00.00 2023-10-29 E3D204E3\supersound.dll
+;      1998168  00:00.00 2023-10-29 E3D204E3\dx\debug\D3DX9_43.dll
+;      6456329  00:00.00 2023-10-29 E3D204E3\dx\debug\data.win
+;           97  00:00.00 2023-10-29 E3D204E3\dx\debug\options.ini
+;          214  00:00.00 2023-10-29 E3D204E3\dx\debug\spelunky.ini
+;      4382208  00:00.00 2023-10-29 E3D204E3\dx\debug\SpelunkyClassicHD.exe
+;           33  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\fonts.json
+;           24  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales.json
+;           99  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\fonts\7-12-serif\font.json
+;      1504688  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\fonts\7-12-serif\font\7-12-serif.ttf
+;           97  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\fonts\7x7-monopixel\font.json
+;       821816  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\fonts\7x7-monopixel\font\7x7-monopixel.ttf
+;           99  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\fonts\fs-monopixel-regular\font.json
+;       717792  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\fonts\fs-monopixel-regular\font\fs-monopixel-regular.ttf
+;          129  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\font.json
+;        17561  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\text.json
+;           60  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\charset\charset
+;         1302  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\charset\charset.png
+;         1055  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\charset\charset_small.png
+;          418  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\images\level13_sign.png
+;          418  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\images\level5_sign.png
+;          414  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\images\level9_sign.png
+;          305  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\images\quit_sign.png
+;          368  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\images\reset_sign.png
+;          451  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\images\scores_sign.png
+;          416  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\images\start_sign.png
+;          251  00:00.00 2023-10-29 E3D204E3\dx\debug\locale\locales\en\images\tutorial_sign.png
+;      1998168  00:00.00 2023-10-29 E3D204E3\dx\hd\D3DX9_43.dll
+;      6456329  00:00.00 2023-10-29 E3D204E3\dx\hd\data.win
+;           97  00:00.00 2023-10-29 E3D204E3\dx\hd\options.ini
+;          214  00:00.00 2023-10-29 E3D204E3\dx\hd\spelunky.ini
+;      4382208  00:00.00 2023-10-29 E3D204E3\dx\hd\SpelunkyClassicHD.exe
+;           33  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\fonts.json
+;           24  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales.json
+;           99  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\fonts\7-12-serif\font.json
+;      1504688  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\fonts\7-12-serif\font\7-12-serif.ttf
+;           97  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\fonts\7x7-monopixel\font.json
+;       821816  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\fonts\7x7-monopixel\font\7x7-monopixel.ttf
+;           99  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\fonts\fs-monopixel-regular\font.json
+;       717792  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\fonts\fs-monopixel-regular\font\fs-monopixel-regular.ttf
+;          129  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\font.json
+;        17583  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\text.json
+;           60  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\charset\charset
+;         1302  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\charset\charset.png
+;         1055  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\charset\charset_small.png
+;          418  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\images\level13_sign.png
+;          418  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\images\level5_sign.png
+;          414  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\images\level9_sign.png
+;          305  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\images\quit_sign.png
+;          368  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\images\reset_sign.png
+;          451  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\images\scores_sign.png
+;          416  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\images\start_sign.png
+;          251  00:00.00 2023-10-29 E3D204E3\dx\hd\locale\locales\en\images\tutorial_sign.png
+;      1998168  00:00.00 2023-10-29 E3D204E3\dx\sd\D3DX9_43.dll
+;       381287  00:00.00 2023-10-29 E3D204E3\dx\sd\mus_boss.ogg
+;       752869  00:00.00 2023-10-29 E3D204E3\dx\sd\mus_cave.ogg
+;       330871  00:00.00 2023-10-29 E3D204E3\dx\sd\mus_credits.ogg
+;       741751  00:00.00 2023-10-29 E3D204E3\dx\sd\mus_ice.ogg
+;       131947  00:00.00 2023-10-29 E3D204E3\dx\sd\mus_lush.ogg
+;       432565  00:00.00 2023-10-29 E3D204E3\dx\sd\mus_temple.ogg
+;       311086  00:00.00 2023-10-29 E3D204E3\dx\sd\mus_title.ogg
+;        78802  00:00.00 2023-10-29 E3D204E3\dx\sd\mus_victory.ogg
+;          237  00:00.00 2023-10-29 E3D204E3\dx\sd\options.ini
+;     14071808  00:00.00 2023-10-29 E3D204E3\dx\sd\SpelunkySD.exe
+;       215120  00:00.00 2023-10-29 E3D204E3\dx\sd\steam_api.dll
+;        12916  00:00.00 2023-10-29 E3D204E3\sound\alert.wav
+;        71524  00:00.00 2023-10-29 E3D204E3\sound\alien.wav
+;        15176  00:00.00 2023-10-29 E3D204E3\sound\arrowtrap.wav
+;        31170  00:00.00 2023-10-29 E3D204E3\sound\bat.wav
+;        39264  00:00.00 2023-10-29 E3D204E3\sound\bigjump.wav
+;         5156  00:00.00 2023-10-29 E3D204E3\sound\blink1.wav
+;         5156  00:00.00 2023-10-29 E3D204E3\sound\blink2.wav
+;        34982  00:00.00 2023-10-29 E3D204E3\sound\boing.wav
+;        53128  00:00.00 2023-10-29 E3D204E3\sound\bombready.wav
+;       550579  00:00.00 2023-10-29 E3D204E3\sound\boss.ogg
+;       215632  00:00.00 2023-10-29 E3D204E3\sound\bowpull.wav
+;        16518  00:00.00 2023-10-29 E3D204E3\sound\break.wav
+;      1337272  00:00.00 2023-10-29 E3D204E3\sound\cave.ogg
+;        55874  00:00.00 2023-10-29 E3D204E3\sound\cavemandie.wav
+;        16098  00:00.00 2023-10-29 E3D204E3\sound\chestopen.wav
+;         7166  00:00.00 2023-10-29 E3D204E3\sound\click.wav
+;         3060  00:00.00 2023-10-29 E3D204E3\sound\climb1.wav
+;         3952  00:00.00 2023-10-29 E3D204E3\sound\climb2.wav
+;        42370  00:00.00 2023-10-29 E3D204E3\sound\coin.wav
+;       581210  00:00.00 2023-10-29 E3D204E3\sound\credits.ogg
+;        23662  00:00.00 2023-10-29 E3D204E3\sound\crunch.wav
+;         8368  00:00.00 2023-10-29 E3D204E3\sound\damsel.wav
+;        11002  00:00.00 2023-10-29 E3D204E3\sound\die.wav
+;        71104  00:00.00 2023-10-29 E3D204E3\sound\explosion.wav
+;        19382  00:00.00 2023-10-29 E3D204E3\sound\flame.wav
+;        27628  00:00.00 2023-10-29 E3D204E3\sound\frog.wav
+;        14530  00:00.00 2023-10-29 E3D204E3\sound\gem.wav
+;        99268  00:00.00 2023-10-29 E3D204E3\sound\ghost.wav
+;        34982  00:00.00 2023-10-29 E3D204E3\sound\giantspider.wav
+;        28824  00:00.00 2023-10-29 E3D204E3\sound\gspiderjump.wav
+;        15326  00:00.00 2023-10-29 E3D204E3\sound\hit.wav
+;        11462  00:00.00 2023-10-29 E3D204E3\sound\hurt.wav
+;      1564063  00:00.00 2023-10-29 E3D204E3\sound\ice.ogg
+;        16206  00:00.00 2023-10-29 E3D204E3\sound\ignite.wav
+;        23488  00:00.00 2023-10-29 E3D204E3\sound\jetpack.wav
+;        18446  00:00.00 2023-10-29 E3D204E3\sound\jump.wav
+;         7146  00:00.00 2023-10-29 E3D204E3\sound\kiss.wav
+;         8260  00:00.00 2023-10-29 E3D204E3\sound\land.wav
+;        28490  00:00.00 2023-10-29 E3D204E3\sound\laser.wav
+;        36805  00:00.00 2023-10-29 E3D204E3\sound\lasercharge.wav
+;       264658  00:00.00 2023-10-29 E3D204E3\sound\letsexplore.wav
+;       199557  00:00.00 2023-10-29 E3D204E3\sound\lush.ogg
+;        37042  00:00.00 2023-10-29 E3D204E3\sound\mattockbreak.wav
+;        13052  00:00.00 2023-10-29 E3D204E3\sound\monkey.wav
+;        48610  00:00.00 2023-10-29 E3D204E3\sound\pause.wav
+;       106036  00:00.00 2023-10-29 E3D204E3\sound\pfall.wav
+;        46682  00:00.00 2023-10-29 E3D204E3\sound\pickup.wav
+;        82700  00:00.00 2023-10-29 E3D204E3\sound\psychic.wav
+;        55136  00:00.00 2023-10-29 E3D204E3\sound\push.wav
+;        45290  00:00.00 2023-10-29 E3D204E3\sound\shotgun.wav
+;        16731  00:00.00 2023-10-29 E3D204E3\sound\slam.wav
+;        41158  00:00.00 2023-10-29 E3D204E3\sound\smallexplode.wav
+;        28824  00:00.00 2023-10-29 E3D204E3\sound\spiderjump.wav
+;        36556  00:00.00 2023-10-29 E3D204E3\sound\splash.wav
+;        53128  00:00.00 2023-10-29 E3D204E3\sound\steps.wav
+;        79534  00:00.00 2023-10-29 E3D204E3\sound\teleport.wav
+;       644222  00:00.00 2023-10-29 E3D204E3\sound\temple.ogg
+;       173424  00:00.00 2023-10-29 E3D204E3\sound\tfall.wav
+;        19854  00:00.00 2023-10-29 E3D204E3\sound\throw.wav
+;        14058  00:00.00 2023-10-29 E3D204E3\sound\thud.wav
+;        20280  00:00.00 2023-10-29 E3D204E3\sound\thump.wav
+;       668315  00:00.00 2023-10-29 E3D204E3\sound\title.ogg
+;        19997  00:00.00 2023-10-29 E3D204E3\sound\trap.wav
+;       170458  00:00.00 2023-10-29 E3D204E3\sound\victory.ogg
+;        10920  00:00.00 2023-10-29 E3D204E3\sound\whip.wav
+;        89354  00:00.00 2023-10-29 E3D204E3\sound\yetiyell.wav
+;        31032  00:00.00 2023-10-29 E3D204E3\sound\zombie.wav
+E3D204E3\config.exe D25829CF
+E3D204E3\E3972B4E.ico E3972B4E
+E3D204E3\gamepad.cfg FFBC70B2
+E3D204E3\keys.cfg 561A2362
+E3D204E3\settings.cfg 4009FCEA
+E3D204E3\Spelunky.exe E3D204E3
+E3D204E3\supersound.dll 2C0AC406
+E3D204E3\dx\debug\D3DX9_43.dll 4374AA0F
+E3D204E3\dx\debug\data.win 596F50A7
+E3D204E3\dx\debug\options.ini 856CC0B8
+E3D204E3\dx\debug\spelunky.ini E3B16A64
+E3D204E3\dx\debug\SpelunkyClassicHD.exe E5618ACA
+E3D204E3\dx\debug\locale\fonts.json F44AE3B0
+E3D204E3\dx\debug\locale\locales.json 3530474F
+E3D204E3\dx\debug\locale\fonts\7-12-serif\font.json E5B15983
+E3D204E3\dx\debug\locale\fonts\7-12-serif\font\7-12-serif.ttf DC7C9010
+E3D204E3\dx\debug\locale\fonts\7x7-monopixel\font.json 465863DF
+E3D204E3\dx\debug\locale\fonts\7x7-monopixel\font\7x7-monopixel.ttf B6C92F06
+E3D204E3\dx\debug\locale\fonts\fs-monopixel-regular\font.json C11D2C3A
+E3D204E3\dx\debug\locale\fonts\fs-monopixel-regular\font\fs-monopixel-regular.ttf BF6C6472
+E3D204E3\dx\debug\locale\locales\en\font.json 52F082EE
+E3D204E3\dx\debug\locale\locales\en\text.json 3809E1D3
+E3D204E3\dx\debug\locale\locales\en\charset\charset 58FBE8CC
+E3D204E3\dx\debug\locale\locales\en\charset\charset.png 6D490B7F
+E3D204E3\dx\debug\locale\locales\en\charset\charset_small.png 60DA1AFA
+E3D204E3\dx\debug\locale\locales\en\images\level13_sign.png 25F25766
+E3D204E3\dx\debug\locale\locales\en\images\level5_sign.png BEAB3B3E
+E3D204E3\dx\debug\locale\locales\en\images\level9_sign.png AE4306C0
+E3D204E3\dx\debug\locale\locales\en\images\quit_sign.png 297B75D2
+E3D204E3\dx\debug\locale\locales\en\images\reset_sign.png AF89636E
+E3D204E3\dx\debug\locale\locales\en\images\scores_sign.png 18EFB4BF
+E3D204E3\dx\debug\locale\locales\en\images\start_sign.png 7CA93F81
+E3D204E3\dx\debug\locale\locales\en\images\tutorial_sign.png 3C3925AE
+E3D204E3\dx\hd\D3DX9_43.dll 4374AA0F
+E3D204E3\dx\hd\data.win 2F18971E
+E3D204E3\dx\hd\options.ini 856CC0B8
+E3D204E3\dx\hd\spelunky.ini E3B16A64
+E3D204E3\dx\hd\SpelunkyClassicHD.exe E5618ACA
+E3D204E3\dx\hd\locale\fonts.json F44AE3B0
+E3D204E3\dx\hd\locale\locales.json 3530474F
+E3D204E3\dx\hd\locale\fonts\7-12-serif\font.json E5B15983
+E3D204E3\dx\hd\locale\fonts\7-12-serif\font\7-12-serif.ttf DC7C9010
+E3D204E3\dx\hd\locale\fonts\7x7-monopixel\font.json 465863DF
+E3D204E3\dx\hd\locale\fonts\7x7-monopixel\font\7x7-monopixel.ttf B6C92F06
+E3D204E3\dx\hd\locale\fonts\fs-monopixel-regular\font.json C11D2C3A
+E3D204E3\dx\hd\locale\fonts\fs-monopixel-regular\font\fs-monopixel-regular.ttf BF6C6472
+E3D204E3\dx\hd\locale\locales\en\font.json 52F082EE
+E3D204E3\dx\hd\locale\locales\en\text.json C7F52D6D
+E3D204E3\dx\hd\locale\locales\en\charset\charset 58FBE8CC
+E3D204E3\dx\hd\locale\locales\en\charset\charset.png 6D490B7F
+E3D204E3\dx\hd\locale\locales\en\charset\charset_small.png 60DA1AFA
+E3D204E3\dx\hd\locale\locales\en\images\level13_sign.png 25F25766
+E3D204E3\dx\hd\locale\locales\en\images\level5_sign.png BEAB3B3E
+E3D204E3\dx\hd\locale\locales\en\images\level9_sign.png AE4306C0
+E3D204E3\dx\hd\locale\locales\en\images\quit_sign.png 297B75D2
+E3D204E3\dx\hd\locale\locales\en\images\reset_sign.png AF89636E
+E3D204E3\dx\hd\locale\locales\en\images\scores_sign.png 18EFB4BF
+E3D204E3\dx\hd\locale\locales\en\images\start_sign.png 7CA93F81
+E3D204E3\dx\hd\locale\locales\en\images\tutorial_sign.png 3C3925AE
+E3D204E3\dx\sd\D3DX9_43.dll 4374AA0F
+E3D204E3\dx\sd\mus_boss.ogg D49B4B08
+E3D204E3\dx\sd\mus_cave.ogg 5BAA17EB
+E3D204E3\dx\sd\mus_credits.ogg 3A5DE1E9
+E3D204E3\dx\sd\mus_ice.ogg 3E397F6D
+E3D204E3\dx\sd\mus_lush.ogg A2D605F5
+E3D204E3\dx\sd\mus_temple.ogg ED858208
+E3D204E3\dx\sd\mus_title.ogg 23F79F03
+E3D204E3\dx\sd\mus_victory.ogg 1CFC9263
+E3D204E3\dx\sd\options.ini 1D95BA4B
+E3D204E3\dx\sd\SpelunkySD.exe 66EDDADE
+E3D204E3\dx\sd\steam_api.dll E51094D3
+E3D204E3\sound\alert.wav 22F5EE86
+E3D204E3\sound\alien.wav E4DF1E03
+E3D204E3\sound\arrowtrap.wav 2E1541AA
+E3D204E3\sound\bat.wav 8F448577
+E3D204E3\sound\bigjump.wav 662C7A53
+E3D204E3\sound\blink1.wav F21C2DF0
+E3D204E3\sound\blink2.wav 0A3E50D4
+E3D204E3\sound\boing.wav E8F0EB2E
+E3D204E3\sound\bombready.wav 7588B6EF
+E3D204E3\sound\boss.ogg 4AC9C094
+E3D204E3\sound\bowpull.wav 1FEDEEFC
+E3D204E3\sound\break.wav 55BAAE0C
+E3D204E3\sound\cave.ogg 578F305A
+E3D204E3\sound\cavemandie.wav 450F7A4A
+E3D204E3\sound\chestopen.wav 4C6A540D
+E3D204E3\sound\click.wav 7DBBA17B
+E3D204E3\sound\climb1.wav D67C5B35
+E3D204E3\sound\climb2.wav B3D0ADDB
+E3D204E3\sound\coin.wav EA8E51B0
+E3D204E3\sound\credits.ogg B3F6D235
+E3D204E3\sound\crunch.wav A134B473
+E3D204E3\sound\damsel.wav C9E3F0BC
+E3D204E3\sound\die.wav DFAD2FFF
+E3D204E3\sound\explosion.wav 5E585540
+E3D204E3\sound\flame.wav B40D561E
+E3D204E3\sound\frog.wav D9A06420
+E3D204E3\sound\gem.wav F01410A1
+E3D204E3\sound\ghost.wav B073AD4F
+E3D204E3\sound\giantspider.wav 1F09287A
+E3D204E3\sound\gspiderjump.wav 0CAC305E
+E3D204E3\sound\hit.wav 5636B1FC
+E3D204E3\sound\hurt.wav F373A162
+E3D204E3\sound\ice.ogg A0F4D3B1
+E3D204E3\sound\ignite.wav 5C084098
+E3D204E3\sound\jetpack.wav 36A34153
+E3D204E3\sound\jump.wav 726F9EAF
+E3D204E3\sound\kiss.wav 367E5862
+E3D204E3\sound\land.wav 58BD22AA
+E3D204E3\sound\laser.wav 24009F49
+E3D204E3\sound\lasercharge.wav E279889C
+E3D204E3\sound\letsexplore.wav D2A1DD1E
+E3D204E3\sound\lush.ogg CE4CF9F6
+E3D204E3\sound\mattockbreak.wav 51B9C62C
+E3D204E3\sound\monkey.wav 3A9134B4
+E3D204E3\sound\pause.wav A71DB156
+E3D204E3\sound\pfall.wav A1FE63D2
+E3D204E3\sound\pickup.wav 5ECBE7F7
+E3D204E3\sound\psychic.wav 4E050BCF
+E3D204E3\sound\push.wav 7325FD1B
+E3D204E3\sound\shotgun.wav 3969C130
+E3D204E3\sound\slam.wav B66EFAF8
+E3D204E3\sound\smallexplode.wav DC1EABDE
+E3D204E3\sound\spiderjump.wav C1A8111C
+E3D204E3\sound\splash.wav D5ABD367
+E3D204E3\sound\steps.wav 8D566415
+E3D204E3\sound\teleport.wav 6A9D130A
+E3D204E3\sound\temple.ogg EC7DAB60
+E3D204E3\sound\tfall.wav 67CAF686
+E3D204E3\sound\throw.wav 81DC95C6
+E3D204E3\sound\thud.wav 611FDD78
+E3D204E3\sound\thump.wav C97ABE49
+E3D204E3\sound\title.ogg 8262E64D
+E3D204E3\sound\trap.wav 8886C916
+E3D204E3\sound\victory.ogg F9287EE6
+E3D204E3\sound\whip.wav DDD385B5
+E3D204E3\sound\yetiyell.wav 2A3509C1
+E3D204E3\sound\zombie.wav 728E18E6

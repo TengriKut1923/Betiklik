@@ -1,0 +1,934 @@
+D1F90308.ico
+Link's Awakening DX HD.exe
+
+Content\Editor\delete.xnb
+Content\Editor\edit.xnb
+Content\Editor\eye_closed.xnb
+Content\Editor\eye_open.xnb
+Content\Editor\select.xnb
+
+Content\Fonts\credits font.xnb
+Content\Fonts\credits header font.xnb
+Content\Fonts\editor font.xnb
+Content\Fonts\editor mono font.xnb
+Content\Fonts\editor small mono font.xnb
+Content\Fonts\headerFont.xnb
+Content\Fonts\newHeaderFont.xnb
+Content\Fonts\smallFont.xnb
+
+Content\Light\doorLight.xnb
+Content\Light\dungeon.xnb
+Content\Light\light.xnb
+Content\Light\ligth room vertical.xnb
+Content\Light\ligth room.xnb
+Content\Light\shadow.xnb
+
+Content\Menu\copyIcon.xnb
+Content\Menu\gearIcon.xnb
+Content\Menu\menuBackground.xnb
+Content\Menu\trashIcon.xnb
+
+Content\Objects\fog.xnb
+
+Content\Shader\BBlurH.xnb
+Content\Shader\BBlurV.xnb
+Content\Shader\BlurH.xnb
+Content\Shader\BlurV.xnb
+Content\Shader\CircleShader.xnb
+Content\Shader\ColorCloud.xnb
+Content\Shader\ColorShader.xnb
+Content\Shader\DamageShader.xnb
+Content\Shader\EffectBlur.xnb
+Content\Shader\FullShadowEffect.xnb
+Content\Shader\LightFadeShader.xnb
+Content\Shader\LightShader.xnb
+Content\Shader\RoundedCorner.xnb
+Content\Shader\RoundedCornerEffectBlur.xnb
+Content\Shader\SaturationFilter.xnb
+Content\Shader\ShockEffect.xnb
+Content\Shader\ThanosShader.xnb
+Content\Shader\WaleShader.xnb
+Content\Shader\WobbleShader.xnb
+
+Content\SoundEffects\D360-01-01.xnb
+Content\SoundEffects\D360-02-02.xnb
+Content\SoundEffects\D360-03-03.xnb
+Content\SoundEffects\D360-04-04.xnb
+Content\SoundEffects\D360-05-05.xnb
+Content\SoundEffects\D360-06-06.xnb
+Content\SoundEffects\D360-07-07.xnb
+Content\SoundEffects\D360-08-08.xnb
+Content\SoundEffects\D360-09-09.xnb
+Content\SoundEffects\D360-10-0A.xnb
+Content\SoundEffects\D360-11-0B.xnb
+Content\SoundEffects\D360-12-0C.xnb
+Content\SoundEffects\D360-13-0D.xnb
+Content\SoundEffects\D360-14-0E.xnb
+Content\SoundEffects\D360-15-0F.xnb
+Content\SoundEffects\D360-16-10.xnb
+Content\SoundEffects\D360-17-11.xnb
+Content\SoundEffects\D360-18-12.xnb
+Content\SoundEffects\D360-19-13.xnb
+Content\SoundEffects\D360-20-14.xnb
+Content\SoundEffects\D360-21-15.xnb
+Content\SoundEffects\D360-22-16.xnb
+Content\SoundEffects\D360-23-17.xnb
+Content\SoundEffects\D360-24-18.xnb
+Content\SoundEffects\D360-25-19.xnb
+Content\SoundEffects\D360-26-1A.xnb
+Content\SoundEffects\D360-27-1B.xnb
+Content\SoundEffects\D360-28-1C.xnb
+Content\SoundEffects\D360-29-1D.xnb
+Content\SoundEffects\D360-30-1E.xnb
+Content\SoundEffects\D360-31-1F.xnb
+Content\SoundEffects\D360-32-20.xnb
+Content\SoundEffects\D360-33-21.xnb
+Content\SoundEffects\D360-34-22.xnb
+Content\SoundEffects\D360-35-23.xnb
+Content\SoundEffects\D360-36-24.xnb
+Content\SoundEffects\D360-37-25.xnb
+Content\SoundEffects\D360-38-26.xnb
+Content\SoundEffects\D360-39-27.xnb
+Content\SoundEffects\D360-40-28.xnb
+Content\SoundEffects\D360-41-29.xnb
+Content\SoundEffects\D360-42-2A.xnb
+Content\SoundEffects\D360-43-2B.xnb
+Content\SoundEffects\D360-44-2C.xnb
+Content\SoundEffects\D360-45-2D.xnb
+Content\SoundEffects\D360-46-2E.xnb
+Content\SoundEffects\D360-47-2F.xnb
+Content\SoundEffects\D360-48-30.xnb
+Content\SoundEffects\D360-49-31.xnb
+Content\SoundEffects\D360-50-32.xnb
+Content\SoundEffects\D360-51-33.xnb
+Content\SoundEffects\D360-52-34.xnb
+Content\SoundEffects\D360-53-35.xnb
+Content\SoundEffects\D360-54-36.xnb
+Content\SoundEffects\D360-55-37.xnb
+Content\SoundEffects\D360-56-38.xnb
+Content\SoundEffects\D360-57-39.xnb
+Content\SoundEffects\D360-58-3A.xnb
+Content\SoundEffects\D360-59-3B.xnb
+Content\SoundEffects\D360-60-3C.xnb
+Content\SoundEffects\D360-61-3D.xnb
+Content\SoundEffects\D360-62-3E.xnb
+Content\SoundEffects\D360-63-3F.xnb
+Content\SoundEffects\D360-64-40.xnb
+Content\SoundEffects\D360-65-41.xnb
+Content\SoundEffects\D368-16-10.xnb
+Content\SoundEffects\D370-01-01.xnb
+Content\SoundEffects\D370-02-02.xnb
+Content\SoundEffects\D370-03-03.xnb
+Content\SoundEffects\D370-04-04.xnb
+Content\SoundEffects\D370-05-05.xnb
+Content\SoundEffects\D370-06-06.xnb
+Content\SoundEffects\D370-07-07.xnb
+Content\SoundEffects\D370-08-08.xnb
+Content\SoundEffects\D370-09-09.xnb
+Content\SoundEffects\D370-10-0A.xnb
+Content\SoundEffects\D370-11-0B.xnb
+Content\SoundEffects\D370-12-0C.xnb
+Content\SoundEffects\D370-13-0D.xnb
+Content\SoundEffects\D370-14-0E.xnb
+Content\SoundEffects\D370-15-0F.xnb
+Content\SoundEffects\D370-16-10.xnb
+Content\SoundEffects\D370-17-11.xnb
+Content\SoundEffects\D370-18-12.xnb
+Content\SoundEffects\D370-19-13.xnb
+Content\SoundEffects\D370-20-14.xnb
+Content\SoundEffects\D370-21-15.xnb
+Content\SoundEffects\D370-22-16.xnb
+Content\SoundEffects\D370-23-17.xnb
+Content\SoundEffects\D370-24-18.xnb
+Content\SoundEffects\D370-25-19.xnb
+Content\SoundEffects\D370-26-1A.xnb
+Content\SoundEffects\D370-27-1B.xnb
+Content\SoundEffects\D370-28-1C.xnb
+Content\SoundEffects\D370-30-1E.xnb
+Content\SoundEffects\D370-31-1F.xnb
+Content\SoundEffects\D370-32-20.xnb
+Content\SoundEffects\D370-33-21.xnb
+Content\SoundEffects\D370-34-22.xnb
+Content\SoundEffects\D370-35-23.xnb
+Content\SoundEffects\D378-01-01.xnb
+Content\SoundEffects\D378-02-02.xnb
+Content\SoundEffects\D378-03-03.xnb
+Content\SoundEffects\D378-04-04.xnb
+Content\SoundEffects\D378-05-05.xnb
+Content\SoundEffects\D378-06-06.xnb
+Content\SoundEffects\D378-07-07.xnb
+Content\SoundEffects\D378-08-08.xnb
+Content\SoundEffects\D378-09-09.xnb
+Content\SoundEffects\D378-10-0A.xnb
+Content\SoundEffects\D378-11-0B.xnb
+Content\SoundEffects\D378-12-0C.xnb
+Content\SoundEffects\D378-13-0D.xnb
+Content\SoundEffects\D378-14-0E.xnb
+Content\SoundEffects\D378-15-0F.xnb
+Content\SoundEffects\D378-16-10.xnb
+Content\SoundEffects\D378-17-11.xnb
+Content\SoundEffects\D378-18-12.xnb
+Content\SoundEffects\D378-19-13.xnb
+Content\SoundEffects\D378-20-14.xnb
+Content\SoundEffects\D378-21-15.xnb
+Content\SoundEffects\D378-22-16.xnb
+Content\SoundEffects\D378-23-17.xnb
+Content\SoundEffects\D378-24-18.xnb
+Content\SoundEffects\D378-25-19.xnb
+Content\SoundEffects\D378-26-1A.xnb
+Content\SoundEffects\D378-27-1B.xnb
+Content\SoundEffects\D378-28-1C.xnb
+Content\SoundEffects\D378-29-1D.xnb
+Content\SoundEffects\D378-30-1E.xnb
+Content\SoundEffects\D378-31-1F.xnb
+Content\SoundEffects\D378-32-20.xnb
+Content\SoundEffects\D378-33-21.xnb
+Content\SoundEffects\D378-34-22.xnb
+Content\SoundEffects\D378-35-23.xnb
+Content\SoundEffects\D378-36-24.xnb
+Content\SoundEffects\D378-37-25.xnb
+Content\SoundEffects\D378-38-26.xnb
+Content\SoundEffects\D378-39-27.xnb
+Content\SoundEffects\D378-40-28.xnb
+Content\SoundEffects\D378-41-29.xnb
+Content\SoundEffects\D378-42-2A.xnb
+Content\SoundEffects\D378-43-2B.xnb
+Content\SoundEffects\D378-44-2C.xnb
+Content\SoundEffects\D378-45-2D.xnb
+Content\SoundEffects\D378-46-2E.xnb
+Content\SoundEffects\D378-47-2F.xnb
+Content\SoundEffects\D378-48-30.xnb
+Content\SoundEffects\D378-49-31.xnb
+Content\SoundEffects\D378-50-32.xnb
+Content\SoundEffects\D378-51-33.xnb
+Content\SoundEffects\D378-52-34.xnb
+Content\SoundEffects\D378-53-35.xnb
+Content\SoundEffects\D378-54-36.xnb
+Content\SoundEffects\D378-55-37.xnb
+Content\SoundEffects\D378-56-38.xnb
+Content\SoundEffects\D378-57-39.xnb
+Content\SoundEffects\D378-58-3A.xnb
+Content\SoundEffects\D378-59-3B.xnb
+Content\SoundEffects\D378-60-3D.xnb
+Content\SoundEffects\D378-61-3E.xnb
+Content\SoundEffects\D378-62-3F.xnb
+Content\SoundEffects\D378-63-40.xnb
+Content\SoundEffects\D378-64-41.xnb
+
+Data\musicOverworld.data
+Data\scripts.zScript
+Data\ui.atlas
+Data\ui.png
+
+Data\Animations\dialog_arrow.ani
+Data\Animations\dungeonPlayer.ani
+Data\Animations\link fishing.ani
+Data\Animations\link0.ani
+Data\Animations\mapPlayer.ani
+Data\Animations\mapSelector.ani
+Data\Animations\menu_link.ani
+
+Data\Animations\Enemies\angler fry.ani
+Data\Animations\Enemies\anti kirby suck.ani
+Data\Animations\Enemies\anti kirby.ani
+Data\Animations\Enemies\anti-fairy.ani
+Data\Animations\Enemies\arm mimic.ani
+Data\Animations\Enemies\armos.ani
+Data\Animations\Enemies\beamos.ani
+Data\Animations\Enemies\beetle.ani
+Data\Animations\Enemies\bladetrap.ani
+Data\Animations\Enemies\bloober.ani
+Data\Animations\Enemies\bomber.ani
+Data\Animations\Enemies\bombite.ani
+Data\Animations\Enemies\bombiteGreen.ani
+Data\Animations\Enemies\bone putter.ani
+Data\Animations\Enemies\bone.ani
+Data\Animations\Enemies\boo buddy.ani
+Data\Animations\Enemies\buzzblob.ani
+Data\Animations\Enemies\camo goblin.ani
+Data\Animations\Enemies\card boy.ani
+Data\Animations\Enemies\cheep cheep.ani
+Data\Animations\Enemies\crab.ani
+Data\Animations\Enemies\crow.ani
+Data\Animations\Enemies\darknut spear.ani
+Data\Animations\Enemies\darknut sword.ani
+Data\Animations\Enemies\darknut.ani
+Data\Animations\Enemies\fireball dungeon.ani
+Data\Animations\Enemies\fireball.ani
+Data\Animations\Enemies\fish.ani
+Data\Animations\Enemies\flame fountain fireball.ani
+Data\Animations\Enemies\flame fountain.ani
+Data\Animations\Enemies\floor layer.ani
+Data\Animations\Enemies\flyingTile.ani
+Data\Animations\Enemies\gel.ani
+Data\Animations\Enemies\ghini.ani
+Data\Animations\Enemies\ghiniGiant.ani
+Data\Animations\Enemies\giant bubble.ani
+Data\Animations\Enemies\gibdo.ani
+Data\Animations\Enemies\goomba.ani
+Data\Animations\Enemies\goponga flower giant.ani
+Data\Animations\Enemies\goponga flower.ani
+Data\Animations\Enemies\green zol.ani
+Data\Animations\Enemies\hardhat beetle.ani
+Data\Animations\Enemies\iron mask.ani
+Data\Animations\Enemies\karakoro.ani
+Data\Animations\Enemies\keese.ani
+Data\Animations\Enemies\leever.ani
+Data\Animations\Enemies\likelike.ani
+Data\Animations\Enemies\mad bomber.ani
+Data\Animations\Enemies\mask mimic.ani
+Data\Animations\Enemies\mega thwomp.ani
+Data\Animations\Enemies\mini moldorm.ani
+Data\Animations\Enemies\moblin sword sword.ani
+Data\Animations\Enemies\moblin sword.ani
+Data\Animations\Enemies\moblin.ani
+Data\Animations\Enemies\moblinPig sword.ani
+Data\Animations\Enemies\moblinPig.ani
+Data\Animations\Enemies\monkey.ani
+Data\Animations\Enemies\octorok shot.ani
+Data\Animations\Enemies\octorok.ani
+Data\Animations\Enemies\pairodd projectile.ani
+Data\Animations\Enemies\pairodd.ani
+Data\Animations\Enemies\peahat.ani
+Data\Animations\Enemies\pincer.ani
+Data\Animations\Enemies\piranha plant.ani
+Data\Animations\Enemies\podoboo.ani
+Data\Animations\Enemies\pols voice.ani
+Data\Animations\Enemies\raven.ani
+Data\Animations\Enemies\red zol.ani
+Data\Animations\Enemies\river zora.ani
+Data\Animations\Enemies\rock.ani
+Data\Animations\Enemies\rope.ani
+Data\Animations\Enemies\sea urchin.ani
+Data\Animations\Enemies\shrouded stalfos.ani
+Data\Animations\Enemies\spark.ani
+Data\Animations\Enemies\spiked beetle.ani
+Data\Animations\Enemies\spiked thwomp.ani
+Data\Animations\Enemies\spiny Beetle.ani
+Data\Animations\Enemies\stalfos green.ani
+Data\Animations\Enemies\stalfos knight sword.ani
+Data\Animations\Enemies\stalfos knight.ani
+Data\Animations\Enemies\stalfos orange.ani
+Data\Animations\Enemies\star.ani
+Data\Animations\Enemies\tektite.ani
+Data\Animations\Enemies\thwimp.ani
+Data\Animations\Enemies\vacuum.ani
+Data\Animations\Enemies\vire bat.ani
+Data\Animations\Enemies\vire.ani
+Data\Animations\Enemies\vireball.ani
+Data\Animations\Enemies\water tektite.ani
+Data\Animations\Enemies\wizzrobe.ani
+Data\Animations\Enemies\zombie.ani
+
+Data\Animations\Intro\light.ani
+Data\Animations\Intro\link.ani
+Data\Animations\Intro\link_boat.ani
+Data\Animations\Intro\loading.ani
+Data\Animations\Intro\maria.ani
+Data\Animations\Intro\thunder.ani
+
+Data\Animations\MidBoss\armosKnight.ani
+Data\Animations\MidBoss\ball and chain soldier.ani
+Data\Animations\MidBoss\bigMoblin.ani
+Data\Animations\MidBoss\blaino.ani
+Data\Animations\MidBoss\cue ball.ani
+Data\Animations\MidBoss\desertLanmola.ani
+Data\Animations\MidBoss\giant buzz blob.ani
+Data\Animations\MidBoss\gohma.ani
+Data\Animations\MidBoss\grim creeper fly.ani
+Data\Animations\MidBoss\grim creeper.ani
+Data\Animations\MidBoss\hinox.ani
+Data\Animations\MidBoss\mbossOne.ani
+Data\Animations\MidBoss\mbossOneBoss.ani
+Data\Animations\MidBoss\smasher.ani
+Data\Animations\MidBoss\stone hinox.ani
+Data\Animations\MidBoss\turtle rock.ani
+
+Data\Animations\Nightmares\anger fish stone.ani
+Data\Animations\Nightmares\anger fish.ani
+Data\Animations\Nightmares\evil eagle.ani
+Data\Animations\Nightmares\facade hole.ani
+Data\Animations\Nightmares\facade.ani
+Data\Animations\Nightmares\genie bottle.ani
+Data\Animations\Nightmares\genie smoke.ani
+Data\Animations\Nightmares\genie.ani
+Data\Animations\Nightmares\hardhit beetle shot.ani
+Data\Animations\Nightmares\hardhit beetle.ani
+Data\Animations\Nightmares\hot head.ani
+Data\Animations\Nightmares\nightmare bat.ani
+Data\Animations\Nightmares\nightmare eye.ani
+Data\Animations\Nightmares\nightmare final.ani
+Data\Animations\Nightmares\nightmare fireball.ani
+Data\Animations\Nightmares\nightmare ganon weapon.ani
+Data\Animations\Nightmares\nightmare particle.ani
+Data\Animations\Nightmares\nightmare tail.ani
+Data\Animations\Nightmares\nightmare.ani
+Data\Animations\Nightmares\slime eel.ani
+
+Data\Animations\NPCs\alligator.ani
+Data\Animations\NPCs\animal 02.ani
+Data\Animations\NPCs\animal 03.ani
+Data\Animations\NPCs\animal_rabbit.ani
+Data\Animations\NPCs\bat.ani
+Data\Animations\NPCs\bee target.ani
+Data\Animations\NPCs\bee.ani
+Data\Animations\NPCs\bird.ani
+Data\Animations\NPCs\BowWow.ani
+Data\Animations\NPCs\bowWowSmall.ani
+Data\Animations\NPCs\broom.ani
+Data\Animations\NPCs\butterfly.ani
+Data\Animations\NPCs\cock.ani
+Data\Animations\NPCs\dance fish.ani
+Data\Animations\NPCs\dog.ani
+Data\Animations\NPCs\fairy.ani
+Data\Animations\NPCs\fish_big.ani
+Data\Animations\NPCs\fish_small.ani
+Data\Animations\NPCs\frog.ani
+Data\Animations\NPCs\ghost.ani
+Data\Animations\NPCs\letterBird.ani
+Data\Animations\NPCs\letterBirdGreen.ani
+Data\Animations\NPCs\mamu.ani
+Data\Animations\NPCs\manbo.ani
+Data\Animations\NPCs\marin.ani
+Data\Animations\NPCs\marin_letter.ani
+Data\Animations\NPCs\monkey.ani
+Data\Animations\NPCs\mouse.ani
+Data\Animations\NPCs\npc04.ani
+Data\Animations\NPCs\npc05.ani
+Data\Animations\NPCs\npc07.ani
+Data\Animations\NPCs\npc09.ani
+Data\Animations\NPCs\npc_boy_left.ani
+Data\Animations\NPCs\npc_boy_right.ani
+Data\Animations\NPCs\npc_chef.ani
+Data\Animations\NPCs\npc_chicken_dude.ani
+Data\Animations\NPCs\npc_color_dungeon_blue.ani
+Data\Animations\NPCs\npc_color_dungeon_red.ani
+Data\Animations\NPCs\npc_fisherman.ani
+Data\Animations\NPCs\npc_frog_boy.ani
+Data\Animations\NPCs\npc_green_boy.ani
+Data\Animations\NPCs\npc_hidden.ani
+Data\Animations\NPCs\npc_hippo.ani
+Data\Animations\NPCs\npc_letter_boy.ani
+Data\Animations\NPCs\npc_letter_girl.ani
+Data\Animations\NPCs\npc_lost_boy.ani
+Data\Animations\NPCs\npc_mermaid.ani
+Data\Animations\NPCs\npc_painter.ani
+Data\Animations\NPCs\npc_raft.ani
+Data\Animations\NPCs\npc_red_boy.ani
+Data\Animations\NPCs\npc_tracy.ani
+Data\Animations\NPCs\npc_trendy.ani
+Data\Animations\NPCs\npc_woman_broom.ani
+Data\Animations\NPCs\npc_zora.ani
+Data\Animations\NPCs\owl.ani
+Data\Animations\NPCs\photo_mouse.ani
+Data\Animations\NPCs\raccoon.ani
+Data\Animations\NPCs\shopkeeper.ani
+Data\Animations\NPCs\singing frog.ani
+Data\Animations\NPCs\tarin mushroom.ani
+Data\Animations\NPCs\tarin stick.ani
+Data\Animations\NPCs\tarin.ani
+Data\Animations\NPCs\walrus particle.ani
+Data\Animations\NPCs\walrus.ani
+Data\Animations\NPCs\witch.ani
+
+Data\Animations\Objects\bomb.ani
+Data\Animations\Objects\boomerang.ani
+Data\Animations\Objects\d7 tower bottom.ani
+Data\Animations\Objects\d7 tower top 1.ani
+Data\Animations\Objects\d7 tower top 2.ani
+Data\Animations\Objects\d7 tower.ani
+Data\Animations\Objects\dOneWay.ani
+Data\Animations\Objects\dTeleporter.ani
+Data\Animations\Objects\dungeon color switch.ani
+Data\Animations\Objects\explosion.ani
+Data\Animations\Objects\holeTeleporter.ani
+Data\Animations\Objects\ice block.ani
+Data\Animations\Objects\lamp_floor.ani
+Data\Animations\Objects\lamp_torch.ani
+Data\Animations\Objects\lamp_torch_blue.ani
+Data\Animations\Objects\lamp_wall.ani
+Data\Animations\Objects\lamp_wall_1.ani
+Data\Animations\Objects\lamp_wall_2.ani
+Data\Animations\Objects\lava.ani
+Data\Animations\Objects\lava_2d.ani
+Data\Animations\Objects\raft.ani
+Data\Animations\Objects\shell_mansion_bar.ani
+Data\Animations\Objects\spear.ani
+Data\Animations\Objects\spikes.ani
+Data\Animations\Objects\sword spawn.ani
+Data\Animations\Objects\sword.ani
+Data\Animations\Objects\torch_d4.ani
+Data\Animations\Objects\torch_d4_d4.ani
+Data\Animations\Objects\torch_d6.ani
+Data\Animations\Objects\torch_d8.ani
+Data\Animations\Objects\weatherBird.ani
+
+Data\Animations\Particles\big_water_splash.ani
+Data\Animations\Particles\buttonOrder.ani
+Data\Animations\Particles\despawn.ani
+Data\Animations\Particles\despawnParticle.ani
+Data\Animations\Particles\explosion.ani
+Data\Animations\Particles\explosion0.ani
+Data\Animations\Particles\explosionBomb.ani
+Data\Animations\Particles\explosionRaccoon.ani
+Data\Animations\Particles\fall.ani
+Data\Animations\Particles\fishingSplash.ani
+Data\Animations\Particles\flame.ani
+Data\Animations\Particles\ice block despawn.ani
+Data\Animations\Particles\pieceOfPowerExplosion.ani
+Data\Animations\Particles\pieceOfPowerTrail.ani
+Data\Animations\Particles\run.ani
+Data\Animations\Particles\shell_mansion_particle.ani
+Data\Animations\Particles\spawn.ani
+Data\Animations\Particles\splash.ani
+Data\Animations\Particles\swordPoke.ani
+Data\Animations\Particles\swordShotDespawn.ani
+
+Data\Animations\Sequences\beach_water.ani
+Data\Animations\Sequences\bowWow link.ani
+Data\Animations\Sequences\bowWow.ani
+Data\Animations\Sequences\castle frog boy.ani
+Data\Animations\Sequences\cliff sequence.ani
+Data\Animations\Sequences\final fountain.ani
+Data\Animations\Sequences\final star.ani
+Data\Animations\Sequences\link awake.ani
+Data\Animations\Sequences\link castle.ani
+Data\Animations\Sequences\link final.ani
+Data\Animations\Sequences\link grave.ani
+Data\Animations\Sequences\seagull big final.ani
+Data\Animations\Sequences\seagull final.ani
+Data\Animations\Sequences\seagull small.ani
+Data\Animations\Sequences\seagull.ani
+Data\Animations\Sequences\tower dust.ani
+Data\Animations\Sequences\wale.ani
+Data\Animations\Sequences\water.ani
+Data\Animations\Sequences\weather bird link.ani
+Data\Animations\Sequences\weather bird marin.ani
+Data\Animations\Sequences\weather bird objects.ani
+Data\Animations\Sequences\weather bird ulrich.ani
+
+Data\Dungeon\dColor_0.txt
+Data\Dungeon\eight_0.txt
+Data\Dungeon\five_0.txt
+Data\Dungeon\four_0.txt
+Data\Dungeon\one_0.txt
+Data\Dungeon\seven_0.txt
+Data\Dungeon\seven_1.txt
+Data\Dungeon\seven_2.txt
+Data\Dungeon\seven_2_alt.txt
+Data\Dungeon\seven_3.txt
+Data\Dungeon\seven_3_alt.txt
+Data\Dungeon\six_0.txt
+Data\Dungeon\three_0.txt
+Data\Dungeon\three_1.txt
+Data\Dungeon\three_2.txt
+Data\Dungeon\three_3.txt
+Data\Dungeon\two_0.txt
+
+Data\Editor\editorIcons4x.atlas
+Data\Editor\editorIcons4x.png
+
+Data\Intro\cloud.png
+Data\Intro\intro.atlas
+Data\Intro\intro.png
+Data\Intro\ocean.png
+Data\Intro\rain.png
+Data\Intro\waves.png
+
+Data\Languages\dialog_eng.lng
+Data\Languages\eng.lng
+
+Data\Light\doorLight.atlas
+Data\Light\readme.txt
+Data\Light\room blur.atlas
+Data\Light\room blur.png
+
+Data\Map Objects\enemies.atlas
+Data\Map Objects\enemies.png
+Data\Map Objects\items.atlas
+Data\Map Objects\items.png
+Data\Map Objects\link0.atlas
+Data\Map Objects\link0.png
+Data\Map Objects\link_cloak.png
+Data\Map Objects\midboss.atlas
+Data\Map Objects\midboss.png
+Data\Map Objects\minimap.png
+Data\Map Objects\nightmares.atlas
+Data\Map Objects\nightmares.png
+Data\Map Objects\npcs.atlas
+Data\Map Objects\npcs.png
+Data\Map Objects\objects animated.atlas
+Data\Map Objects\objects animated.png
+Data\Map Objects\objects.atlas
+Data\Map Objects\objects.png
+
+Data\Maps\0 test map - barrier.map
+Data\Maps\0 test map - barrier.map.data
+Data\Maps\0 test map - beamos.map
+Data\Maps\0 test map - beamos.map.data
+Data\Maps\0 test map - blured cave.map
+Data\Maps\0 test map - blured cave.map.data
+Data\Maps\0 test map - color jump tile.map
+Data\Maps\0 test map - color jump tile.map.data
+Data\Maps\0 test map - Copy (2).map
+Data\Maps\0 test map - Copy (2).map.data
+Data\Maps\0 test map - Copy - Copy.map
+Data\Maps\0 test map - Copy - Copy.map.data
+Data\Maps\0 test map - Copy.map.data
+Data\Maps\0 test map - dialog.map
+Data\Maps\0 test map - dialog.map.data
+Data\Maps\0 test map - enemies - damage - holes.map
+Data\Maps\0 test map - enemies - damage - holes.map.data
+Data\Maps\0 test map - enemies - damage.map
+Data\Maps\0 test map - enemies - damage.map.data
+Data\Maps\0 test map - enemies small.map
+Data\Maps\0 test map - enemies small.map.data
+Data\Maps\0 test map - enemies.map
+Data\Maps\0 test map - enemies.map.data
+Data\Maps\0 test map - fence.map
+Data\Maps\0 test map - fence.map.data
+Data\Maps\0 test map - floor layer.map
+Data\Maps\0 test map - floor layer.map.data
+Data\Maps\0 test map - gbs test.map
+Data\Maps\0 test map - gbs test.map.data
+Data\Maps\0 test map - holes.map
+Data\Maps\0 test map - holes.map.data
+Data\Maps\0 test map - hookshot.map
+Data\Maps\0 test map - hookshot.map.data
+Data\Maps\0 test map - item test.map
+Data\Maps\0 test map - item test.map.data
+Data\Maps\0 test map - kirby.map
+Data\Maps\0 test map - kirby.map.data
+Data\Maps\0 test map - levels.map
+Data\Maps\0 test map - levels.map.data
+Data\Maps\0 test map - mermaid.map
+Data\Maps\0 test map - mermaid.map.data
+Data\Maps\0 test map - music test.map
+Data\Maps\0 test map - music test.map.data
+Data\Maps\0 test map - new draw pool.map
+Data\Maps\0 test map - new draw pool.map.data
+Data\Maps\0 test map - qicksand.map
+Data\Maps\0 test map - qicksand.map.data
+Data\Maps\0 test map - raft.map
+Data\Maps\0 test map - raft.map.data
+Data\Maps\0 test map - rail jump.map
+Data\Maps\0 test map - rail jump.map.data
+Data\Maps\0 test map - sequence.map
+Data\Maps\0 test map - sequence.map.data
+Data\Maps\0 test map - sprites.map
+Data\Maps\0 test map - sprites.map.data
+Data\Maps\0 test map - stop music test.map
+Data\Maps\0 test map - stop music test.map.data
+Data\Maps\0 test map - transition bug.map
+Data\Maps\0 test map - transition bug.map.data
+Data\Maps\0 test map - turtle head.map
+Data\Maps\0 test map - turtle head.map.data
+Data\Maps\0 test map - walrus.map
+Data\Maps\0 test map - walrus.map.data
+Data\Maps\0 test map color jump tile.map.data
+Data\Maps\0 test map levels.map.data
+Data\Maps\0 test map new draw pool.map.data
+Data\Maps\0 test map qicksand.map.data
+Data\Maps\0 test map.map
+Data\Maps\0 test map.map.data
+Data\Maps\bridge.map
+Data\Maps\bridge.map.data
+Data\Maps\castle1.map
+Data\Maps\castle1.map.data
+Data\Maps\castle2.map
+Data\Maps\castle2.map.data
+Data\Maps\castleTunnel.map
+Data\Maps\castleTunnel.map.data
+Data\Maps\cave bird.map.data
+Data\Maps\cave rooster.map
+Data\Maps\cave rooster.map.data
+Data\Maps\cave0.map
+Data\Maps\cave0.map.data
+Data\Maps\cave1.map
+Data\Maps\cave1.map.data
+Data\Maps\cave10.map
+Data\Maps\cave10.map.data
+Data\Maps\cave11.map
+Data\Maps\cave11.map.data
+Data\Maps\cave12.map
+Data\Maps\cave12.map.data
+Data\Maps\cave13.map
+Data\Maps\cave13.map.data
+Data\Maps\cave14.map
+Data\Maps\cave14.map.data
+Data\Maps\cave15.map
+Data\Maps\cave15.map.data
+Data\Maps\cave16.map
+Data\Maps\cave16.map.data
+Data\Maps\cave17.map
+Data\Maps\cave17.map.data
+Data\Maps\cave18.map
+Data\Maps\cave18.map.data
+Data\Maps\cave19.map
+Data\Maps\cave19.map.data
+Data\Maps\cave2.map
+Data\Maps\cave2.map.data
+Data\Maps\cave20.map
+Data\Maps\cave20.map.data
+Data\Maps\cave21.map
+Data\Maps\cave21.map.data
+Data\Maps\cave22.map
+Data\Maps\cave22.map.data
+Data\Maps\cave23.map
+Data\Maps\cave23.map.data
+Data\Maps\cave24.map
+Data\Maps\cave24.map.data
+Data\Maps\cave25.map
+Data\Maps\cave25.map.data
+Data\Maps\cave26.map
+Data\Maps\cave26.map.data
+Data\Maps\cave27.map
+Data\Maps\cave27.map.data
+Data\Maps\cave28.map
+Data\Maps\cave28.map.data
+Data\Maps\cave29.map
+Data\Maps\cave29.map.data
+Data\Maps\cave3.map
+Data\Maps\cave3.map.data
+Data\Maps\cave30.map
+Data\Maps\cave30.map.data
+Data\Maps\cave31.map
+Data\Maps\cave31.map.data
+Data\Maps\cave32.map
+Data\Maps\cave32.map.data
+Data\Maps\cave33.map
+Data\Maps\cave33.map.data
+Data\Maps\cave3_2.map
+Data\Maps\cave3_2.map.data
+Data\Maps\cave4.map
+Data\Maps\cave4.map.data
+Data\Maps\cave5.map
+Data\Maps\cave5.map.data
+Data\Maps\cave6.map
+Data\Maps\cave6.map.data
+Data\Maps\cave7.map
+Data\Maps\cave7.map.data
+Data\Maps\cave7_2.map
+Data\Maps\cave7_2.map.data
+Data\Maps\cave8.map
+Data\Maps\cave8.map.data
+Data\Maps\cave9.map
+Data\Maps\cave9.map.data
+Data\Maps\caveBat1.map
+Data\Maps\caveBat1.map.data
+Data\Maps\caveBat2.map
+Data\Maps\caveBat2.map.data
+Data\Maps\caveBat3.map
+Data\Maps\caveBat3.map.data
+Data\Maps\caveFairy1.map
+Data\Maps\caveFairy1.map.data
+Data\Maps\caveFairy2.map
+Data\Maps\caveFairy2.map.data
+Data\Maps\caveFairyMountain.map
+Data\Maps\caveFairyMountain.map.data
+Data\Maps\caveFrogs.map
+Data\Maps\caveFrogs.map.data
+Data\Maps\caveMirror.map
+Data\Maps\caveMirror.map.data
+Data\Maps\caveTemple.map
+Data\Maps\caveTemple.map.data
+Data\Maps\caveVillage.map
+Data\Maps\caveVillage.map.data
+Data\Maps\desertTemple.map
+Data\Maps\desertTemple.map.data
+Data\Maps\dreamShrine01.map
+Data\Maps\dreamShrine01.map.data
+Data\Maps\dreamShrine02.map
+Data\Maps\dreamShrine02.map.data
+Data\Maps\dungeon 7_2d.map.data
+Data\Maps\dungeon1.map
+Data\Maps\dungeon1.map.data
+Data\Maps\dungeon1_2d_1.map
+Data\Maps\dungeon1_2d_1.map.data
+Data\Maps\dungeon1_2d_2.map
+Data\Maps\dungeon1_2d_2.map.data
+Data\Maps\dungeon2.map
+Data\Maps\dungeon2.map.data
+Data\Maps\dungeon2_2d_1.map
+Data\Maps\dungeon2_2d_1.map.data
+Data\Maps\dungeon2_2d_2.map
+Data\Maps\dungeon2_2d_2.map.data
+Data\Maps\dungeon2_2d_3.map
+Data\Maps\dungeon2_2d_3.map.data
+Data\Maps\dungeon3_1.map
+Data\Maps\dungeon3_1.map.data
+Data\Maps\dungeon3_2.map
+Data\Maps\dungeon3_2.map.data
+Data\Maps\dungeon3_2d.map
+Data\Maps\dungeon3_2d.map.data
+Data\Maps\dungeon3_3.map
+Data\Maps\dungeon3_3.map.data
+Data\Maps\dungeon3_4.map
+Data\Maps\dungeon3_4.map.data
+Data\Maps\dungeon4.map
+Data\Maps\dungeon4.map.data
+Data\Maps\dungeon4_2d_1.map
+Data\Maps\dungeon4_2d_1.map.data
+Data\Maps\dungeon4_2d_2.map
+Data\Maps\dungeon4_2d_2.map.data
+Data\Maps\dungeon4_2d_3.map
+Data\Maps\dungeon4_2d_3.map.data
+Data\Maps\dungeon4_2d_4.map
+Data\Maps\dungeon4_2d_4.map.data
+Data\Maps\dungeon5.map
+Data\Maps\dungeon5.map.data
+Data\Maps\dungeon5_2d_1.map
+Data\Maps\dungeon5_2d_1.map.data
+Data\Maps\dungeon5_2d_2.map
+Data\Maps\dungeon5_2d_2.map.data
+Data\Maps\dungeon5_2d_3.map
+Data\Maps\dungeon5_2d_3.map.data
+Data\Maps\dungeon5_2d_4.map
+Data\Maps\dungeon5_2d_4.map.data
+Data\Maps\dungeon5_entry.map
+Data\Maps\dungeon5_entry.map.data
+Data\Maps\dungeon6.map
+Data\Maps\dungeon6.map.data
+Data\Maps\dungeon6_2d_1.map
+Data\Maps\dungeon6_2d_1.map.data
+Data\Maps\dungeon6_2d_2.map
+Data\Maps\dungeon6_2d_2.map.data
+Data\Maps\dungeon6_2d_3.map
+Data\Maps\dungeon6_2d_3.map.data
+Data\Maps\dungeon7_1.map
+Data\Maps\dungeon7_1.map.data
+Data\Maps\dungeon7_2.map
+Data\Maps\dungeon7_2.map.data
+Data\Maps\dungeon7_2d.map
+Data\Maps\dungeon7_2d.map.data
+Data\Maps\dungeon7_3.map
+Data\Maps\dungeon7_3.map.data
+Data\Maps\dungeon7_4.map
+Data\Maps\dungeon7_4.map.data
+Data\Maps\dungeon8.map
+Data\Maps\dungeon8.map.data
+Data\Maps\dungeon8_2d_1.map
+Data\Maps\dungeon8_2d_1.map.data
+Data\Maps\dungeon8_2d_2.map
+Data\Maps\dungeon8_2d_2.map.data
+Data\Maps\dungeon8_2d_3.map
+Data\Maps\dungeon8_2d_3.map.data
+Data\Maps\dungeon8_2d_4.map
+Data\Maps\dungeon8_2d_4.map.data
+Data\Maps\dungeon8_2d_5.map
+Data\Maps\dungeon8_2d_5.map.data
+Data\Maps\dungeon8_2d_6.map
+Data\Maps\dungeon8_2d_6.map.data
+Data\Maps\dungeon_color.map
+Data\Maps\dungeon_color.map.data
+Data\Maps\dungeon_end.map.data
+Data\Maps\egg_boss_room.map
+Data\Maps\egg_boss_room.map.data
+Data\Maps\egg_entry.map
+Data\Maps\egg_entry.map.data
+Data\Maps\egg_lower_floor.map
+Data\Maps\egg_lower_floor.map.data
+Data\Maps\final stairs.map
+Data\Maps\final stairs.map.data
+Data\Maps\hauntedhouse.map
+Data\Maps\hauntedhouse.map.data
+Data\Maps\helphouse1.map
+Data\Maps\helphouse1.map.data
+Data\Maps\helphouse2.map
+Data\Maps\helphouse2.map.data
+Data\Maps\helphouse3.map
+Data\Maps\helphouse3.map.data
+Data\Maps\helphouse4.map
+Data\Maps\helphouse4.map.data
+Data\Maps\helphouse5.map
+Data\Maps\helphouse5.map.data
+Data\Maps\helphouse6.map
+Data\Maps\helphouse6.map.data
+Data\Maps\helphouse7.map
+Data\Maps\helphouse7.map.data
+Data\Maps\helphouse8.map
+Data\Maps\helphouse8.map.data
+Data\Maps\house mountain.map
+Data\Maps\house mountain.map.data
+Data\Maps\house raft.map
+Data\Maps\house raft.map.data
+Data\Maps\house1.map
+Data\Maps\house1.map.data
+Data\Maps\house10.map
+Data\Maps\house10.map.data
+Data\Maps\house11.map
+Data\Maps\house11.map.data
+Data\Maps\house12.map
+Data\Maps\house12.map.data
+Data\Maps\house13.map
+Data\Maps\house13.map.data
+Data\Maps\house14.map
+Data\Maps\house14.map.data
+Data\Maps\house2.map
+Data\Maps\house2.map.data
+Data\Maps\house3m.map
+Data\Maps\house3m.map.data
+Data\Maps\house3n.map
+Data\Maps\house3n.map.data
+Data\Maps\house4.map
+Data\Maps\house4.map.data
+Data\Maps\house6.map
+Data\Maps\house6.map.data
+Data\Maps\house7.map
+Data\Maps\house7.map.data
+Data\Maps\house8.map
+Data\Maps\house8.map.data
+Data\Maps\house9.map
+Data\Maps\house9.map.data
+Data\Maps\library.map
+Data\Maps\library.map.data
+Data\Maps\overworld.map
+Data\Maps\overworld.map.data
+Data\Maps\photoHouse.map
+Data\Maps\photoHouse.map.data
+Data\Maps\pond.map
+Data\Maps\pond.map.data
+Data\Maps\shellhouse.map
+Data\Maps\shellhouse.map.data
+Data\Maps\shop1.map
+Data\Maps\shop1.map.data
+Data\Maps\shop2.map
+Data\Maps\shop2.map.data
+Data\Maps\shop3.map
+Data\Maps\shop3.map.data
+Data\Maps\underwater fish.map
+Data\Maps\underwater fish.map.data
+
+Data\Maps\Tilesets\blur tileset.png
+Data\Maps\Tilesets\castle.png
+Data\Maps\Tilesets\cave.png
+Data\Maps\Tilesets\desertTempleTileset.png
+Data\Maps\Tilesets\dreamShrineTileset.png
+Data\Maps\Tilesets\dungeon 1.png
+Data\Maps\Tilesets\dungeon 2.png
+Data\Maps\Tilesets\dungeon 3.png
+Data\Maps\Tilesets\dungeon 4.png
+Data\Maps\Tilesets\dungeon 5.png
+Data\Maps\Tilesets\dungeon 6.png
+Data\Maps\Tilesets\dungeon 7.png
+Data\Maps\Tilesets\dungeon 8.png
+Data\Maps\Tilesets\dungeon color.png
+Data\Maps\Tilesets\egg.png
+Data\Maps\Tilesets\hole.png
+Data\Maps\Tilesets\house.png
+Data\Maps\Tilesets\tileset 2d.png
+Data\Maps\Tilesets\tileset size.txt
+Data\Maps\Tilesets\tileset0.png
+
+Data\Music\awakening.gbs
+
+Data\Photo Mode\photos.atlas
+Data\Photo Mode\photos.png
+
+Data\Sequences\end sequence.atlas
+Data\Sequences\end sequence.png
+Data\Sequences\game sequences.atlas
+Data\Sequences\game sequences.png
+Data\Sequences\thanos noise.png
+Data\Sequences\wind fish.atlas
+Data\Sequences\wind fish.png

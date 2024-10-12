@@ -1,0 +1,8 @@
+alleg40.dll
+Config
+Demo
+DK.exe
+DKConfig.exe
+EA82DB18.ico
+fmod.dll
+resources

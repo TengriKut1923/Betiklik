@@ -1,0 +1,9 @@
+This is a modified version of Derek Yu's game Spelunky Classic. Based on the source code published in Humble Weekly Bundle: Play and Create with GameMaker (not original 1.1 release).
+
+New features:
+builds for different operating systems
+different aspect ratios (originally 4:3)
+touch input
+support for translations
+proper in-game menu
+better gamepad support

@@ -1,0 +1,4 @@
+346D858D.ico
+audiogroup1.dat
+data.win
+Rayman Redemption.exe
