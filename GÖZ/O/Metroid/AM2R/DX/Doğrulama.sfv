@@ -525,8 +525,6 @@
 ;      6527350  00:00.00 2023-10-29 4F22801B\dx\sd\musTorizoB.ogg
 ;      2045810  00:00.00 2023-10-29 4F22801B\dx\sd\musZetaFight.ogg
 ;           98  00:00.00 2023-10-29 4F22801B\dx\sd\options.ini
-;          578  00:00.00 2023-10-29 4F22801B\dx\sd\profile.xml
-;        46879  00:00.00 2023-10-29 4F22801B\dx\sd\readme.txt
 ;        44750  00:00.00 2023-10-29 4F22801B\dx\sd\lang\english.ini
 ;           11  00:00.00 2023-10-29 4F22801B\dx\sd\lang\languages.txt
 ;        51492  00:00.00 2023-10-29 4F22801B\dx\sd\lang\fonts\04b09.ttf
@@ -1200,8 +1198,6 @@
 4F22801B\dx\sd\musTorizoB.ogg FBC29F57
 4F22801B\dx\sd\musZetaFight.ogg 5DCC7500
 4F22801B\dx\sd\options.ini 95D8DBDE
-4F22801B\dx\sd\profile.xml BE8952AD
-4F22801B\dx\sd\readme.txt 47033D39
 4F22801B\dx\sd\lang\english.ini FD493666
 4F22801B\dx\sd\lang\languages.txt C84D1B6E
 4F22801B\dx\sd\lang\fonts\04b09.ttf 766D6BAE

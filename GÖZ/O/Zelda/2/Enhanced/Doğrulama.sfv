@@ -1,16 +1,16 @@
 ;       212500  00:00.00 2023-10-29 7E2DBC21\085DBE0E.ico
-;    994016442  00:00.00 2023-10-29 7E2DBC21\audiogroup1.dat
-;     55126268  00:00.00 2023-10-29 7E2DBC21\audiogroup2.dat
+;    202061678  00:00.00 2023-10-29 7E2DBC21\audiogroup1.dat
+;     17934732  00:00.00 2023-10-29 7E2DBC21\audiogroup2.dat
 ;      1998168  00:00.00 2023-10-29 7E2DBC21\D3DX9_43.dll
-;     17158382  00:00.00 2023-10-29 7E2DBC21\data.win
+;     15602590  00:00.00 2023-10-29 7E2DBC21\data.win
 ;         2560  00:00.00 2023-10-29 7E2DBC21\gmsched.dll
 ;           97  00:00.00 2023-10-29 7E2DBC21\options.ini
-;      4384768  00:00.00 2023-10-29 7E2DBC21\Z2TAOL_Q00.exe
+;      4384768  00:00.00 2023-10-29 7E2DBC21\ZALiA_Q13.exe
 ;       179264  00:00.00 2023-10-29 7E2DBC21\other\automate_code01.txt
 ;        10354  00:00.00 2023-10-29 7E2DBC21\other\RandoPalettes01.json
 ;        10376  00:00.00 2023-10-29 7E2DBC21\other\RandoPalettes02.json
-;       533138  00:00.00 2023-10-29 7E2DBC21\ow_tile_data\anarkhya_OvrwA_00.json
-;      1001336  00:00.00 2023-10-29 7E2DBC21\ow_tile_data\OvrwA_00.json
+;       401232  00:00.00 2023-10-29 7E2DBC21\ow_tile_data\anarkhya_OvrwA_00.json
+;      1001414  00:00.00 2023-10-29 7E2DBC21\ow_tile_data\OvrwA_00.json
 ;        80230  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\DthMt\DthMt_000.json
 ;        51723  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\DthMt\DthMt_001.json
 ;        51723  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\DthMt\DthMt_002.json
@@ -55,7 +55,7 @@
 ;        51995  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_012.json
 ;        50837  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_013.json
 ;       202494  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_014.json
-;        46286  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_015.json
+;        46220  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_015.json
 ;       101888  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_017.json
 ;        66316  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_020.json
 ;        46009  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_021.json
@@ -72,6 +72,7 @@
 ;        37006  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_039.json
 ;        51979  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_040.json
 ;        91645  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_041.json
+;        41013  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_042.json
 ;        56586  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_044.json
 ;        28007  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_045.json
 ;        42427  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\EastA\EastA_047.json
@@ -228,7 +229,7 @@
 ;        55870  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcB\PalcB_014.json
 ;        74532  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcB\PalcB_015.json
 ;        72190  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcB\PalcB_016.json
-;        99402  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcB\PalcB_017.json
+;        99498  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcB\PalcB_017.json
 ;        72109  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcB\PalcB_018.json
 ;        74473  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcB\PalcB_019.json
 ;        74421  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcB\PalcB_022.json
@@ -326,38 +327,38 @@
 ;        73618  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcF\PalcF_035.json
 ;        68254  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_000.json
 ;        63847  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_001.json
-;        55229  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_002.json
+;        54983  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_002.json
 ;        80497  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_003.json
 ;        64054  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_004.json
 ;        55427  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_005.json
-;        98636  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_006.json
+;        98641  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_006.json
 ;        63887  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_007.json
 ;        64335  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_008.json
 ;        64131  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_009.json
 ;        34696  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_010.json
 ;        55386  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_011.json
 ;        63822  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_012.json
-;        80845  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_013.json
+;        80773  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_013.json
 ;        55770  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_014.json
 ;        72837  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_015.json
 ;        81175  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_016.json
 ;        64244  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_018.json
 ;        64623  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_019.json
-;        81564  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_020.json
+;        80988  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_020.json
 ;        64088  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_021.json
 ;        98826  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_025.json
 ;        80709  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_027.json
 ;        89194  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_028.json
 ;        64041  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_029.json
 ;        55667  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_030.json
-;        73257  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_031.json
+;        73045  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_031.json
 ;        65656  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_032.json
-;        72453  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_035.json
+;        72517  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_035.json
 ;        55432  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_036.json
 ;        63737  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_037.json
 ;        55391  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_038.json
 ;        55327  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_039.json
-;        55004  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_040.json
+;        55076  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_040.json
 ;        64273  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_041.json
 ;        55628  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_042.json
 ;        64165  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcG\PalcG_043.json
@@ -409,6 +410,16 @@
 ;        52287  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_009.json
 ;       107818  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_010.json
 ;       124345  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_011.json
+;        24600  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_012.json
+;        24600  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_013.json
+;        24852  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_014.json
+;        24852  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_015.json
+;        28895  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_016.json
+;        55825  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_017.json
+;        64185  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_018.json
+;        72726  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_019.json
+;       123227  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_020.json
+;        35412  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\PalcZ\PalcZ_021.json
 ;        13877  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\Title\Title_000.json
 ;        65318  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\Title\Title_001.json
 ;        96638  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_000.json
@@ -428,12 +439,12 @@
 ;       146067  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_016.json
 ;       130519  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_017.json
 ;        63083  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_019.json
-;        63567  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_021.json
+;        63575  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_021.json
 ;        33771  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_024.json
 ;       113699  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_025.json
 ;       111508  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_026.json
 ;        83518  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_027.json
-;       111905  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_028.json
+;       112004  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_028.json
 ;        55106  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_029.json
 ;        55573  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_030.json
 ;        65004  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\TownA\TownA_031.json
@@ -541,7 +552,6 @@
 ;       134668  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\WestA\WestA_061.json
 ;       157765  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\WestA\WestA_062.json
 ;       107364  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\WestA\WestA_063.json
-;        52449  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\WestA\WestA_064.json
 ;        60723  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\WestA\WestA_065.json
 ;        52788  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\WestA\WestA_070.json
 ;        69058  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\WestA\WestA_071.json
@@ -569,18 +579,18 @@
 ;        51763  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\WestA\WestA_248.json
 ;       144379  00:00.00 2023-10-29 7E2DBC21\rm_tile_data\WestA\WestA_254.json
 7E2DBC21\085DBE0E.ico 085DBE0E
-7E2DBC21\audiogroup1.dat 3D4D3829
-7E2DBC21\audiogroup2.dat DB6F6F9D
+7E2DBC21\audiogroup1.dat 9C3A4D65
+7E2DBC21\audiogroup2.dat C0A5AE14
 7E2DBC21\D3DX9_43.dll 4374AA0F
-7E2DBC21\data.win BFE528B0
+7E2DBC21\data.win 9715C630
 7E2DBC21\gmsched.dll 1EEB6C1C
 7E2DBC21\options.ini 6A3E7659
-7E2DBC21\Z2TAOL_Q00.exe 7E2DBC21
+7E2DBC21\ZALiA_Q13.exe 7E2DBC21
 7E2DBC21\other\automate_code01.txt C8D130BF
 7E2DBC21\other\RandoPalettes01.json 4446CF1F
 7E2DBC21\other\RandoPalettes02.json 8F04E2B7
-7E2DBC21\ow_tile_data\anarkhya_OvrwA_00.json 4123FC64
-7E2DBC21\ow_tile_data\OvrwA_00.json 2769E77B
+7E2DBC21\ow_tile_data\anarkhya_OvrwA_00.json A8404E55
+7E2DBC21\ow_tile_data\OvrwA_00.json C4656C1C
 7E2DBC21\rm_tile_data\DthMt\DthMt_000.json CF806E6A
 7E2DBC21\rm_tile_data\DthMt\DthMt_001.json 7AF03DD1
 7E2DBC21\rm_tile_data\DthMt\DthMt_002.json DAB99750
@@ -609,7 +619,7 @@
 7E2DBC21\rm_tile_data\DthMt\DthMt_031.json AFF8CA3F
 7E2DBC21\rm_tile_data\DthMt\DthMt_032.json CA61C394
 7E2DBC21\rm_tile_data\DthMt\DthMt_033.json E753C45E
-7E2DBC21\rm_tile_data\DthMt\DthMt_038.json 58845D3A
+7E2DBC21\rm_tile_data\DthMt\DthMt_038.json 01A65063
 7E2DBC21\rm_tile_data\DthMt\DthMt_041.json B8282BCB
 7E2DBC21\rm_tile_data\EastA\EastA_000.json AFA80FDD
 7E2DBC21\rm_tile_data\EastA\EastA_002.json CC5B212B
@@ -625,7 +635,7 @@
 7E2DBC21\rm_tile_data\EastA\EastA_012.json 6B6F6B0C
 7E2DBC21\rm_tile_data\EastA\EastA_013.json 97CAFCE3
 7E2DBC21\rm_tile_data\EastA\EastA_014.json E1338FC2
-7E2DBC21\rm_tile_data\EastA\EastA_015.json F4618AD4
+7E2DBC21\rm_tile_data\EastA\EastA_015.json D5CE82A1
 7E2DBC21\rm_tile_data\EastA\EastA_017.json 9F758BAF
 7E2DBC21\rm_tile_data\EastA\EastA_020.json 843EC665
 7E2DBC21\rm_tile_data\EastA\EastA_021.json 15E0533B
@@ -642,6 +652,7 @@
 7E2DBC21\rm_tile_data\EastA\EastA_039.json 6A8CDEF9
 7E2DBC21\rm_tile_data\EastA\EastA_040.json 497076B7
 7E2DBC21\rm_tile_data\EastA\EastA_041.json 55D18C94
+7E2DBC21\rm_tile_data\EastA\EastA_042.json 63D81ACD
 7E2DBC21\rm_tile_data\EastA\EastA_044.json 035447D4
 7E2DBC21\rm_tile_data\EastA\EastA_045.json 0D898F6E
 7E2DBC21\rm_tile_data\EastA\EastA_047.json D04FCEB7
@@ -784,7 +795,7 @@
 7E2DBC21\rm_tile_data\PalcB\PalcB_000.json 5AD4B6A7
 7E2DBC21\rm_tile_data\PalcB\PalcB_001.json 478B858A
 7E2DBC21\rm_tile_data\PalcB\PalcB_002.json 68E0519E
-7E2DBC21\rm_tile_data\PalcB\PalcB_003.json 2BD9144B
+7E2DBC21\rm_tile_data\PalcB\PalcB_003.json 2EF4A7D6
 7E2DBC21\rm_tile_data\PalcB\PalcB_004.json 71C9291C
 7E2DBC21\rm_tile_data\PalcB\PalcB_005.json 44112721
 7E2DBC21\rm_tile_data\PalcB\PalcB_006.json 9F4ED2B9
@@ -798,7 +809,7 @@
 7E2DBC21\rm_tile_data\PalcB\PalcB_014.json 517B29BF
 7E2DBC21\rm_tile_data\PalcB\PalcB_015.json 10B9753D
 7E2DBC21\rm_tile_data\PalcB\PalcB_016.json FA539CAE
-7E2DBC21\rm_tile_data\PalcB\PalcB_017.json F061C4A8
+7E2DBC21\rm_tile_data\PalcB\PalcB_017.json D7E6F41D
 7E2DBC21\rm_tile_data\PalcB\PalcB_018.json F6C4199F
 7E2DBC21\rm_tile_data\PalcB\PalcB_019.json 25F3600C
 7E2DBC21\rm_tile_data\PalcB\PalcB_022.json 10C16278
@@ -890,44 +901,44 @@
 7E2DBC21\rm_tile_data\PalcF\PalcF_026.json D20A853D
 7E2DBC21\rm_tile_data\PalcF\PalcF_028.json 81D69ECF
 7E2DBC21\rm_tile_data\PalcF\PalcF_029.json 8F4FE06D
-7E2DBC21\rm_tile_data\PalcF\PalcF_032.json E4ABFD20
+7E2DBC21\rm_tile_data\PalcF\PalcF_032.json BDF7CEE2
 7E2DBC21\rm_tile_data\PalcF\PalcF_033.json 92E5F97C
 7E2DBC21\rm_tile_data\PalcF\PalcF_034.json 6E01B047
 7E2DBC21\rm_tile_data\PalcF\PalcF_035.json 0BF0550F
 7E2DBC21\rm_tile_data\PalcG\PalcG_000.json 1643504C
 7E2DBC21\rm_tile_data\PalcG\PalcG_001.json A43A9FC8
-7E2DBC21\rm_tile_data\PalcG\PalcG_002.json 9B9497DA
+7E2DBC21\rm_tile_data\PalcG\PalcG_002.json 895F5BC5
 7E2DBC21\rm_tile_data\PalcG\PalcG_003.json CC62BBC0
 7E2DBC21\rm_tile_data\PalcG\PalcG_004.json 03C36CC9
 7E2DBC21\rm_tile_data\PalcG\PalcG_005.json 3651D947
-7E2DBC21\rm_tile_data\PalcG\PalcG_006.json 4B1015D4
+7E2DBC21\rm_tile_data\PalcG\PalcG_006.json 9CD9179A
 7E2DBC21\rm_tile_data\PalcG\PalcG_007.json A8D24187
 7E2DBC21\rm_tile_data\PalcG\PalcG_008.json F7589A0B
 7E2DBC21\rm_tile_data\PalcG\PalcG_009.json 3D3B3FB3
 7E2DBC21\rm_tile_data\PalcG\PalcG_010.json 8404709C
 7E2DBC21\rm_tile_data\PalcG\PalcG_011.json 3A81FB9F
 7E2DBC21\rm_tile_data\PalcG\PalcG_012.json 9060CD38
-7E2DBC21\rm_tile_data\PalcG\PalcG_013.json 9D95BF0C
+7E2DBC21\rm_tile_data\PalcG\PalcG_013.json 55353CD4
 7E2DBC21\rm_tile_data\PalcG\PalcG_014.json DD3199BE
 7E2DBC21\rm_tile_data\PalcG\PalcG_015.json B07CDCF5
-7E2DBC21\rm_tile_data\PalcG\PalcG_016.json CA8595CE
+7E2DBC21\rm_tile_data\PalcG\PalcG_016.json 6FE8B2B6
 7E2DBC21\rm_tile_data\PalcG\PalcG_018.json B510EA3D
 7E2DBC21\rm_tile_data\PalcG\PalcG_019.json E88ECE45
-7E2DBC21\rm_tile_data\PalcG\PalcG_020.json D522E56F
+7E2DBC21\rm_tile_data\PalcG\PalcG_020.json 07176FB8
 7E2DBC21\rm_tile_data\PalcG\PalcG_021.json 4396122E
-7E2DBC21\rm_tile_data\PalcG\PalcG_025.json DF868028
-7E2DBC21\rm_tile_data\PalcG\PalcG_027.json 9C1A85C5
-7E2DBC21\rm_tile_data\PalcG\PalcG_028.json 911E89EB
+7E2DBC21\rm_tile_data\PalcG\PalcG_025.json 79AAD3DD
+7E2DBC21\rm_tile_data\PalcG\PalcG_027.json 77E0F8F3
+7E2DBC21\rm_tile_data\PalcG\PalcG_028.json 699DCEF9
 7E2DBC21\rm_tile_data\PalcG\PalcG_029.json 54899975
 7E2DBC21\rm_tile_data\PalcG\PalcG_030.json BC14F503
-7E2DBC21\rm_tile_data\PalcG\PalcG_031.json AC4B7A77
+7E2DBC21\rm_tile_data\PalcG\PalcG_031.json C076DE73
 7E2DBC21\rm_tile_data\PalcG\PalcG_032.json FD0E202B
-7E2DBC21\rm_tile_data\PalcG\PalcG_035.json D280D1EC
+7E2DBC21\rm_tile_data\PalcG\PalcG_035.json 636D438E
 7E2DBC21\rm_tile_data\PalcG\PalcG_036.json 8C401037
 7E2DBC21\rm_tile_data\PalcG\PalcG_037.json 734A20D4
 7E2DBC21\rm_tile_data\PalcG\PalcG_038.json 63741217
 7E2DBC21\rm_tile_data\PalcG\PalcG_039.json 3BAF4B6F
-7E2DBC21\rm_tile_data\PalcG\PalcG_040.json 72BE6E3F
+7E2DBC21\rm_tile_data\PalcG\PalcG_040.json 17B8AC47
 7E2DBC21\rm_tile_data\PalcG\PalcG_041.json 32096619
 7E2DBC21\rm_tile_data\PalcG\PalcG_042.json 66D126B9
 7E2DBC21\rm_tile_data\PalcG\PalcG_043.json 0E402AC7
@@ -937,11 +948,11 @@
 7E2DBC21\rm_tile_data\PalcG\PalcG_047.json BB3D40FC
 7E2DBC21\rm_tile_data\PalcG\PalcG_048.json 565B63C6
 7E2DBC21\rm_tile_data\PalcG\PalcG_049.json 9611D46D
-7E2DBC21\rm_tile_data\PalcG\PalcG_050.json BE114A89
+7E2DBC21\rm_tile_data\PalcG\PalcG_050.json 9DBF3CCD
 7E2DBC21\rm_tile_data\PalcG\PalcG_051.json E54871DD
 7E2DBC21\rm_tile_data\PalcG\PalcG_052.json 3A0F0C12
 7E2DBC21\rm_tile_data\PalcG\PalcG_053.json 053BCC81
-7E2DBC21\rm_tile_data\PalcG\PalcG_054.json 3185F8D6
+7E2DBC21\rm_tile_data\PalcG\PalcG_054.json 4CDF1C27
 7E2DBC21\rm_tile_data\PalcG\PalcG_055.json C6C36755
 7E2DBC21\rm_tile_data\PalcG\PalcG_056.json CD8BBFF7
 7E2DBC21\rm_tile_data\PalcG\PalcG_057.json E965C65B
@@ -979,6 +990,16 @@
 7E2DBC21\rm_tile_data\PalcZ\PalcZ_009.json AA31FEB0
 7E2DBC21\rm_tile_data\PalcZ\PalcZ_010.json 8739E02B
 7E2DBC21\rm_tile_data\PalcZ\PalcZ_011.json 80A781E3
+7E2DBC21\rm_tile_data\PalcZ\PalcZ_012.json D7979C48
+7E2DBC21\rm_tile_data\PalcZ\PalcZ_013.json 2C8B13FB
+7E2DBC21\rm_tile_data\PalcZ\PalcZ_014.json F43DCB04
+7E2DBC21\rm_tile_data\PalcZ\PalcZ_015.json 68A7884E
+7E2DBC21\rm_tile_data\PalcZ\PalcZ_016.json 95854767
+7E2DBC21\rm_tile_data\PalcZ\PalcZ_017.json 8E8FDDB7
+7E2DBC21\rm_tile_data\PalcZ\PalcZ_018.json 69D0DB2C
+7E2DBC21\rm_tile_data\PalcZ\PalcZ_019.json 95A46463
+7E2DBC21\rm_tile_data\PalcZ\PalcZ_020.json B99D6478
+7E2DBC21\rm_tile_data\PalcZ\PalcZ_021.json 2419DFE8
 7E2DBC21\rm_tile_data\Title\Title_000.json 0F6A5DE7
 7E2DBC21\rm_tile_data\Title\Title_001.json C82B7A80
 7E2DBC21\rm_tile_data\TownA\TownA_000.json 686CF12E
@@ -998,12 +1019,12 @@
 7E2DBC21\rm_tile_data\TownA\TownA_016.json 0DC10BF6
 7E2DBC21\rm_tile_data\TownA\TownA_017.json 562E9DFE
 7E2DBC21\rm_tile_data\TownA\TownA_019.json ED905D66
-7E2DBC21\rm_tile_data\TownA\TownA_021.json ABF0989A
+7E2DBC21\rm_tile_data\TownA\TownA_021.json C08AED0F
 7E2DBC21\rm_tile_data\TownA\TownA_024.json EA59712E
 7E2DBC21\rm_tile_data\TownA\TownA_025.json A1AEC1A4
 7E2DBC21\rm_tile_data\TownA\TownA_026.json F618DF56
 7E2DBC21\rm_tile_data\TownA\TownA_027.json 89CFBC68
-7E2DBC21\rm_tile_data\TownA\TownA_028.json 1BE2B2D4
+7E2DBC21\rm_tile_data\TownA\TownA_028.json C7CD550B
 7E2DBC21\rm_tile_data\TownA\TownA_029.json 04C8B537
 7E2DBC21\rm_tile_data\TownA\TownA_030.json E9E50BA2
 7E2DBC21\rm_tile_data\TownA\TownA_031.json 6BB92A0A
@@ -1111,7 +1132,6 @@
 7E2DBC21\rm_tile_data\WestA\WestA_061.json FEF0DE55
 7E2DBC21\rm_tile_data\WestA\WestA_062.json CCD01FE2
 7E2DBC21\rm_tile_data\WestA\WestA_063.json 32921D3D
-7E2DBC21\rm_tile_data\WestA\WestA_064.json 8064D076
 7E2DBC21\rm_tile_data\WestA\WestA_065.json 742E6A6C
 7E2DBC21\rm_tile_data\WestA\WestA_070.json 0C47DF7A
 7E2DBC21\rm_tile_data\WestA\WestA_071.json 99972E0C

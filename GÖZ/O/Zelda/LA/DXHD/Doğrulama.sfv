@@ -517,7 +517,6 @@
 ;        65623  00:00.00 2023-10-29 C3118A51\Data\Languages\dialog_eng.lng
 ;         2295  00:00.00 2023-10-29 C3118A51\Data\Languages\eng.lng
 ;           33  00:00.00 2023-10-29 C3118A51\Data\Light\doorLight.atlas
-;          184  00:00.00 2023-10-29 C3118A51\Data\Light\readme.txt
 ;           35  00:00.00 2023-10-29 C3118A51\Data\Light\room blur.atlas
 ;         2083  00:00.00 2023-10-29 C3118A51\Data\Light\room blur.png
 ;         2646  00:00.00 2023-10-29 C3118A51\Data\Map Objects\enemies.atlas
@@ -1423,7 +1422,6 @@ C3118A51\Data\Intro\waves.png E603DFB2
 C3118A51\Data\Languages\dialog_eng.lng 83AFD858
 C3118A51\Data\Languages\eng.lng DF9353BB
 C3118A51\Data\Light\doorLight.atlas 2FB3D279
-C3118A51\Data\Light\readme.txt F9D1C0FD
 C3118A51\Data\Light\room blur.atlas 8CE685A5
 C3118A51\Data\Light\room blur.png 1F1E8432
 C3118A51\Data\Map Objects\enemies.atlas 6A74B6A2

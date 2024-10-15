@@ -560,8 +560,6 @@ dx\sd\musTorizoA.ogg
 dx\sd\musTorizoB.ogg
 dx\sd\musZetaFight.ogg
 dx\sd\options.ini
-dx\sd\profile.xml
-dx\sd\readme.txt
 
 dx\sd\lang\english.ini
 dx\sd\lang\languages.txt

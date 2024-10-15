@@ -3,7 +3,7 @@
 ;      3851784  00:00.00 2023-10-29 5438A38A\D3dx9_39.dll
 ;      2477056  00:00.00 2023-10-29 5438A38A\FreeImage.dll
 ;       327680  00:00.00 2023-10-29 5438A38A\SciLexer.dll
-;      5988834  00:00.00 2023-10-29 5438A38A\SDL2MixerVB.dll
+;      5990054  00:00.00 2023-10-29 5438A38A\SDL2MixerVB.dll
 ;       586409  00:00.00 2023-10-29 5438A38A\SMBx Editor Help.rtf
 ;      2272930  00:00.00 2023-10-29 5438A38A\SMBx Gameplay Manual.rtf
 ;        72637  00:00.00 2023-10-29 5438A38A\SMBx Scripting Help.rtf
@@ -2430,7 +2430,6 @@
 ;       244593  00:00.00 2023-10-29 5438A38A\music\nsmb-world.ogg
 ;        66148  00:00.00 2023-10-29 5438A38A\music\pm-shiver-mountain.spc
 ;        67798  00:00.00 2023-10-29 5438A38A\music\pm-yoshis-village.mid
-;         3935  00:00.00 2023-10-29 5438A38A\music\ReadMe.txt
 ;        66136  00:00.00 2023-10-29 5438A38A\music\sf-corneria.spc
 ;        66148  00:00.00 2023-10-29 5438A38A\music\sm-brain.spc
 ;        66148  00:00.00 2023-10-29 5438A38A\music\sm-brinstar.spc
@@ -15368,7 +15367,7 @@
 5438A38A\D3dx9_39.dll 8D6AC873
 5438A38A\FreeImage.dll 093F0658
 5438A38A\SciLexer.dll 02F449A0
-5438A38A\SDL2MixerVB.dll FF0E5E88
+5438A38A\SDL2MixerVB.dll DC01926E
 5438A38A\SMBx Editor Help.rtf 0F2CE3C7
 5438A38A\SMBx Gameplay Manual.rtf 1A1AD088
 5438A38A\SMBx Scripting Help.rtf 092328D3
@@ -17795,7 +17794,6 @@
 5438A38A\music\nsmb-world.ogg 3C038B5D
 5438A38A\music\pm-shiver-mountain.spc D33BE74F
 5438A38A\music\pm-yoshis-village.mid D1AC6AB2
-5438A38A\music\ReadMe.txt 1FFAD7EF
 5438A38A\music\sf-corneria.spc 71DDB567
 5438A38A\music\sm-brain.spc B63020A6
 5438A38A\music\sm-brinstar.spc 3A3A7061

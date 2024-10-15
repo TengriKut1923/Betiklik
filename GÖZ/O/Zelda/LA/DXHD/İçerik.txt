@@ -539,7 +539,6 @@ Data\Languages\dialog_eng.lng
 Data\Languages\eng.lng
 
 Data\Light\doorLight.atlas
-Data\Light\readme.txt
 Data\Light\room blur.atlas
 Data\Light\room blur.png
 

@@ -2458,7 +2458,6 @@ music\nsmb-overworld.spc
 music\nsmb-world.ogg
 music\pm-shiver-mountain.spc
 music\pm-yoshis-village.mid
-music\ReadMe.txt
 music\sf-corneria.spc
 music\sm-brain.spc
 music\sm-brinstar.spc

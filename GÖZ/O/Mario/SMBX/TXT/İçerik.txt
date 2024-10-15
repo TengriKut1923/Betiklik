@@ -4938,7 +4938,6 @@ graphics\fallback\npc-53m.gif
 graphics\fallback\npc-55m.gif
 graphics\fallback\npc-56m.gif
 graphics\fallback\npc-77m.gif
-graphics\fallback\Readme.txt
 graphics\fallback\toad-1m.gif
 graphics\fallback\toad-2m.gif
 graphics\fallback\toad-3m.gif

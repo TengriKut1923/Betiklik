@@ -5,7 +5,7 @@ D3DX9_43.dll
 data.win
 gmsched.dll
 options.ini
-Z2TAOL_Q00.exe
+ZALiA_Q13.exe
 
 other\automate_code01.txt
 other\RandoPalettes01.json
@@ -76,6 +76,7 @@ rm_tile_data\EastA\EastA_038.json
 rm_tile_data\EastA\EastA_039.json
 rm_tile_data\EastA\EastA_040.json
 rm_tile_data\EastA\EastA_041.json
+rm_tile_data\EastA\EastA_042.json
 rm_tile_data\EastA\EastA_044.json
 rm_tile_data\EastA\EastA_045.json
 rm_tile_data\EastA\EastA_047.json
@@ -423,6 +424,16 @@ rm_tile_data\PalcZ\PalcZ_007.json
 rm_tile_data\PalcZ\PalcZ_009.json
 rm_tile_data\PalcZ\PalcZ_010.json
 rm_tile_data\PalcZ\PalcZ_011.json
+rm_tile_data\PalcZ\PalcZ_012.json
+rm_tile_data\PalcZ\PalcZ_013.json
+rm_tile_data\PalcZ\PalcZ_014.json
+rm_tile_data\PalcZ\PalcZ_015.json
+rm_tile_data\PalcZ\PalcZ_016.json
+rm_tile_data\PalcZ\PalcZ_017.json
+rm_tile_data\PalcZ\PalcZ_018.json
+rm_tile_data\PalcZ\PalcZ_019.json
+rm_tile_data\PalcZ\PalcZ_020.json
+rm_tile_data\PalcZ\PalcZ_021.json
 
 rm_tile_data\Title\Title_000.json
 rm_tile_data\Title\Title_001.json
@@ -559,7 +570,6 @@ rm_tile_data\WestA\WestA_060.json
 rm_tile_data\WestA\WestA_061.json
 rm_tile_data\WestA\WestA_062.json
 rm_tile_data\WestA\WestA_063.json
-rm_tile_data\WestA\WestA_064.json
 rm_tile_data\WestA\WestA_065.json
 rm_tile_data\WestA\WestA_070.json
 rm_tile_data\WestA\WestA_071.json
