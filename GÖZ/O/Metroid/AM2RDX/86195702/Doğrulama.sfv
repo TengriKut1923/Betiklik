@@ -1,0 +1,1346 @@
+;        89089  00:00.00 2023-10-29 4F22801B\8F124579.ico
+;       598153  00:00.00 2023-10-29 4F22801B\A7A97FEB.ico
+;       211379  00:00.00 2023-10-29 4F22801B\AF160489.ico
+;      3956224  00:00.00 2023-10-29 4F22801B\AM2R.exe
+;      1998168  00:00.00 2023-10-29 4F22801B\D3DX9_43.dll
+;     72089444  00:00.00 2023-10-29 4F22801B\data.win
+;         6957  00:00.00 2023-10-29 4F22801B\modifiers.ini
+;      2634028  00:00.00 2023-10-29 4F22801B\musAlphaFight.ogg
+;     10966523  00:00.00 2023-10-29 4F22801B\musAncientGuardian.ogg
+;      3457284  00:00.00 2023-10-29 4F22801B\musArachnus.ogg
+;      7705725  00:00.00 2023-10-29 4F22801B\musArea1A.ogg
+;      6092004  00:00.00 2023-10-29 4F22801B\musArea1B.ogg
+;     14811906  00:00.00 2023-10-29 4F22801B\musArea2A.ogg
+;      7489830  00:00.00 2023-10-29 4F22801B\musArea2B.ogg
+;     10205745  00:00.00 2023-10-29 4F22801B\musArea3A.ogg
+;      9878930  00:00.00 2023-10-29 4F22801B\musArea3B.ogg
+;      8112601  00:00.00 2023-10-29 4F22801B\musArea4A.ogg
+;      6495712  00:00.00 2023-10-29 4F22801B\musArea4B.ogg
+;      7909194  00:00.00 2023-10-29 4F22801B\musArea5A.ogg
+;     12971851  00:00.00 2023-10-29 4F22801B\musArea5B.ogg
+;      5158031  00:00.00 2023-10-29 4F22801B\musArea6A.ogg
+;      5476901  00:00.00 2023-10-29 4F22801B\musArea7A.ogg
+;       281798  00:00.00 2023-10-29 4F22801B\musArea7B.ogg
+;      5479532  00:00.00 2023-10-29 4F22801B\musArea7C.ogg
+;       968900  00:00.00 2023-10-29 4F22801B\musArea7D.ogg
+;      6518301  00:00.00 2023-10-29 4F22801B\musArea8.ogg
+;      4718642  00:00.00 2023-10-29 4F22801B\musCaveAmbience.ogg
+;       846736  00:00.00 2023-10-29 4F22801B\musCaveAmbienceA4.ogg
+;      7180554  00:00.00 2023-10-29 4F22801B\musCredits.ogg
+;      2912116  00:00.00 2023-10-29 4F22801B\musEnding.ogg
+;      5551682  00:00.00 2023-10-29 4F22801B\musEris.ogg
+;       289543  00:00.00 2023-10-29 4F22801B\musFanfare.ogg
+;      1953003  00:00.00 2023-10-29 4F22801B\musGammaFight.ogg
+;      6513561  00:00.00 2023-10-29 4F22801B\musGenesis.ogg
+;      3100398  00:00.00 2023-10-29 4F22801B\musHatchling.ogg
+;      2491464  00:00.00 2023-10-29 4F22801B\musIntroSeq.ogg
+;      2009876  00:00.00 2023-10-29 4F22801B\musItemAmb.ogg
+;       340374  00:00.00 2023-10-29 4F22801B\musItemGet.ogg
+;      3795288  00:00.00 2023-10-29 4F22801B\musLabAmbience.ogg
+;     12370100  00:00.00 2023-10-29 4F22801B\musMainCave.ogg
+;     14674104  00:00.00 2023-10-29 4F22801B\musMainCave2.ogg
+;        19877  00:00.00 2023-10-29 4F22801B\musMetroidAppear.ogg
+;       105800  00:00.00 2023-10-29 4F22801B\musMonsterAppear.ogg
+;      2080292  00:00.00 2023-10-29 4F22801B\musOmegaFight.ogg
+;      5254703  00:00.00 2023-10-29 4F22801B\musQueen.ogg
+;      2927961  00:00.00 2023-10-29 4F22801B\musQueen2.ogg
+;      6828225  00:00.00 2023-10-29 4F22801B\musQueen3.ogg
+;       424436  00:00.00 2023-10-29 4F22801B\musQueenBreak.ogg
+;       880558  00:00.00 2023-10-29 4F22801B\musQueenIntro.ogg
+;      1872997  00:00.00 2023-10-29 4F22801B\musReactor.ogg
+;      3861803  00:00.00 2023-10-29 4F22801B\musTitle.ogg
+;      8968692  00:00.00 2023-10-29 4F22801B\musTorizoA.ogg
+;      6527350  00:00.00 2023-10-29 4F22801B\musTorizoB.ogg
+;      2045810  00:00.00 2023-10-29 4F22801B\musZetaFight.ogg
+;           98  00:00.00 2023-10-29 4F22801B\options.ini
+;      3956224  00:00.00 2023-10-29 4F22801B\dx\challenges\AM2R.exe
+;      1998168  00:00.00 2023-10-29 4F22801B\dx\challenges\D3DX9_43.dll
+;     90830658  00:00.00 2023-10-29 4F22801B\dx\challenges\data.win
+;         6693  00:00.00 2023-10-29 4F22801B\dx\challenges\modifiers.ini
+;      2634028  00:00.00 2023-10-29 4F22801B\dx\challenges\musAlphaFight.ogg
+;     10966523  00:00.00 2023-10-29 4F22801B\dx\challenges\musAncientGuardian.ogg
+;      3457284  00:00.00 2023-10-29 4F22801B\dx\challenges\musArachnus.ogg
+;      7705725  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea1A.ogg
+;      6092004  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea1B.ogg
+;     14811906  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea2A.ogg
+;      7489830  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea2B.ogg
+;     10205745  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea3A.ogg
+;      9878930  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea3B.ogg
+;      8112601  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea4A.ogg
+;      6495712  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea4B.ogg
+;      7909194  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea5A.ogg
+;     12971851  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea5B.ogg
+;      5158031  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea6A.ogg
+;      5476901  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea7A.ogg
+;       281798  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea7B.ogg
+;      5479532  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea7C.ogg
+;       968900  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea7D.ogg
+;      6518301  00:00.00 2023-10-29 4F22801B\dx\challenges\musArea8.ogg
+;      4718642  00:00.00 2023-10-29 4F22801B\dx\challenges\musCaveAmbience.ogg
+;       846736  00:00.00 2023-10-29 4F22801B\dx\challenges\musCaveAmbienceA4.ogg
+;      7180554  00:00.00 2023-10-29 4F22801B\dx\challenges\musCredits.ogg
+;      2912116  00:00.00 2023-10-29 4F22801B\dx\challenges\musEnding.ogg
+;      5551682  00:00.00 2023-10-29 4F22801B\dx\challenges\musEris.ogg
+;       289543  00:00.00 2023-10-29 4F22801B\dx\challenges\musFanfare.ogg
+;      1953003  00:00.00 2023-10-29 4F22801B\dx\challenges\musGammaFight.ogg
+;      6513561  00:00.00 2023-10-29 4F22801B\dx\challenges\musGenesis.ogg
+;      3100398  00:00.00 2023-10-29 4F22801B\dx\challenges\musHatchling.ogg
+;      2491464  00:00.00 2023-10-29 4F22801B\dx\challenges\musIntroSeq.ogg
+;      2009876  00:00.00 2023-10-29 4F22801B\dx\challenges\musItemAmb.ogg
+;       319896  00:00.00 2023-10-29 4F22801B\dx\challenges\musItemAmb2.ogg
+;       340374  00:00.00 2023-10-29 4F22801B\dx\challenges\musItemGet.ogg
+;      3795288  00:00.00 2023-10-29 4F22801B\dx\challenges\musLabAmbience.ogg
+;     12370100  00:00.00 2023-10-29 4F22801B\dx\challenges\musMainCave.ogg
+;     14674104  00:00.00 2023-10-29 4F22801B\dx\challenges\musMainCave2.ogg
+;        19877  00:00.00 2023-10-29 4F22801B\dx\challenges\musMetroidAppear.ogg
+;       105800  00:00.00 2023-10-29 4F22801B\dx\challenges\musMonsterAppear.ogg
+;      2080292  00:00.00 2023-10-29 4F22801B\dx\challenges\musOmegaFight.ogg
+;      5254703  00:00.00 2023-10-29 4F22801B\dx\challenges\musQueen.ogg
+;      2927961  00:00.00 2023-10-29 4F22801B\dx\challenges\musQueen2.ogg
+;      6828225  00:00.00 2023-10-29 4F22801B\dx\challenges\musQueen3.ogg
+;       424436  00:00.00 2023-10-29 4F22801B\dx\challenges\musQueenBreak.ogg
+;       880558  00:00.00 2023-10-29 4F22801B\dx\challenges\musQueenIntro.ogg
+;      1872997  00:00.00 2023-10-29 4F22801B\dx\challenges\musReactor.ogg
+;       694880  00:00.00 2023-10-29 4F22801B\dx\challenges\musSAXAppear.ogg
+;       334607  00:00.00 2023-10-29 4F22801B\dx\challenges\musSAXChase.ogg
+;       457743  00:00.00 2023-10-29 4F22801B\dx\challenges\musSAXEnvironmentalAmbience.ogg
+;      1867600  00:00.00 2023-10-29 4F22801B\dx\challenges\musTester.ogg
+;      3861803  00:00.00 2023-10-29 4F22801B\dx\challenges\musTitle.ogg
+;      8968692  00:00.00 2023-10-29 4F22801B\dx\challenges\musTorizoA.ogg
+;      6527350  00:00.00 2023-10-29 4F22801B\dx\challenges\musTorizoB.ogg
+;      2045810  00:00.00 2023-10-29 4F22801B\dx\challenges\musZetaFight.ogg
+;           98  00:00.00 2023-10-29 4F22801B\dx\challenges\options.ini
+;        44505  00:00.00 2023-10-29 4F22801B\dx\challenges\lang\english.ini
+;           11  00:00.00 2023-10-29 4F22801B\dx\challenges\lang\languages.txt
+;        51492  00:00.00 2023-10-29 4F22801B\dx\challenges\lang\fonts\04b09.ttf
+;        49564  00:00.00 2023-10-29 4F22801B\dx\challenges\lang\fonts\04b24.ttf
+;       947036  00:00.00 2023-10-29 4F22801B\dx\challenges\lang\fonts\Acknowledge_TT_BRK.ttf
+;      1205300  00:00.00 2023-10-29 4F22801B\dx\challenges\lang\fonts\Glasstown_NBP.ttf
+;          474  00:00.00 2023-10-29 4F22801B\dx\challenges\lang\fonts\sizes.ini
+;      1296552  00:00.00 2023-10-29 4F22801B\dx\challenges\lang\fonts\uni_05_53.ttf
+;          575  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\monsters\alpha.png
+;          135  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\monsters\config.ini
+;          277  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\monsters\gamma.png
+;          279  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\monsters\omega.png
+;         3438  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\monsters\queen.png
+;          350  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\monsters\queen_blood_drop.png
+;          175  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\monsters\queen_blood_particle.png
+;         4267  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\monsters\queen_dead.png
+;          434  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\monsters\zeta.png
+;        14516  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\monsters\zeta_blur.png
+;          361  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\baby_metroid.png
+;         2747  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\multitroid.png
+;         1357  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\multitroid_fusion.png
+;         2205  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\spiderball.png
+;          159  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_0.png
+;          156  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_1.png
+;          279  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_10.png
+;          262  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_11.png
+;          276  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_12.png
+;          286  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_13.png
+;          256  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_14.png
+;          291  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_15.png
+;          160  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_2.png
+;          159  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_3.png
+;          160  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_4.png
+;          159  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_5.png
+;          160  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_6.png
+;          157  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_7.png
+;          274  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_8.png
+;          277  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_9.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_0.png
+;          146  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_1.png
+;          259  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_10.png
+;          246  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_11.png
+;          266  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_12.png
+;          265  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_13.png
+;          247  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_14.png
+;          265  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_15.png
+;          148  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_2.png
+;          148  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_3.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_4.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_5.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_6.png
+;          146  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_7.png
+;          249  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_8.png
+;          261  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_9.png
+;          295  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_0.png
+;          295  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_1.png
+;          298  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_10.png
+;          301  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_11.png
+;          310  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_12.png
+;          300  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_13.png
+;          294  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_14.png
+;          309  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_15.png
+;          290  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_2.png
+;          298  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_3.png
+;          305  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_4.png
+;          298  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_5.png
+;          306  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_6.png
+;          306  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_7.png
+;          300  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_8.png
+;          310  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_9.png
+;          305  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\fusion_gravity.png
+;          314  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\fusion_omega.png
+;          302  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\fusion_power.png
+;          300  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\fusion_varia.png
+;          400  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\gravity.png
+;          286  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\power.png
+;          257  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\varia.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\fusion_gravity.png
+;         2780  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\fusion_omega.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\fusion_power.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\fusion_varia.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\gravity.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\power.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\varia.png
+;         2891  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\fusion_gravity.png
+;         2720  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\fusion_omega.png
+;         2929  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\fusion_power.png
+;         2915  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\fusion_varia.png
+;         2873  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\gravity.png
+;         2882  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\power.png
+;         2871  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\varia.png
+;          718  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\fusion_gravity.png
+;          815  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\fusion_omega.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\fusion_power.png
+;          817  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\fusion_varia.png
+;          728  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\gravity.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\power.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\varia.png
+;      3956224  00:00.00 2023-10-29 4F22801B\dx\multitroid\AM2R.exe
+;      1998168  00:00.00 2023-10-29 4F22801B\dx\multitroid\D3DX9_43.dll
+;     91382704  00:00.00 2023-10-29 4F22801B\dx\multitroid\data.win
+;         6693  00:00.00 2023-10-29 4F22801B\dx\multitroid\modifiers.ini
+;      2634028  00:00.00 2023-10-29 4F22801B\dx\multitroid\musAlphaFight.ogg
+;     10966523  00:00.00 2023-10-29 4F22801B\dx\multitroid\musAncientGuardian.ogg
+;      3457284  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArachnus.ogg
+;      7705725  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea1A.ogg
+;      6092004  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea1B.ogg
+;     14811906  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea2A.ogg
+;      7489830  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea2B.ogg
+;     10205745  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea3A.ogg
+;      9878930  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea3B.ogg
+;      8112601  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea4A.ogg
+;      6495712  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea4B.ogg
+;      7909194  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea5A.ogg
+;     12971851  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea5B.ogg
+;      5158031  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea6A.ogg
+;      5476901  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea7A.ogg
+;       281798  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea7B.ogg
+;      5479532  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea7C.ogg
+;       968900  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea7D.ogg
+;      6518301  00:00.00 2023-10-29 4F22801B\dx\multitroid\musArea8.ogg
+;      4718642  00:00.00 2023-10-29 4F22801B\dx\multitroid\musCaveAmbience.ogg
+;       846736  00:00.00 2023-10-29 4F22801B\dx\multitroid\musCaveAmbienceA4.ogg
+;      7180554  00:00.00 2023-10-29 4F22801B\dx\multitroid\musCredits.ogg
+;      2912116  00:00.00 2023-10-29 4F22801B\dx\multitroid\musEnding.ogg
+;      5551682  00:00.00 2023-10-29 4F22801B\dx\multitroid\musEris.ogg
+;       289543  00:00.00 2023-10-29 4F22801B\dx\multitroid\musFanfare.ogg
+;      1953003  00:00.00 2023-10-29 4F22801B\dx\multitroid\musGammaFight.ogg
+;      6513561  00:00.00 2023-10-29 4F22801B\dx\multitroid\musGenesis.ogg
+;      3100398  00:00.00 2023-10-29 4F22801B\dx\multitroid\musHatchling.ogg
+;      2491464  00:00.00 2023-10-29 4F22801B\dx\multitroid\musIntroSeq.ogg
+;      2009876  00:00.00 2023-10-29 4F22801B\dx\multitroid\musItemAmb.ogg
+;       319896  00:00.00 2023-10-29 4F22801B\dx\multitroid\musItemAmb2.ogg
+;       340374  00:00.00 2023-10-29 4F22801B\dx\multitroid\musItemGet.ogg
+;      3795288  00:00.00 2023-10-29 4F22801B\dx\multitroid\musLabAmbience.ogg
+;     12370100  00:00.00 2023-10-29 4F22801B\dx\multitroid\musMainCave.ogg
+;     14674104  00:00.00 2023-10-29 4F22801B\dx\multitroid\musMainCave2.ogg
+;        19877  00:00.00 2023-10-29 4F22801B\dx\multitroid\musMetroidAppear.ogg
+;       105800  00:00.00 2023-10-29 4F22801B\dx\multitroid\musMonsterAppear.ogg
+;      2080292  00:00.00 2023-10-29 4F22801B\dx\multitroid\musOmegaFight.ogg
+;      5254703  00:00.00 2023-10-29 4F22801B\dx\multitroid\musQueen.ogg
+;      2927961  00:00.00 2023-10-29 4F22801B\dx\multitroid\musQueen2.ogg
+;      6828225  00:00.00 2023-10-29 4F22801B\dx\multitroid\musQueen3.ogg
+;       424436  00:00.00 2023-10-29 4F22801B\dx\multitroid\musQueenBreak.ogg
+;       880558  00:00.00 2023-10-29 4F22801B\dx\multitroid\musQueenIntro.ogg
+;      1872997  00:00.00 2023-10-29 4F22801B\dx\multitroid\musReactor.ogg
+;       694880  00:00.00 2023-10-29 4F22801B\dx\multitroid\musSAXAppear.ogg
+;       334607  00:00.00 2023-10-29 4F22801B\dx\multitroid\musSAXChase.ogg
+;       457743  00:00.00 2023-10-29 4F22801B\dx\multitroid\musSAXEnvironmentalAmbience.ogg
+;      1867600  00:00.00 2023-10-29 4F22801B\dx\multitroid\musTester.ogg
+;      3861803  00:00.00 2023-10-29 4F22801B\dx\multitroid\musTitle.ogg
+;      8968692  00:00.00 2023-10-29 4F22801B\dx\multitroid\musTorizoA.ogg
+;      6527350  00:00.00 2023-10-29 4F22801B\dx\multitroid\musTorizoB.ogg
+;      2045810  00:00.00 2023-10-29 4F22801B\dx\multitroid\musZetaFight.ogg
+;           98  00:00.00 2023-10-29 4F22801B\dx\multitroid\options.ini
+;        44577  00:00.00 2023-10-29 4F22801B\dx\multitroid\lang\english.ini
+;           11  00:00.00 2023-10-29 4F22801B\dx\multitroid\lang\languages.txt
+;        51492  00:00.00 2023-10-29 4F22801B\dx\multitroid\lang\fonts\04b09.ttf
+;        49564  00:00.00 2023-10-29 4F22801B\dx\multitroid\lang\fonts\04b24.ttf
+;       947036  00:00.00 2023-10-29 4F22801B\dx\multitroid\lang\fonts\Acknowledge_TT_BRK.ttf
+;      1205300  00:00.00 2023-10-29 4F22801B\dx\multitroid\lang\fonts\Glasstown_NBP.ttf
+;          474  00:00.00 2023-10-29 4F22801B\dx\multitroid\lang\fonts\sizes.ini
+;      1296552  00:00.00 2023-10-29 4F22801B\dx\multitroid\lang\fonts\uni_05_53.ttf
+;          575  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\monsters\alpha.png
+;          135  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\monsters\config.ini
+;          277  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\monsters\gamma.png
+;          279  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\monsters\omega.png
+;         3438  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\monsters\queen.png
+;          350  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\monsters\queen_blood_drop.png
+;          175  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\monsters\queen_blood_particle.png
+;         4267  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\monsters\queen_dead.png
+;          434  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\monsters\zeta.png
+;        14516  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\monsters\zeta_blur.png
+;          361  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\baby_metroid.png
+;         1288  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\multitroid.png
+;         1357  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\multitroid_fusion.png
+;         2205  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\spiderball.png
+;          159  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_0.png
+;          156  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_1.png
+;          279  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_10.png
+;          262  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_11.png
+;          276  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_12.png
+;          286  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_13.png
+;          256  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_14.png
+;          291  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_15.png
+;          160  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_2.png
+;          159  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_3.png
+;          160  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_4.png
+;          159  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_5.png
+;          160  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_6.png
+;          157  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_7.png
+;          274  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_8.png
+;          277  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_9.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_0.png
+;          146  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_1.png
+;          259  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_10.png
+;          246  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_11.png
+;          266  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_12.png
+;          265  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_13.png
+;          247  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_14.png
+;          265  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_15.png
+;          148  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_2.png
+;          148  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_3.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_4.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_5.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_6.png
+;          146  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_7.png
+;          249  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_8.png
+;          261  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_9.png
+;          295  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_0.png
+;          295  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_1.png
+;          298  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_10.png
+;          301  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_11.png
+;          310  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_12.png
+;          300  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_13.png
+;          294  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_14.png
+;          309  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_15.png
+;          290  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_2.png
+;          298  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_3.png
+;          305  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_4.png
+;          298  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_5.png
+;          306  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_6.png
+;          306  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_7.png
+;          300  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_8.png
+;          310  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_9.png
+;          305  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\fusion_gravity.png
+;          314  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\fusion_omega.png
+;          302  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\fusion_power.png
+;          300  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\fusion_varia.png
+;          400  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\gravity.png
+;          286  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\power.png
+;          257  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\varia.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\fusion_gravity.png
+;         2780  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\fusion_omega.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\fusion_power.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\fusion_varia.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\gravity.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\power.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\varia.png
+;         2891  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\fusion_gravity.png
+;         2720  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\fusion_omega.png
+;         2929  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\fusion_power.png
+;         2915  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\fusion_varia.png
+;         2873  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\gravity.png
+;         2882  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\power.png
+;         2871  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\varia.png
+;          718  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\fusion_gravity.png
+;          815  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\fusion_omega.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\fusion_power.png
+;          817  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\fusion_varia.png
+;          728  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\gravity.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\power.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\varia.png
+;      3904512  00:00.00 2023-10-29 4F22801B\dx\multitroid\server\AM2R Server.exe
+;      1998168  00:00.00 2023-10-29 4F22801B\dx\multitroid\server\D3DX9_43.dll
+;       774124  00:00.00 2023-10-29 4F22801B\dx\multitroid\server\data.win
+;         4643  00:00.00 2023-10-29 4F22801B\dx\multitroid\server\dictionary.json
+;         2498  00:00.00 2023-10-29 4F22801B\dx\multitroid\server\item_dict.json
+;           98  00:00.00 2023-10-29 4F22801B\dx\multitroid\server\options.ini
+;      3900928  00:00.00 2023-10-29 4F22801B\dx\retro\AM2R.exe
+;      1998168  00:00.00 2023-10-29 4F22801B\dx\retro\D3DX9_43.dll
+;     72100630  00:00.00 2023-10-29 4F22801B\dx\retro\data.win
+;         6860  00:00.00 2023-10-29 4F22801B\dx\retro\modifiers.ini
+;       276446  00:00.00 2023-10-29 4F22801B\dx\retro\musAlphaFight.ogg
+;      1171719  00:00.00 2023-10-29 4F22801B\dx\retro\musAncientGuardian.ogg
+;       531905  00:00.00 2023-10-29 4F22801B\dx\retro\musArachnus.ogg
+;       852443  00:00.00 2023-10-29 4F22801B\dx\retro\musArea1A.ogg
+;       631232  00:00.00 2023-10-29 4F22801B\dx\retro\musArea1B.ogg
+;      1720622  00:00.00 2023-10-29 4F22801B\dx\retro\musArea2A.ogg
+;      1078227  00:00.00 2023-10-29 4F22801B\dx\retro\musArea2B.ogg
+;      1266796  00:00.00 2023-10-29 4F22801B\dx\retro\musArea3A.ogg
+;      1340869  00:00.00 2023-10-29 4F22801B\dx\retro\musArea3B.ogg
+;      1167578  00:00.00 2023-10-29 4F22801B\dx\retro\musArea4A.ogg
+;       920426  00:00.00 2023-10-29 4F22801B\dx\retro\musArea4B.ogg
+;      1723170  00:00.00 2023-10-29 4F22801B\dx\retro\musArea5.ogg
+;      1593358  00:00.00 2023-10-29 4F22801B\dx\retro\musArea5A.ogg
+;      1757604  00:00.00 2023-10-29 4F22801B\dx\retro\musArea5B.ogg
+;       631599  00:00.00 2023-10-29 4F22801B\dx\retro\musArea6A.ogg
+;       787362  00:00.00 2023-10-29 4F22801B\dx\retro\musArea7A.ogg
+;        54634  00:00.00 2023-10-29 4F22801B\dx\retro\musArea7B.ogg
+;       778790  00:00.00 2023-10-29 4F22801B\dx\retro\musArea7C.ogg
+;       129711  00:00.00 2023-10-29 4F22801B\dx\retro\musArea7D.ogg
+;       869534  00:00.00 2023-10-29 4F22801B\dx\retro\musArea8.ogg
+;       585830  00:00.00 2023-10-29 4F22801B\dx\retro\musCaveAmbience.ogg
+;       167380  00:00.00 2023-10-29 4F22801B\dx\retro\musCaveAmbienceA4.ogg
+;       997033  00:00.00 2023-10-29 4F22801B\dx\retro\musCredits.ogg
+;       385325  00:00.00 2023-10-29 4F22801B\dx\retro\musEnding.ogg
+;       764160  00:00.00 2023-10-29 4F22801B\dx\retro\musEris.ogg
+;        39483  00:00.00 2023-10-29 4F22801B\dx\retro\musFanfare.ogg
+;       281862  00:00.00 2023-10-29 4F22801B\dx\retro\musGammaFight.ogg
+;       961413  00:00.00 2023-10-29 4F22801B\dx\retro\musGenesis.ogg
+;       567090  00:00.00 2023-10-29 4F22801B\dx\retro\musHatchling.ogg
+;       457730  00:00.00 2023-10-29 4F22801B\dx\retro\musIntroSeq.ogg
+;       294400  00:00.00 2023-10-29 4F22801B\dx\retro\musItemAmb.ogg
+;        97965  00:00.00 2023-10-29 4F22801B\dx\retro\musItemAmb2.ogg
+;        38810  00:00.00 2023-10-29 4F22801B\dx\retro\musItemGet.ogg
+;       458963  00:00.00 2023-10-29 4F22801B\dx\retro\musLabAmbience.ogg
+;      1080837  00:00.00 2023-10-29 4F22801B\dx\retro\musMainCave.ogg
+;      1983448  00:00.00 2023-10-29 4F22801B\dx\retro\musMainCave2.ogg
+;        19877  00:00.00 2023-10-29 4F22801B\dx\retro\musMetroidAppear.ogg
+;        16816  00:00.00 2023-10-29 4F22801B\dx\retro\musMonsterAppear.ogg
+;       295870  00:00.00 2023-10-29 4F22801B\dx\retro\musOmegaFight.ogg
+;       915749  00:00.00 2023-10-29 4F22801B\dx\retro\musQueen.ogg
+;       466805  00:00.00 2023-10-29 4F22801B\dx\retro\musQueen2.ogg
+;       957336  00:00.00 2023-10-29 4F22801B\dx\retro\musQueen3.ogg
+;        53087  00:00.00 2023-10-29 4F22801B\dx\retro\musQueenBreak.ogg
+;       147909  00:00.00 2023-10-29 4F22801B\dx\retro\musQueenIntro.ogg
+;       312952  00:00.00 2023-10-29 4F22801B\dx\retro\musReactor.ogg
+;      1171719  00:00.00 2023-10-29 4F22801B\dx\retro\musTester.ogg
+;       534501  00:00.00 2023-10-29 4F22801B\dx\retro\musTitle.ogg
+;      1287125  00:00.00 2023-10-29 4F22801B\dx\retro\musTorizoA.ogg
+;       962853  00:00.00 2023-10-29 4F22801B\dx\retro\musTorizoB.ogg
+;       279962  00:00.00 2023-10-29 4F22801B\dx\retro\musZetaFight.ogg
+;           98  00:00.00 2023-10-29 4F22801B\dx\retro\options.ini
+;        44610  00:00.00 2023-10-29 4F22801B\dx\retro\lang\english.ini
+;           11  00:00.00 2023-10-29 4F22801B\dx\retro\lang\languages.txt
+;        51492  00:00.00 2023-10-29 4F22801B\dx\retro\lang\fonts\04b09.ttf
+;        49564  00:00.00 2023-10-29 4F22801B\dx\retro\lang\fonts\04b24.ttf
+;       947036  00:00.00 2023-10-29 4F22801B\dx\retro\lang\fonts\Acknowledge_TT_BRK.ttf
+;      1203640  00:00.00 2023-10-29 4F22801B\dx\retro\lang\fonts\Glasstown_NBP.ttf
+;          458  00:00.00 2023-10-29 4F22801B\dx\retro\lang\fonts\sizes.ini
+;      1296552  00:00.00 2023-10-29 4F22801B\dx\retro\lang\fonts\uni_05_53.ttf
+;          575  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\monsters\alpha.png
+;         5854  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\monsters\baby_metroid.png
+;          135  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\monsters\config.ini
+;          277  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\monsters\gamma.png
+;          279  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\monsters\omega.png
+;         3438  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\monsters\queen.png
+;          350  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\monsters\queen_blood_drop.png
+;          175  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\monsters\queen_blood_particle.png
+;         4267  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\monsters\queen_dead.png
+;          434  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\monsters\zeta.png
+;        14516  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\monsters\zeta_blur.png
+;          305  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\inactive\fusion_gravity.png
+;          302  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\inactive\fusion_power.png
+;         4672  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\inactive\fusion_varia.png
+;          370  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\inactive\gravity.png
+;          286  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\inactive\power.png
+;          257  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\inactive\varia.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\fusion_gravity.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\fusion_power.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\fusion_varia.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\gravity.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\power.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\varia.png
+;         2891  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\fusion_gravity.png
+;         2929  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\fusion_power.png
+;         2915  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\fusion_varia.png
+;         2873  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\gravity.png
+;         2882  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\power.png
+;         2871  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\varia.png
+;          718  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spiderballglow\fusion_gravity.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spiderballglow\fusion_power.png
+;          817  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spiderballglow\fusion_varia.png
+;          728  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spiderballglow\gravity.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spiderballglow\power.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\retro\mods\palettes\suits\spiderballglow\varia.png
+;         1674  00:00.00 2023-10-29 4F22801B\dx\retro\mods\titles\config.ini
+;      8763421  00:00.00 2023-10-29 4F22801B\dx\retro\mods\titles\titlebackground.png
+;      3956224  00:00.00 2023-10-29 4F22801B\dx\sd\AM2R.exe
+;      1998168  00:00.00 2023-10-29 4F22801B\dx\sd\D3DX9_43.dll
+;     90529874  00:00.00 2023-10-29 4F22801B\dx\sd\data.win
+;      2634028  00:00.00 2023-10-29 4F22801B\dx\sd\musAlphaFight.ogg
+;     10966523  00:00.00 2023-10-29 4F22801B\dx\sd\musAncientGuardian.ogg
+;      3457284  00:00.00 2023-10-29 4F22801B\dx\sd\musArachnus.ogg
+;      7705725  00:00.00 2023-10-29 4F22801B\dx\sd\musArea1A.ogg
+;      6092004  00:00.00 2023-10-29 4F22801B\dx\sd\musArea1B.ogg
+;     14811906  00:00.00 2023-10-29 4F22801B\dx\sd\musArea2A.ogg
+;      7489830  00:00.00 2023-10-29 4F22801B\dx\sd\musArea2B.ogg
+;     10205745  00:00.00 2023-10-29 4F22801B\dx\sd\musArea3A.ogg
+;      9878930  00:00.00 2023-10-29 4F22801B\dx\sd\musArea3B.ogg
+;      8112601  00:00.00 2023-10-29 4F22801B\dx\sd\musArea4A.ogg
+;      6495712  00:00.00 2023-10-29 4F22801B\dx\sd\musArea4B.ogg
+;      7909194  00:00.00 2023-10-29 4F22801B\dx\sd\musArea5A.ogg
+;     12971851  00:00.00 2023-10-29 4F22801B\dx\sd\musArea5B.ogg
+;      5158031  00:00.00 2023-10-29 4F22801B\dx\sd\musArea6A.ogg
+;      5476901  00:00.00 2023-10-29 4F22801B\dx\sd\musArea7A.ogg
+;       281798  00:00.00 2023-10-29 4F22801B\dx\sd\musArea7B.ogg
+;      5479532  00:00.00 2023-10-29 4F22801B\dx\sd\musArea7C.ogg
+;       968900  00:00.00 2023-10-29 4F22801B\dx\sd\musArea7D.ogg
+;      6518301  00:00.00 2023-10-29 4F22801B\dx\sd\musArea8.ogg
+;      4718642  00:00.00 2023-10-29 4F22801B\dx\sd\musCaveAmbience.ogg
+;       846736  00:00.00 2023-10-29 4F22801B\dx\sd\musCaveAmbienceA4.ogg
+;      7180554  00:00.00 2023-10-29 4F22801B\dx\sd\musCredits.ogg
+;      2912116  00:00.00 2023-10-29 4F22801B\dx\sd\musEnding.ogg
+;      5551682  00:00.00 2023-10-29 4F22801B\dx\sd\musEris.ogg
+;       289543  00:00.00 2023-10-29 4F22801B\dx\sd\musFanfare.ogg
+;      1953003  00:00.00 2023-10-29 4F22801B\dx\sd\musGammaFight.ogg
+;      6513561  00:00.00 2023-10-29 4F22801B\dx\sd\musGenesis.ogg
+;      3100398  00:00.00 2023-10-29 4F22801B\dx\sd\musHatchling.ogg
+;      2491464  00:00.00 2023-10-29 4F22801B\dx\sd\musIntroSeq.ogg
+;      2009876  00:00.00 2023-10-29 4F22801B\dx\sd\musItemAmb.ogg
+;       319896  00:00.00 2023-10-29 4F22801B\dx\sd\musItemAmb2.ogg
+;       340374  00:00.00 2023-10-29 4F22801B\dx\sd\musItemGet.ogg
+;      3795288  00:00.00 2023-10-29 4F22801B\dx\sd\musLabAmbience.ogg
+;     12370100  00:00.00 2023-10-29 4F22801B\dx\sd\musMainCave.ogg
+;     14674104  00:00.00 2023-10-29 4F22801B\dx\sd\musMainCave2.ogg
+;        19877  00:00.00 2023-10-29 4F22801B\dx\sd\musMetroidAppear.ogg
+;       105800  00:00.00 2023-10-29 4F22801B\dx\sd\musMonsterAppear.ogg
+;      2080292  00:00.00 2023-10-29 4F22801B\dx\sd\musOmegaFight.ogg
+;      5254703  00:00.00 2023-10-29 4F22801B\dx\sd\musQueen.ogg
+;      2927961  00:00.00 2023-10-29 4F22801B\dx\sd\musQueen2.ogg
+;      6828225  00:00.00 2023-10-29 4F22801B\dx\sd\musQueen3.ogg
+;       424436  00:00.00 2023-10-29 4F22801B\dx\sd\musQueenBreak.ogg
+;       880558  00:00.00 2023-10-29 4F22801B\dx\sd\musQueenIntro.ogg
+;      1872997  00:00.00 2023-10-29 4F22801B\dx\sd\musReactor.ogg
+;       694880  00:00.00 2023-10-29 4F22801B\dx\sd\musSAXAppear.ogg
+;       334607  00:00.00 2023-10-29 4F22801B\dx\sd\musSAXChase.ogg
+;       457743  00:00.00 2023-10-29 4F22801B\dx\sd\musSAXEnvironmentalAmbience.ogg
+;      1867600  00:00.00 2023-10-29 4F22801B\dx\sd\musTester.ogg
+;      3861803  00:00.00 2023-10-29 4F22801B\dx\sd\musTitle.ogg
+;      8968692  00:00.00 2023-10-29 4F22801B\dx\sd\musTorizoA.ogg
+;      6527350  00:00.00 2023-10-29 4F22801B\dx\sd\musTorizoB.ogg
+;      2045810  00:00.00 2023-10-29 4F22801B\dx\sd\musZetaFight.ogg
+;           98  00:00.00 2023-10-29 4F22801B\dx\sd\options.ini
+;        44750  00:00.00 2023-10-29 4F22801B\dx\sd\lang\english.ini
+;           11  00:00.00 2023-10-29 4F22801B\dx\sd\lang\languages.txt
+;        51492  00:00.00 2023-10-29 4F22801B\dx\sd\lang\fonts\04b09.ttf
+;        49564  00:00.00 2023-10-29 4F22801B\dx\sd\lang\fonts\04b24.ttf
+;       947036  00:00.00 2023-10-29 4F22801B\dx\sd\lang\fonts\Acknowledge_TT_BRK.ttf
+;      1205300  00:00.00 2023-10-29 4F22801B\dx\sd\lang\fonts\Glasstown_NBP.ttf
+;          474  00:00.00 2023-10-29 4F22801B\dx\sd\lang\fonts\sizes.ini
+;      1296552  00:00.00 2023-10-29 4F22801B\dx\sd\lang\fonts\uni_05_53.ttf
+;          575  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\monsters\alpha.png
+;          135  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\monsters\config.ini
+;          277  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\monsters\gamma.png
+;          279  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\monsters\omega.png
+;         3438  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\monsters\queen.png
+;          350  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\monsters\queen_blood_drop.png
+;          175  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\monsters\queen_blood_particle.png
+;         4267  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\monsters\queen_dead.png
+;          434  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\monsters\zeta.png
+;        14516  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\monsters\zeta_blur.png
+;          361  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\baby_metroid.png
+;         1288  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\multitroid.png
+;         1357  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\multitroid_fusion.png
+;         2205  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\spiderball.png
+;          159  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_0.png
+;          156  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_1.png
+;          279  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_10.png
+;          262  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_11.png
+;          276  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_12.png
+;          286  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_13.png
+;          256  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_14.png
+;          291  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_15.png
+;          160  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_2.png
+;          159  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_3.png
+;          160  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_4.png
+;          159  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_5.png
+;          160  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_6.png
+;          157  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_7.png
+;          274  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_8.png
+;          277  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_9.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_0.png
+;          146  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_1.png
+;          259  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_10.png
+;          246  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_11.png
+;          266  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_12.png
+;          265  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_13.png
+;          247  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_14.png
+;          265  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_15.png
+;          148  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_2.png
+;          148  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_3.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_4.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_5.png
+;          147  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_6.png
+;          146  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_7.png
+;          249  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_8.png
+;          261  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_9.png
+;          295  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_0.png
+;          295  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_1.png
+;          298  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_10.png
+;          301  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_11.png
+;          310  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_12.png
+;          300  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_13.png
+;          294  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_14.png
+;          309  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_15.png
+;          290  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_2.png
+;          298  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_3.png
+;          305  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_4.png
+;          298  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_5.png
+;          306  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_6.png
+;          306  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_7.png
+;          300  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_8.png
+;          310  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_9.png
+;          305  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\fusion_gravity.png
+;          314  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\fusion_omega.png
+;          302  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\fusion_power.png
+;          300  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\fusion_varia.png
+;          400  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\gravity.png
+;          286  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\power.png
+;          257  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\varia.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\fusion_gravity.png
+;         2780  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\fusion_omega.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\fusion_power.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\fusion_varia.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\gravity.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\power.png
+;         2802  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\varia.png
+;         2891  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\fusion_gravity.png
+;         2720  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\fusion_omega.png
+;         2929  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\fusion_power.png
+;         2915  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\fusion_varia.png
+;         2873  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\gravity.png
+;         2882  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\power.png
+;         2871  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\varia.png
+;          718  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spiderballglow\fusion_gravity.png
+;          815  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spiderballglow\fusion_omega.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spiderballglow\fusion_power.png
+;          817  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spiderballglow\fusion_varia.png
+;          728  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spiderballglow\gravity.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spiderballglow\power.png
+;          649  00:00.00 2023-10-29 4F22801B\dx\sd\mods\palettes\suits\spiderballglow\varia.png
+;      3904512  00:00.00 2023-10-29 4F22801B\dx\sd\server\AM2R Server.exe
+;      1998168  00:00.00 2023-10-29 4F22801B\dx\sd\server\D3DX9_43.dll
+;       648364  00:00.00 2023-10-29 4F22801B\dx\sd\server\data.win
+;         4643  00:00.00 2023-10-29 4F22801B\dx\sd\server\dictionary.json
+;         2498  00:00.00 2023-10-29 4F22801B\dx\sd\server\item_dict.json
+;           97  00:00.00 2023-10-29 4F22801B\dx\sd\server\options.ini
+;        44431  00:00.00 2023-10-29 4F22801B\lang\english.ini
+;           11  00:00.00 2023-10-29 4F22801B\lang\languages.txt
+;        51492  00:00.00 2023-10-29 4F22801B\lang\fonts\04b09.ttf
+;        49564  00:00.00 2023-10-29 4F22801B\lang\fonts\04b24.ttf
+;       947036  00:00.00 2023-10-29 4F22801B\lang\fonts\Acknowledge_TT_BRK.ttf
+;      1203640  00:00.00 2023-10-29 4F22801B\lang\fonts\Glasstown_NBP.ttf
+;          474  00:00.00 2023-10-29 4F22801B\lang\fonts\sizes.ini
+;      1296552  00:00.00 2023-10-29 4F22801B\lang\fonts\uni_05_53.ttf
+;          575  00:00.00 2023-10-29 4F22801B\mods\palettes\monsters\alpha.png
+;          138  00:00.00 2023-10-29 4F22801B\mods\palettes\monsters\config.ini
+;          277  00:00.00 2023-10-29 4F22801B\mods\palettes\monsters\gamma.png
+;          279  00:00.00 2023-10-29 4F22801B\mods\palettes\monsters\omega.png
+;         3438  00:00.00 2023-10-29 4F22801B\mods\palettes\monsters\queen.png
+;          350  00:00.00 2023-10-29 4F22801B\mods\palettes\monsters\queen_blood_drop.png
+;          175  00:00.00 2023-10-29 4F22801B\mods\palettes\monsters\queen_blood_particle.png
+;         4267  00:00.00 2023-10-29 4F22801B\mods\palettes\monsters\queen_dead.png
+;          434  00:00.00 2023-10-29 4F22801B\mods\palettes\monsters\zeta.png
+;        14516  00:00.00 2023-10-29 4F22801B\mods\palettes\monsters\zeta_blur.png
+;          305  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\Inactive\fusion_gravity.png
+;          302  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\Inactive\fusion_power.png
+;          300  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\Inactive\fusion_varia.png
+;          400  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\Inactive\gravity.png
+;          286  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\Inactive\power.png
+;          257  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\Inactive\varia.png
+;         2802  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\MorphTrailColors\fusion_gravity.png
+;         2802  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\MorphTrailColors\fusion_power.png
+;         2802  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\MorphTrailColors\fusion_varia.png
+;         2802  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\MorphTrailColors\gravity.png
+;         2802  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\MorphTrailColors\power.png
+;         2802  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\MorphTrailColors\varia.png
+;         2891  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpaceJumpTrails\fusion_gravity.png
+;         2929  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpaceJumpTrails\fusion_power.png
+;         2915  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpaceJumpTrails\fusion_varia.png
+;         2873  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpaceJumpTrails\gravity.png
+;         2882  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpaceJumpTrails\power.png
+;         2871  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpaceJumpTrails\varia.png
+;          718  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpiderBallGlow\fusion_gravity.png
+;          649  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpiderBallGlow\fusion_power.png
+;          817  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpiderBallGlow\fusion_varia.png
+;          728  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpiderBallGlow\gravity.png
+;          649  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpiderBallGlow\power.png
+;          649  00:00.00 2023-10-29 4F22801B\mods\palettes\suits\SpiderBallGlow\varia.png
+4F22801B\8F124579.ico 8F124579
+4F22801B\A7A97FEB.ico A7A97FEB
+4F22801B\AF160489.ico AF160489
+4F22801B\AM2R.exe 4F22801B
+4F22801B\D3DX9_43.dll 4374AA0F
+4F22801B\data.win FEF153CE
+4F22801B\modifiers.ini 6AA174B1
+4F22801B\musAlphaFight.ogg 08F12571
+4F22801B\musAncientGuardian.ogg 88A3B40D
+4F22801B\musArachnus.ogg E76BC09D
+4F22801B\musArea1A.ogg AE52B562
+4F22801B\musArea1B.ogg 238ACD88
+4F22801B\musArea2A.ogg C3C8D48D
+4F22801B\musArea2B.ogg 959A55A1
+4F22801B\musArea3A.ogg CAEF9719
+4F22801B\musArea3B.ogg D888C2FC
+4F22801B\musArea4A.ogg 55834493
+4F22801B\musArea4B.ogg 54E2A236
+4F22801B\musArea5A.ogg 27A5029B
+4F22801B\musArea5B.ogg 26BB477D
+4F22801B\musArea6A.ogg E6C9B9CA
+4F22801B\musArea7A.ogg 52D2CA3F
+4F22801B\musArea7B.ogg 364D66FE
+4F22801B\musArea7C.ogg 2EB2826A
+4F22801B\musArea7D.ogg 2E77175B
+4F22801B\musArea8.ogg 022EACFA
+4F22801B\musCaveAmbience.ogg 83ACCABF
+4F22801B\musCaveAmbienceA4.ogg 833153CC
+4F22801B\musCredits.ogg 0B89975B
+4F22801B\musEnding.ogg 0DA5F3AB
+4F22801B\musEris.ogg 4F885E05
+4F22801B\musFanfare.ogg 6B7B36AE
+4F22801B\musGammaFight.ogg 02DDC293
+4F22801B\musGenesis.ogg E0AC283D
+4F22801B\musHatchling.ogg 459CF197
+4F22801B\musIntroSeq.ogg 7A84FFF7
+4F22801B\musItemAmb.ogg ABD61D3A
+4F22801B\musItemGet.ogg 1D137B13
+4F22801B\musLabAmbience.ogg 72EA3379
+4F22801B\musMainCave.ogg 4ADC2FF0
+4F22801B\musMainCave2.ogg 9323ECEA
+4F22801B\musMetroidAppear.ogg 96459D47
+4F22801B\musMonsterAppear.ogg 5FF2A09E
+4F22801B\musOmegaFight.ogg 9B4FF400
+4F22801B\musQueen.ogg 44D1CB0B
+4F22801B\musQueen2.ogg 908D269E
+4F22801B\musQueen3.ogg 1C31D53F
+4F22801B\musQueenBreak.ogg 03874A83
+4F22801B\musQueenIntro.ogg C950D27F
+4F22801B\musReactor.ogg AB04C286
+4F22801B\musTitle.ogg 38765DAA
+4F22801B\musTorizoA.ogg B640ACC3
+4F22801B\musTorizoB.ogg FBC29F57
+4F22801B\musZetaFight.ogg 5DCC7500
+4F22801B\options.ini 941AB1E9
+4F22801B\dx\challenges\AM2R.exe B3D20183
+4F22801B\dx\challenges\D3DX9_43.dll 4374AA0F
+4F22801B\dx\challenges\data.win F9A9EBA6
+4F22801B\dx\challenges\modifiers.ini B9AE34A8
+4F22801B\dx\challenges\musAlphaFight.ogg 08F12571
+4F22801B\dx\challenges\musAncientGuardian.ogg 88A3B40D
+4F22801B\dx\challenges\musArachnus.ogg E76BC09D
+4F22801B\dx\challenges\musArea1A.ogg AE52B562
+4F22801B\dx\challenges\musArea1B.ogg 238ACD88
+4F22801B\dx\challenges\musArea2A.ogg C3C8D48D
+4F22801B\dx\challenges\musArea2B.ogg 959A55A1
+4F22801B\dx\challenges\musArea3A.ogg CAEF9719
+4F22801B\dx\challenges\musArea3B.ogg D888C2FC
+4F22801B\dx\challenges\musArea4A.ogg 55834493
+4F22801B\dx\challenges\musArea4B.ogg 54E2A236
+4F22801B\dx\challenges\musArea5A.ogg 27A5029B
+4F22801B\dx\challenges\musArea5B.ogg 26BB477D
+4F22801B\dx\challenges\musArea6A.ogg E6C9B9CA
+4F22801B\dx\challenges\musArea7A.ogg 52D2CA3F
+4F22801B\dx\challenges\musArea7B.ogg 364D66FE
+4F22801B\dx\challenges\musArea7C.ogg 2EB2826A
+4F22801B\dx\challenges\musArea7D.ogg 2E77175B
+4F22801B\dx\challenges\musArea8.ogg 022EACFA
+4F22801B\dx\challenges\musCaveAmbience.ogg 83ACCABF
+4F22801B\dx\challenges\musCaveAmbienceA4.ogg 833153CC
+4F22801B\dx\challenges\musCredits.ogg 0B89975B
+4F22801B\dx\challenges\musEnding.ogg 0DA5F3AB
+4F22801B\dx\challenges\musEris.ogg 4F885E05
+4F22801B\dx\challenges\musFanfare.ogg 6B7B36AE
+4F22801B\dx\challenges\musGammaFight.ogg 02DDC293
+4F22801B\dx\challenges\musGenesis.ogg E0AC283D
+4F22801B\dx\challenges\musHatchling.ogg 459CF197
+4F22801B\dx\challenges\musIntroSeq.ogg 7A84FFF7
+4F22801B\dx\challenges\musItemAmb.ogg ABD61D3A
+4F22801B\dx\challenges\musItemAmb2.ogg 889781DC
+4F22801B\dx\challenges\musItemGet.ogg 1D137B13
+4F22801B\dx\challenges\musLabAmbience.ogg 72EA3379
+4F22801B\dx\challenges\musMainCave.ogg 4ADC2FF0
+4F22801B\dx\challenges\musMainCave2.ogg 9323ECEA
+4F22801B\dx\challenges\musMetroidAppear.ogg 96459D47
+4F22801B\dx\challenges\musMonsterAppear.ogg 5FF2A09E
+4F22801B\dx\challenges\musOmegaFight.ogg 9B4FF400
+4F22801B\dx\challenges\musQueen.ogg 44D1CB0B
+4F22801B\dx\challenges\musQueen2.ogg 908D269E
+4F22801B\dx\challenges\musQueen3.ogg 1C31D53F
+4F22801B\dx\challenges\musQueenBreak.ogg 03874A83
+4F22801B\dx\challenges\musQueenIntro.ogg C950D27F
+4F22801B\dx\challenges\musReactor.ogg AB04C286
+4F22801B\dx\challenges\musSAXAppear.ogg C65485EE
+4F22801B\dx\challenges\musSAXChase.ogg 0B78E8BE
+4F22801B\dx\challenges\musSAXEnvironmentalAmbience.ogg 90746414
+4F22801B\dx\challenges\musTester.ogg B06D9891
+4F22801B\dx\challenges\musTitle.ogg 38765DAA
+4F22801B\dx\challenges\musTorizoA.ogg B640ACC3
+4F22801B\dx\challenges\musTorizoB.ogg FBC29F57
+4F22801B\dx\challenges\musZetaFight.ogg 5DCC7500
+4F22801B\dx\challenges\options.ini 95D8DBDE
+4F22801B\dx\challenges\lang\english.ini 88BCA3CE
+4F22801B\dx\challenges\lang\languages.txt C84D1B6E
+4F22801B\dx\challenges\lang\fonts\04b09.ttf 766D6BAE
+4F22801B\dx\challenges\lang\fonts\04b24.ttf 57A9187C
+4F22801B\dx\challenges\lang\fonts\Acknowledge_TT_BRK.ttf 9814DC8E
+4F22801B\dx\challenges\lang\fonts\Glasstown_NBP.ttf 565C3F4F
+4F22801B\dx\challenges\lang\fonts\sizes.ini F22B0251
+4F22801B\dx\challenges\lang\fonts\uni_05_53.ttf BD67E0DF
+4F22801B\dx\challenges\mods\palettes\monsters\alpha.png CC025836
+4F22801B\dx\challenges\mods\palettes\monsters\config.ini B72C8565
+4F22801B\dx\challenges\mods\palettes\monsters\gamma.png F1D9AB38
+4F22801B\dx\challenges\mods\palettes\monsters\omega.png 1AE11C31
+4F22801B\dx\challenges\mods\palettes\monsters\queen.png A0436FFE
+4F22801B\dx\challenges\mods\palettes\monsters\queen_blood_drop.png EB4F4CC6
+4F22801B\dx\challenges\mods\palettes\monsters\queen_blood_particle.png AA0D33B0
+4F22801B\dx\challenges\mods\palettes\monsters\queen_dead.png A5C43AE9
+4F22801B\dx\challenges\mods\palettes\monsters\zeta.png 4DE631F3
+4F22801B\dx\challenges\mods\palettes\monsters\zeta_blur.png 792C49FB
+4F22801B\dx\challenges\mods\palettes\multitroid\baby_metroid.png 3C7E6351
+4F22801B\dx\challenges\mods\palettes\multitroid\multitroid.png D46F64F3
+4F22801B\dx\challenges\mods\palettes\multitroid\multitroid_fusion.png 8AA0868F
+4F22801B\dx\challenges\mods\palettes\multitroid\spiderball.png F61A9F54
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_0.png 61717C53
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_1.png 8604E6C9
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_10.png E55A49ED
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_11.png CCF4165E
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_12.png 9930EA48
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_13.png 74489708
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_14.png 2878E40B
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_15.png 7EF2D627
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_2.png 36B7D91D
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_3.png E567DF04
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_4.png 21A002DA
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_5.png C6F180C0
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_6.png 5C746BD6
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_7.png E50FCE92
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_8.png 20BED6A4
+4F22801B\dx\challenges\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_9.png 88C2F82E
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_0.png 27AD9670
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_1.png D6B55F81
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_10.png 35A4D8EA
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_11.png 171A3B7E
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_12.png 9BFAC7D9
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_13.png 69360E5D
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_14.png 9F83C5FD
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_15.png B680A51E
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_2.png 0CD5F01F
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_3.png 60724A5B
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_4.png 6C70D03C
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_5.png 88D41275
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_6.png 81CF25A8
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_7.png 12971180
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_8.png 87F3626B
+4F22801B\dx\challenges\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_9.png 33E37FB9
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_0.png 428F7514
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_1.png 9AFECE46
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_10.png 4D60626F
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_11.png 2A04CC7F
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_12.png 143618DB
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_13.png 654174D8
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_14.png 18168A74
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_15.png 1360B764
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_2.png 12960DD9
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_3.png C09B927E
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_4.png 7CB7FE02
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_5.png 21606DAE
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_6.png C8AEFFB2
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_7.png FB8AF649
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_8.png 83C9569F
+4F22801B\dx\challenges\mods\palettes\multitroid\player_icons\sMultitroidPlayer_9.png A926625C
+4F22801B\dx\challenges\mods\palettes\suits\fusion_gravity.png D52B77F9
+4F22801B\dx\challenges\mods\palettes\suits\fusion_omega.png 561E1286
+4F22801B\dx\challenges\mods\palettes\suits\fusion_power.png 279E5790
+4F22801B\dx\challenges\mods\palettes\suits\fusion_varia.png 2CB49A4C
+4F22801B\dx\challenges\mods\palettes\suits\gravity.png 2CF9DA54
+4F22801B\dx\challenges\mods\palettes\suits\power.png 420217FA
+4F22801B\dx\challenges\mods\palettes\suits\varia.png 789E5A80
+4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\fusion_gravity.png B3240504
+4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\fusion_omega.png D0C558F9
+4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\fusion_power.png 725CD202
+4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\fusion_varia.png 52A76FD1
+4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\gravity.png F96BF2B5
+4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\power.png 72F7776E
+4F22801B\dx\challenges\mods\palettes\suits\morphtrailcolors\varia.png 57406EE5
+4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\fusion_gravity.png 1C9B2834
+4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\fusion_omega.png 477AA9CB
+4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\fusion_power.png CD85BDF2
+4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\fusion_varia.png 25CD7951
+4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\gravity.png 4C439E4B
+4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\power.png 1CF61179
+4F22801B\dx\challenges\mods\palettes\suits\spacejumptrails\varia.png 4E0DFA0C
+4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\fusion_gravity.png 2788E958
+4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\fusion_omega.png ECBC187F
+4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\fusion_power.png C08F0B25
+4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\fusion_varia.png 60B909B0
+4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\gravity.png DE397142
+4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\power.png C08F0B25
+4F22801B\dx\challenges\mods\palettes\suits\spiderballglow\varia.png C08F0B25
+4F22801B\dx\multitroid\AM2R.exe B3D20183
+4F22801B\dx\multitroid\D3DX9_43.dll 4374AA0F
+4F22801B\dx\multitroid\data.win 58038024
+4F22801B\dx\multitroid\modifiers.ini B9AE34A8
+4F22801B\dx\multitroid\musAlphaFight.ogg 08F12571
+4F22801B\dx\multitroid\musAncientGuardian.ogg 88A3B40D
+4F22801B\dx\multitroid\musArachnus.ogg E76BC09D
+4F22801B\dx\multitroid\musArea1A.ogg AE52B562
+4F22801B\dx\multitroid\musArea1B.ogg 238ACD88
+4F22801B\dx\multitroid\musArea2A.ogg C3C8D48D
+4F22801B\dx\multitroid\musArea2B.ogg 959A55A1
+4F22801B\dx\multitroid\musArea3A.ogg CAEF9719
+4F22801B\dx\multitroid\musArea3B.ogg D888C2FC
+4F22801B\dx\multitroid\musArea4A.ogg 55834493
+4F22801B\dx\multitroid\musArea4B.ogg 54E2A236
+4F22801B\dx\multitroid\musArea5A.ogg 27A5029B
+4F22801B\dx\multitroid\musArea5B.ogg 26BB477D
+4F22801B\dx\multitroid\musArea6A.ogg E6C9B9CA
+4F22801B\dx\multitroid\musArea7A.ogg 52D2CA3F
+4F22801B\dx\multitroid\musArea7B.ogg 364D66FE
+4F22801B\dx\multitroid\musArea7C.ogg 2EB2826A
+4F22801B\dx\multitroid\musArea7D.ogg 2E77175B
+4F22801B\dx\multitroid\musArea8.ogg 022EACFA
+4F22801B\dx\multitroid\musCaveAmbience.ogg 83ACCABF
+4F22801B\dx\multitroid\musCaveAmbienceA4.ogg 833153CC
+4F22801B\dx\multitroid\musCredits.ogg 0B89975B
+4F22801B\dx\multitroid\musEnding.ogg 0DA5F3AB
+4F22801B\dx\multitroid\musEris.ogg 4F885E05
+4F22801B\dx\multitroid\musFanfare.ogg 6B7B36AE
+4F22801B\dx\multitroid\musGammaFight.ogg 02DDC293
+4F22801B\dx\multitroid\musGenesis.ogg E0AC283D
+4F22801B\dx\multitroid\musHatchling.ogg 459CF197
+4F22801B\dx\multitroid\musIntroSeq.ogg 7A84FFF7
+4F22801B\dx\multitroid\musItemAmb.ogg ABD61D3A
+4F22801B\dx\multitroid\musItemAmb2.ogg 889781DC
+4F22801B\dx\multitroid\musItemGet.ogg 1D137B13
+4F22801B\dx\multitroid\musLabAmbience.ogg 72EA3379
+4F22801B\dx\multitroid\musMainCave.ogg 4ADC2FF0
+4F22801B\dx\multitroid\musMainCave2.ogg 9323ECEA
+4F22801B\dx\multitroid\musMetroidAppear.ogg 96459D47
+4F22801B\dx\multitroid\musMonsterAppear.ogg 5FF2A09E
+4F22801B\dx\multitroid\musOmegaFight.ogg 9B4FF400
+4F22801B\dx\multitroid\musQueen.ogg 44D1CB0B
+4F22801B\dx\multitroid\musQueen2.ogg 908D269E
+4F22801B\dx\multitroid\musQueen3.ogg 1C31D53F
+4F22801B\dx\multitroid\musQueenBreak.ogg 03874A83
+4F22801B\dx\multitroid\musQueenIntro.ogg C950D27F
+4F22801B\dx\multitroid\musReactor.ogg AB04C286
+4F22801B\dx\multitroid\musSAXAppear.ogg C65485EE
+4F22801B\dx\multitroid\musSAXChase.ogg 0B78E8BE
+4F22801B\dx\multitroid\musSAXEnvironmentalAmbience.ogg 90746414
+4F22801B\dx\multitroid\musTester.ogg B06D9891
+4F22801B\dx\multitroid\musTitle.ogg 38765DAA
+4F22801B\dx\multitroid\musTorizoA.ogg B640ACC3
+4F22801B\dx\multitroid\musTorizoB.ogg FBC29F57
+4F22801B\dx\multitroid\musZetaFight.ogg 5DCC7500
+4F22801B\dx\multitroid\options.ini 95D8DBDE
+4F22801B\dx\multitroid\lang\english.ini F444FF9E
+4F22801B\dx\multitroid\lang\languages.txt C84D1B6E
+4F22801B\dx\multitroid\lang\fonts\04b09.ttf 766D6BAE
+4F22801B\dx\multitroid\lang\fonts\04b24.ttf 57A9187C
+4F22801B\dx\multitroid\lang\fonts\Acknowledge_TT_BRK.ttf 9814DC8E
+4F22801B\dx\multitroid\lang\fonts\Glasstown_NBP.ttf 565C3F4F
+4F22801B\dx\multitroid\lang\fonts\sizes.ini F22B0251
+4F22801B\dx\multitroid\lang\fonts\uni_05_53.ttf BD67E0DF
+4F22801B\dx\multitroid\mods\palettes\monsters\alpha.png CC025836
+4F22801B\dx\multitroid\mods\palettes\monsters\config.ini B72C8565
+4F22801B\dx\multitroid\mods\palettes\monsters\gamma.png F1D9AB38
+4F22801B\dx\multitroid\mods\palettes\monsters\omega.png 1AE11C31
+4F22801B\dx\multitroid\mods\palettes\monsters\queen.png A0436FFE
+4F22801B\dx\multitroid\mods\palettes\monsters\queen_blood_drop.png EB4F4CC6
+4F22801B\dx\multitroid\mods\palettes\monsters\queen_blood_particle.png AA0D33B0
+4F22801B\dx\multitroid\mods\palettes\monsters\queen_dead.png A5C43AE9
+4F22801B\dx\multitroid\mods\palettes\monsters\zeta.png 4DE631F3
+4F22801B\dx\multitroid\mods\palettes\monsters\zeta_blur.png 792C49FB
+4F22801B\dx\multitroid\mods\palettes\multitroid\baby_metroid.png 3C7E6351
+4F22801B\dx\multitroid\mods\palettes\multitroid\multitroid.png 6B9E8AC0
+4F22801B\dx\multitroid\mods\palettes\multitroid\multitroid_fusion.png 8AA0868F
+4F22801B\dx\multitroid\mods\palettes\multitroid\spiderball.png F61A9F54
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_0.png 61717C53
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_1.png 8604E6C9
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_10.png E55A49ED
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_11.png CCF4165E
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_12.png 9930EA48
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_13.png 74489708
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_14.png 2878E40B
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_15.png 7EF2D627
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_2.png 36B7D91D
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_3.png E567DF04
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_4.png 21A002DA
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_5.png C6F180C0
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_6.png 5C746BD6
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_7.png E50FCE92
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_8.png 20BED6A4
+4F22801B\dx\multitroid\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_9.png 88C2F82E
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_0.png 27AD9670
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_1.png D6B55F81
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_10.png 35A4D8EA
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_11.png 171A3B7E
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_12.png 9BFAC7D9
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_13.png 69360E5D
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_14.png 9F83C5FD
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_15.png B680A51E
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_2.png 0CD5F01F
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_3.png 60724A5B
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_4.png 6C70D03C
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_5.png 88D41275
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_6.png 81CF25A8
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_7.png 12971180
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_8.png 87F3626B
+4F22801B\dx\multitroid\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_9.png 33E37FB9
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_0.png 428F7514
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_1.png 9AFECE46
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_10.png 4D60626F
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_11.png 2A04CC7F
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_12.png 143618DB
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_13.png 654174D8
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_14.png 18168A74
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_15.png 1360B764
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_2.png 12960DD9
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_3.png C09B927E
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_4.png 7CB7FE02
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_5.png 21606DAE
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_6.png C8AEFFB2
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_7.png FB8AF649
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_8.png 83C9569F
+4F22801B\dx\multitroid\mods\palettes\multitroid\player_icons\sMultitroidPlayer_9.png A926625C
+4F22801B\dx\multitroid\mods\palettes\suits\fusion_gravity.png D52B77F9
+4F22801B\dx\multitroid\mods\palettes\suits\fusion_omega.png 561E1286
+4F22801B\dx\multitroid\mods\palettes\suits\fusion_power.png 279E5790
+4F22801B\dx\multitroid\mods\palettes\suits\fusion_varia.png 2CB49A4C
+4F22801B\dx\multitroid\mods\palettes\suits\gravity.png 2CF9DA54
+4F22801B\dx\multitroid\mods\palettes\suits\power.png 420217FA
+4F22801B\dx\multitroid\mods\palettes\suits\varia.png 789E5A80
+4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\fusion_gravity.png B3240504
+4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\fusion_omega.png D0C558F9
+4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\fusion_power.png 725CD202
+4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\fusion_varia.png 52A76FD1
+4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\gravity.png F96BF2B5
+4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\power.png 72F7776E
+4F22801B\dx\multitroid\mods\palettes\suits\morphtrailcolors\varia.png 57406EE5
+4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\fusion_gravity.png 1C9B2834
+4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\fusion_omega.png 477AA9CB
+4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\fusion_power.png CD85BDF2
+4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\fusion_varia.png 25CD7951
+4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\gravity.png 4C439E4B
+4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\power.png 1CF61179
+4F22801B\dx\multitroid\mods\palettes\suits\spacejumptrails\varia.png 4E0DFA0C
+4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\fusion_gravity.png 2788E958
+4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\fusion_omega.png ECBC187F
+4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\fusion_power.png C08F0B25
+4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\fusion_varia.png 60B909B0
+4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\gravity.png DE397142
+4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\power.png C08F0B25
+4F22801B\dx\multitroid\mods\palettes\suits\spiderballglow\varia.png C08F0B25
+4F22801B\dx\multitroid\server\AM2R Server.exe 106024B7
+4F22801B\dx\multitroid\server\D3DX9_43.dll 4374AA0F
+4F22801B\dx\multitroid\server\data.win 51B8399E
+4F22801B\dx\multitroid\server\dictionary.json 36A108A1
+4F22801B\dx\multitroid\server\item_dict.json 4C59D70B
+4F22801B\dx\multitroid\server\options.ini 95D8DBDE
+4F22801B\dx\retro\AM2R.exe CEA75566
+4F22801B\dx\retro\D3DX9_43.dll 4374AA0F
+4F22801B\dx\retro\data.win 5F1DC2A1
+4F22801B\dx\retro\modifiers.ini FF4F8C85
+4F22801B\dx\retro\musAlphaFight.ogg CED3E3FD
+4F22801B\dx\retro\musAncientGuardian.ogg 62674BDD
+4F22801B\dx\retro\musArachnus.ogg BC583EEB
+4F22801B\dx\retro\musArea1A.ogg D3E5122F
+4F22801B\dx\retro\musArea1B.ogg 721091F3
+4F22801B\dx\retro\musArea2A.ogg EBE0A2E4
+4F22801B\dx\retro\musArea2B.ogg 5E51BDD6
+4F22801B\dx\retro\musArea3A.ogg 72B5FA75
+4F22801B\dx\retro\musArea3B.ogg 0ECA7A71
+4F22801B\dx\retro\musArea4A.ogg 1C0A04EA
+4F22801B\dx\retro\musArea4B.ogg 17C9299C
+4F22801B\dx\retro\musArea5.ogg 61D879B5
+4F22801B\dx\retro\musArea5A.ogg D2310F43
+4F22801B\dx\retro\musArea5B.ogg F5A3A1BD
+4F22801B\dx\retro\musArea6A.ogg 387E986B
+4F22801B\dx\retro\musArea7A.ogg 66B577FA
+4F22801B\dx\retro\musArea7B.ogg 2F206A6E
+4F22801B\dx\retro\musArea7C.ogg 42B9DC62
+4F22801B\dx\retro\musArea7D.ogg 581D8AFF
+4F22801B\dx\retro\musArea8.ogg 83BB76F2
+4F22801B\dx\retro\musCaveAmbience.ogg E7FFBDA9
+4F22801B\dx\retro\musCaveAmbienceA4.ogg 73EAE4BE
+4F22801B\dx\retro\musCredits.ogg F9515398
+4F22801B\dx\retro\musEnding.ogg E3DB81D7
+4F22801B\dx\retro\musEris.ogg 664E745F
+4F22801B\dx\retro\musFanfare.ogg F65EF4C6
+4F22801B\dx\retro\musGammaFight.ogg B2FA4815
+4F22801B\dx\retro\musGenesis.ogg 3923438D
+4F22801B\dx\retro\musHatchling.ogg BEA57B75
+4F22801B\dx\retro\musIntroSeq.ogg 3ECCF309
+4F22801B\dx\retro\musItemAmb.ogg E1533CD5
+4F22801B\dx\retro\musItemAmb2.ogg C22B09FE
+4F22801B\dx\retro\musItemGet.ogg 05AEAFED
+4F22801B\dx\retro\musLabAmbience.ogg F2E2AB2B
+4F22801B\dx\retro\musMainCave.ogg E45DD7DB
+4F22801B\dx\retro\musMainCave2.ogg 409A773D
+4F22801B\dx\retro\musMetroidAppear.ogg 96459D47
+4F22801B\dx\retro\musMonsterAppear.ogg 6EC0009D
+4F22801B\dx\retro\musOmegaFight.ogg B516E1A7
+4F22801B\dx\retro\musQueen.ogg CED55562
+4F22801B\dx\retro\musQueen2.ogg 20CC0CDB
+4F22801B\dx\retro\musQueen3.ogg 697AC910
+4F22801B\dx\retro\musQueenBreak.ogg 28473B96
+4F22801B\dx\retro\musQueenIntro.ogg 172CD3F0
+4F22801B\dx\retro\musReactor.ogg C2255475
+4F22801B\dx\retro\musTester.ogg 0F247BB8
+4F22801B\dx\retro\musTitle.ogg 0ECD5B04
+4F22801B\dx\retro\musTorizoA.ogg 88232191
+4F22801B\dx\retro\musTorizoB.ogg 7B521DBA
+4F22801B\dx\retro\musZetaFight.ogg 35E9CA04
+4F22801B\dx\retro\options.ini 941AB1E9
+4F22801B\dx\retro\lang\english.ini C3762B1C
+4F22801B\dx\retro\lang\languages.txt C84D1B6E
+4F22801B\dx\retro\lang\fonts\04b09.ttf 766D6BAE
+4F22801B\dx\retro\lang\fonts\04b24.ttf 57A9187C
+4F22801B\dx\retro\lang\fonts\Acknowledge_TT_BRK.ttf 9814DC8E
+4F22801B\dx\retro\lang\fonts\Glasstown_NBP.ttf 45EED135
+4F22801B\dx\retro\lang\fonts\sizes.ini 51E3486F
+4F22801B\dx\retro\lang\fonts\uni_05_53.ttf BD67E0DF
+4F22801B\dx\retro\mods\palettes\monsters\alpha.png CC025836
+4F22801B\dx\retro\mods\palettes\monsters\baby_metroid.png C7056336
+4F22801B\dx\retro\mods\palettes\monsters\config.ini B72C8565
+4F22801B\dx\retro\mods\palettes\monsters\gamma.png F1D9AB38
+4F22801B\dx\retro\mods\palettes\monsters\omega.png 1AE11C31
+4F22801B\dx\retro\mods\palettes\monsters\queen.png A0436FFE
+4F22801B\dx\retro\mods\palettes\monsters\queen_blood_drop.png EB4F4CC6
+4F22801B\dx\retro\mods\palettes\monsters\queen_blood_particle.png AA0D33B0
+4F22801B\dx\retro\mods\palettes\monsters\queen_dead.png A5C43AE9
+4F22801B\dx\retro\mods\palettes\monsters\zeta.png 4DE631F3
+4F22801B\dx\retro\mods\palettes\monsters\zeta_blur.png 792C49FB
+4F22801B\dx\retro\mods\palettes\suits\inactive\fusion_gravity.png D52B77F9
+4F22801B\dx\retro\mods\palettes\suits\inactive\fusion_power.png 279E5790
+4F22801B\dx\retro\mods\palettes\suits\inactive\fusion_varia.png AB2CEF4A
+4F22801B\dx\retro\mods\palettes\suits\inactive\gravity.png 040A836B
+4F22801B\dx\retro\mods\palettes\suits\inactive\power.png 420217FA
+4F22801B\dx\retro\mods\palettes\suits\inactive\varia.png 789E5A80
+4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\fusion_gravity.png B3240504
+4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\fusion_power.png 725CD202
+4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\fusion_varia.png 52A76FD1
+4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\gravity.png F96BF2B5
+4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\power.png 72F7776E
+4F22801B\dx\retro\mods\palettes\suits\morphtrailcolors\varia.png 57406EE5
+4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\fusion_gravity.png 1C9B2834
+4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\fusion_power.png CD85BDF2
+4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\fusion_varia.png 25CD7951
+4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\gravity.png 4C439E4B
+4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\power.png 1CF61179
+4F22801B\dx\retro\mods\palettes\suits\spacejumptrails\varia.png 4E0DFA0C
+4F22801B\dx\retro\mods\palettes\suits\spiderballglow\fusion_gravity.png 2788E958
+4F22801B\dx\retro\mods\palettes\suits\spiderballglow\fusion_power.png C08F0B25
+4F22801B\dx\retro\mods\palettes\suits\spiderballglow\fusion_varia.png 60B909B0
+4F22801B\dx\retro\mods\palettes\suits\spiderballglow\gravity.png DE397142
+4F22801B\dx\retro\mods\palettes\suits\spiderballglow\power.png C08F0B25
+4F22801B\dx\retro\mods\palettes\suits\spiderballglow\varia.png C08F0B25
+4F22801B\dx\retro\mods\titles\config.ini ED8AB88A
+4F22801B\dx\retro\mods\titles\titlebackground.png DEED2A09
+4F22801B\dx\sd\AM2R.exe B3D20183
+4F22801B\dx\sd\D3DX9_43.dll 4374AA0F
+4F22801B\dx\sd\data.win 0669D7D9
+4F22801B\dx\sd\musAlphaFight.ogg 08F12571
+4F22801B\dx\sd\musAncientGuardian.ogg 88A3B40D
+4F22801B\dx\sd\musArachnus.ogg E76BC09D
+4F22801B\dx\sd\musArea1A.ogg AE52B562
+4F22801B\dx\sd\musArea1B.ogg 238ACD88
+4F22801B\dx\sd\musArea2A.ogg C3C8D48D
+4F22801B\dx\sd\musArea2B.ogg 959A55A1
+4F22801B\dx\sd\musArea3A.ogg CAEF9719
+4F22801B\dx\sd\musArea3B.ogg D888C2FC
+4F22801B\dx\sd\musArea4A.ogg 55834493
+4F22801B\dx\sd\musArea4B.ogg 54E2A236
+4F22801B\dx\sd\musArea5A.ogg 27A5029B
+4F22801B\dx\sd\musArea5B.ogg 26BB477D
+4F22801B\dx\sd\musArea6A.ogg E6C9B9CA
+4F22801B\dx\sd\musArea7A.ogg 52D2CA3F
+4F22801B\dx\sd\musArea7B.ogg 364D66FE
+4F22801B\dx\sd\musArea7C.ogg 2EB2826A
+4F22801B\dx\sd\musArea7D.ogg 2E77175B
+4F22801B\dx\sd\musArea8.ogg 022EACFA
+4F22801B\dx\sd\musCaveAmbience.ogg 83ACCABF
+4F22801B\dx\sd\musCaveAmbienceA4.ogg 833153CC
+4F22801B\dx\sd\musCredits.ogg 0B89975B
+4F22801B\dx\sd\musEnding.ogg 0DA5F3AB
+4F22801B\dx\sd\musEris.ogg 4F885E05
+4F22801B\dx\sd\musFanfare.ogg 6B7B36AE
+4F22801B\dx\sd\musGammaFight.ogg 02DDC293
+4F22801B\dx\sd\musGenesis.ogg E0AC283D
+4F22801B\dx\sd\musHatchling.ogg 459CF197
+4F22801B\dx\sd\musIntroSeq.ogg 7A84FFF7
+4F22801B\dx\sd\musItemAmb.ogg ABD61D3A
+4F22801B\dx\sd\musItemAmb2.ogg 889781DC
+4F22801B\dx\sd\musItemGet.ogg 1D137B13
+4F22801B\dx\sd\musLabAmbience.ogg 72EA3379
+4F22801B\dx\sd\musMainCave.ogg 4ADC2FF0
+4F22801B\dx\sd\musMainCave2.ogg 9323ECEA
+4F22801B\dx\sd\musMetroidAppear.ogg 96459D47
+4F22801B\dx\sd\musMonsterAppear.ogg 5FF2A09E
+4F22801B\dx\sd\musOmegaFight.ogg 9B4FF400
+4F22801B\dx\sd\musQueen.ogg 44D1CB0B
+4F22801B\dx\sd\musQueen2.ogg 908D269E
+4F22801B\dx\sd\musQueen3.ogg 1C31D53F
+4F22801B\dx\sd\musQueenBreak.ogg 03874A83
+4F22801B\dx\sd\musQueenIntro.ogg C950D27F
+4F22801B\dx\sd\musReactor.ogg AB04C286
+4F22801B\dx\sd\musSAXAppear.ogg C65485EE
+4F22801B\dx\sd\musSAXChase.ogg 0B78E8BE
+4F22801B\dx\sd\musSAXEnvironmentalAmbience.ogg 90746414
+4F22801B\dx\sd\musTester.ogg B06D9891
+4F22801B\dx\sd\musTitle.ogg 38765DAA
+4F22801B\dx\sd\musTorizoA.ogg B640ACC3
+4F22801B\dx\sd\musTorizoB.ogg FBC29F57
+4F22801B\dx\sd\musZetaFight.ogg 5DCC7500
+4F22801B\dx\sd\options.ini 95D8DBDE
+4F22801B\dx\sd\lang\english.ini FD493666
+4F22801B\dx\sd\lang\languages.txt C84D1B6E
+4F22801B\dx\sd\lang\fonts\04b09.ttf 766D6BAE
+4F22801B\dx\sd\lang\fonts\04b24.ttf 57A9187C
+4F22801B\dx\sd\lang\fonts\Acknowledge_TT_BRK.ttf 9814DC8E
+4F22801B\dx\sd\lang\fonts\Glasstown_NBP.ttf 565C3F4F
+4F22801B\dx\sd\lang\fonts\sizes.ini F22B0251
+4F22801B\dx\sd\lang\fonts\uni_05_53.ttf BD67E0DF
+4F22801B\dx\sd\mods\palettes\monsters\alpha.png CC025836
+4F22801B\dx\sd\mods\palettes\monsters\config.ini B72C8565
+4F22801B\dx\sd\mods\palettes\monsters\gamma.png F1D9AB38
+4F22801B\dx\sd\mods\palettes\monsters\omega.png 1AE11C31
+4F22801B\dx\sd\mods\palettes\monsters\queen.png A0436FFE
+4F22801B\dx\sd\mods\palettes\monsters\queen_blood_drop.png EB4F4CC6
+4F22801B\dx\sd\mods\palettes\monsters\queen_blood_particle.png AA0D33B0
+4F22801B\dx\sd\mods\palettes\monsters\queen_dead.png A5C43AE9
+4F22801B\dx\sd\mods\palettes\monsters\zeta.png 4DE631F3
+4F22801B\dx\sd\mods\palettes\monsters\zeta_blur.png 792C49FB
+4F22801B\dx\sd\mods\palettes\multitroid\baby_metroid.png 3C7E6351
+4F22801B\dx\sd\mods\palettes\multitroid\multitroid.png 6B9E8AC0
+4F22801B\dx\sd\mods\palettes\multitroid\multitroid_fusion.png 8AA0868F
+4F22801B\dx\sd\mods\palettes\multitroid\spiderball.png F61A9F54
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_0.png 61717C53
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_1.png 8604E6C9
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_10.png E55A49ED
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_11.png CCF4165E
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_12.png 9930EA48
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_13.png 74489708
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_14.png 2878E40B
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_15.png 7EF2D627
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_2.png 36B7D91D
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_3.png E567DF04
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_4.png 21A002DA
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_5.png C6F180C0
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_6.png 5C746BD6
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_7.png E50FCE92
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_8.png 20BED6A4
+4F22801B\dx\sd\mods\palettes\multitroid\dark_player_icons\sDarkMultitroidPlayer_9.png 88C2F82E
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_0.png 27AD9670
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_1.png D6B55F81
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_10.png 35A4D8EA
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_11.png 171A3B7E
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_12.png 9BFAC7D9
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_13.png 69360E5D
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_14.png 9F83C5FD
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_15.png B680A51E
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_2.png 0CD5F01F
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_3.png 60724A5B
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_4.png 6C70D03C
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_5.png 88D41275
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_6.png 81CF25A8
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_7.png 12971180
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_8.png 87F3626B
+4F22801B\dx\sd\mods\palettes\multitroid\map_icons\sMultitroidMapIcon_9.png 33E37FB9
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_0.png 428F7514
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_1.png 9AFECE46
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_10.png 4D60626F
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_11.png 2A04CC7F
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_12.png 143618DB
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_13.png 654174D8
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_14.png 18168A74
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_15.png 1360B764
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_2.png 12960DD9
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_3.png C09B927E
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_4.png 7CB7FE02
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_5.png 21606DAE
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_6.png C8AEFFB2
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_7.png FB8AF649
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_8.png 83C9569F
+4F22801B\dx\sd\mods\palettes\multitroid\player_icons\sMultitroidPlayer_9.png A926625C
+4F22801B\dx\sd\mods\palettes\suits\fusion_gravity.png D52B77F9
+4F22801B\dx\sd\mods\palettes\suits\fusion_omega.png 561E1286
+4F22801B\dx\sd\mods\palettes\suits\fusion_power.png 279E5790
+4F22801B\dx\sd\mods\palettes\suits\fusion_varia.png 2CB49A4C
+4F22801B\dx\sd\mods\palettes\suits\gravity.png 2CF9DA54
+4F22801B\dx\sd\mods\palettes\suits\power.png 420217FA
+4F22801B\dx\sd\mods\palettes\suits\varia.png 789E5A80
+4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\fusion_gravity.png B3240504
+4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\fusion_omega.png D0C558F9
+4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\fusion_power.png 725CD202
+4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\fusion_varia.png 52A76FD1
+4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\gravity.png F96BF2B5
+4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\power.png 72F7776E
+4F22801B\dx\sd\mods\palettes\suits\morphtrailcolors\varia.png 57406EE5
+4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\fusion_gravity.png 1C9B2834
+4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\fusion_omega.png 477AA9CB
+4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\fusion_power.png CD85BDF2
+4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\fusion_varia.png 25CD7951
+4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\gravity.png 4C439E4B
+4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\power.png 1CF61179
+4F22801B\dx\sd\mods\palettes\suits\spacejumptrails\varia.png 4E0DFA0C
+4F22801B\dx\sd\mods\palettes\suits\spiderballglow\fusion_gravity.png 2788E958
+4F22801B\dx\sd\mods\palettes\suits\spiderballglow\fusion_omega.png ECBC187F
+4F22801B\dx\sd\mods\palettes\suits\spiderballglow\fusion_power.png C08F0B25
+4F22801B\dx\sd\mods\palettes\suits\spiderballglow\fusion_varia.png 60B909B0
+4F22801B\dx\sd\mods\palettes\suits\spiderballglow\gravity.png DE397142
+4F22801B\dx\sd\mods\palettes\suits\spiderballglow\power.png C08F0B25
+4F22801B\dx\sd\mods\palettes\suits\spiderballglow\varia.png C08F0B25
+4F22801B\dx\sd\server\AM2R Server.exe 106024B7
+4F22801B\dx\sd\server\D3DX9_43.dll 4374AA0F
+4F22801B\dx\sd\server\data.win 6FD633C3
+4F22801B\dx\sd\server\dictionary.json 36A108A1
+4F22801B\dx\sd\server\item_dict.json 4C59D70B
+4F22801B\dx\sd\server\options.ini 856CC0B8
+4F22801B\lang\english.ini 75C4E4D8
+4F22801B\lang\languages.txt C84D1B6E
+4F22801B\lang\fonts\04b09.ttf 766D6BAE
+4F22801B\lang\fonts\04b24.ttf 57A9187C
+4F22801B\lang\fonts\Acknowledge_TT_BRK.ttf 9814DC8E
+4F22801B\lang\fonts\Glasstown_NBP.ttf 45EED135
+4F22801B\lang\fonts\sizes.ini F22B0251
+4F22801B\lang\fonts\uni_05_53.ttf BD67E0DF
+4F22801B\mods\palettes\monsters\alpha.png CC025836
+4F22801B\mods\palettes\monsters\config.ini 74ED6FBA
+4F22801B\mods\palettes\monsters\gamma.png F1D9AB38
+4F22801B\mods\palettes\monsters\omega.png 1AE11C31
+4F22801B\mods\palettes\monsters\queen.png A0436FFE
+4F22801B\mods\palettes\monsters\queen_blood_drop.png EB4F4CC6
+4F22801B\mods\palettes\monsters\queen_blood_particle.png AA0D33B0
+4F22801B\mods\palettes\monsters\queen_dead.png A5C43AE9
+4F22801B\mods\palettes\monsters\zeta.png 4DE631F3
+4F22801B\mods\palettes\monsters\zeta_blur.png 792C49FB
+4F22801B\mods\palettes\suits\Inactive\fusion_gravity.png D52B77F9
+4F22801B\mods\palettes\suits\Inactive\fusion_power.png 279E5790
+4F22801B\mods\palettes\suits\Inactive\fusion_varia.png 2CB49A4C
+4F22801B\mods\palettes\suits\Inactive\gravity.png 2CF9DA54
+4F22801B\mods\palettes\suits\Inactive\power.png 420217FA
+4F22801B\mods\palettes\suits\Inactive\varia.png 789E5A80
+4F22801B\mods\palettes\suits\MorphTrailColors\fusion_gravity.png B3240504
+4F22801B\mods\palettes\suits\MorphTrailColors\fusion_power.png 725CD202
+4F22801B\mods\palettes\suits\MorphTrailColors\fusion_varia.png 52A76FD1
+4F22801B\mods\palettes\suits\MorphTrailColors\gravity.png F96BF2B5
+4F22801B\mods\palettes\suits\MorphTrailColors\power.png 72F7776E
+4F22801B\mods\palettes\suits\MorphTrailColors\varia.png 57406EE5
+4F22801B\mods\palettes\suits\SpaceJumpTrails\fusion_gravity.png 1C9B2834
+4F22801B\mods\palettes\suits\SpaceJumpTrails\fusion_power.png CD85BDF2
+4F22801B\mods\palettes\suits\SpaceJumpTrails\fusion_varia.png 25CD7951
+4F22801B\mods\palettes\suits\SpaceJumpTrails\gravity.png 4C439E4B
+4F22801B\mods\palettes\suits\SpaceJumpTrails\power.png 1CF61179
+4F22801B\mods\palettes\suits\SpaceJumpTrails\varia.png 4E0DFA0C
+4F22801B\mods\palettes\suits\SpiderBallGlow\fusion_gravity.png 2788E958
+4F22801B\mods\palettes\suits\SpiderBallGlow\fusion_power.png C08F0B25
+4F22801B\mods\palettes\suits\SpiderBallGlow\fusion_varia.png 60B909B0
+4F22801B\mods\palettes\suits\SpiderBallGlow\gravity.png DE397142
+4F22801B\mods\palettes\suits\SpiderBallGlow\power.png C08F0B25
+4F22801B\mods\palettes\suits\SpiderBallGlow\varia.png C08F0B25
