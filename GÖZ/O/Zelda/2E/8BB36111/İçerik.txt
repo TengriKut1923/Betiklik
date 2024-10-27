@@ -5,7 +5,7 @@ D3DX9_43.dll
 data.win
 gmsched.dll
 options.ini
-ZALiA_Q13.exe
+ZALiA_Q14.exe
 
 other\automate_code01.txt
 other\RandoPalettes01.json

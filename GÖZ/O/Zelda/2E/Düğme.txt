@@ -1,0 +1,42 @@
+Xbox Controller:
+UP,DOWN,LEFT,RIGHT: D-Pad
+NES button 'A' (Jump): 'A button'
+NES button 'B' (Attack): 'X button'
+NES button 'START' (Pause Menu): 'Start button'
+NES button 'SELECT' (Cast Spell): 'Back button'
+
+Keyboard Controls:
+RIGHT:           'D' or             'ARROW RIGHT'
+LEFT:               'A' or             'ARROW LEFT'
+UP:                   'W' or            'ARROW UP'
+DOWN:         'S' or              'ARROW DOWN'
+NES button 'A' (Jump):  'SPACE BAR'
+NES button 'B' (Attack): 'Ctrl'
+NES button 'START' (Pause Menu): 'Enter'
+NES button 'SELECT' (Cast Spell): 'T'
+
+Options:
+'O': Open Options Menu.
+'M': Toggle music.
+'N': Toggle sounds.
+
+Window:
+Fullscreen: 'F'
+Windowed Scale Up:        hold 'Ctrl',                   press 'G'
+Windowed Scale Down: hold 'Ctrl' + 'Shift', press 'G'
+
+Quit App:
+'Escape' (twice if in fullscreen)  or  hold Xbox Right Trigger + Xbox Left Trigger + Xbox Back(Select) + Xbox Start
+
+Developer Tools:
+To Activate/Deactivate: hold 'Ctrl' + 'Alt' + 'Shift', press 'Q'
+'U': Toggle show app performance bar
+'J': Toggle show XY points
+'R': Toggle show hitboxes
+'H': Toggle show solid collision points
+'V': Toggle show HP numerical values
+'K': Toggle show sprite outline
+'L': Toggle show OG camera area
+
+You can pause the app and advance frames one at a time.
+Hold Left_Trigger+Right_Trigger+Right_Bumper and press Left_Bumper to pause the app. From there, pressing Right_Bumper will advance the frame. Holding Right_Bumper will run game normally but will pause app when released. Pressing Left_Bumper will unpause app(go back to normal).
