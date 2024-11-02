@@ -1,0 +1,4 @@
+842CA84B.ico
+QSFVShll.dll
+QuickSFV.exe
+QuickSFV.ini
